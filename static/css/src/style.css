@@ -1,0 +1,178 @@
+.loadingmodal {
+    display:    none;
+    position:   fixed;
+    z-index:    1030;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .7 )
+    50% 50%
+    no-repeat;
+}
+
+.loadingmodal span {
+    font-size: 64pt;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+//     url('http://i.stack.imgur.com/FhHRx.gif')
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading {
+    overflow: hidden;
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .loadingmodal {
+    display: block;
+}
+
+.bordered{
+    border:1px solid blue;
+}
+
+// .ui-state-default{
+//     font-weight: normal;
+//     color: #000;
+// }
+
+// #linkingCriteriaSuggestionContainer{
+//     overflow-y: auto;
+// }
+
+// #activeQueryContainer{
+//     overflow-y: auto;
+// }
+
+// .ANDContainer{
+//     /*border: 1px solid #eee;*/
+//     /*width: 142px;*/
+//     min-height: 20px;
+//     list-style-type: none;
+//     padding: 5px;
+//     background: #bbb;
+//     /*float: left;*/
+//     /*margin-right: 10px;*/
+// }
+
+.ANDContainerHeader{
+    background-color: white;
+}
+
+// #conditionBoxPlaceholder{
+//     /*width: 142px;*/
+//     min-height: 20px;
+//     list-style-type: none;
+//     margin: 5px;
+//     padding: 0 0 0 0;
+//     border: 1px dotted black;
+// }
+
+#manualQuerySpecifier{
+    min-height: 20px;
+    list-style-type: none;
+    margin: 5px;
+    padding: 0 0 0 0;
+    border: 1px dotted black;
+}
+
+#activeQueryDiv{
+    /*border: 1px solid lightgray;*/
+    /*width: 155px;*/
+    min-height: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0 20px 0;
+    /*float: left;*/
+    /*margin-right: 10px;*/
+}
+
+.ui-state-highlight {
+    height: 1.2em;
+    line-height: 1.2em;
+}
+
+.link.attributeBased{
+    fill: none;
+    stroke: #ccc;
+    /*stroke-dasharray: 25,10;*/
+}
+
+.link.predefined{
+    fill: none;
+    /*stroke: #ccc;*/
+    // stroke: orange;
+    stroke: steelblue;
+}
+
+.link.hybrid{
+    fill: none;
+    /*stroke: #ccc;*/
+    // stroke: steelblue;
+    stroke: maroon;
+    // #AA3A35 google maroon
+    // #F19E39 google orange
+    /*stroke-dasharray: 20,10,5,5,5,10;*/
+}
+
+.link.evidence{
+    fill: none;
+    stroke:black;
+    stroke-dasharray: 2,2;
+}
+
+.link.faded{
+    opacity: 0.2;
+}
+
+.node.faded{
+    opacity: 0.3;
+}
+
+/*.valuePickerSliderHandle{*/
+    /*width: 3em;*/
+    /*height: 1.6em;*/
+    /*top: 50%;*/
+    /*margin-top: -.8em;*/
+    /*text-align: center;*/
+    /*line-height: 1.6em;*/
+/*}*/
+
+.valuePickerSlider{
+    width: 100px;
+    /*float:right;*/
+}
+
+.queryCondition.satisfiedCondition{
+    background-color: red;
+}
+
+#ex4Slider {
+  width: 266px;
+  margin-bottom: 15px;
+}
+#ex4Slider .slider-handle,
+#ex4Slider .slider-selection {
+  background: orange;
+}
+#ex4Slider .slider-selection {
+  opacity: 0.7;
+}
+
+#ex5Slider {
+  width: 266px;
+  margin-bottom: 15px;
+}
+#ex5Slider .slider-handle,
+#ex5Slider .slider-selection {
+  background: orange;
+}
+#ex5Slider .slider-selection {
+  opacity: 0.7;
+}

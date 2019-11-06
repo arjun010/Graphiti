@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/bootstrap-select.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/jquery-ui.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/src-v1/style.css">
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/d3-context-menu.css">
+
+    <script type="text/javascript" src="static/js/vendor/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/d3.v3.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap-select.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/d3-context-menu.js"></script>
+    <script type="text/javascript" src="static/js/vendor/google-charts.js"></script>
+
+    <!--<script type="text/javascript" src="static/js/vendor/jLouvain.js"></script>-->
+
+    <!--<script type="text/javascript" src="static/data/LeMiserables/LeMiserables.js"></script>-->
+    <!--<script type="text/javascript" src="static/data/EURO-16/EURO.js"></script>-->
+    <!--<script type="text/javascript" src="static/data/EURO-16/nodeMap.js"></script>-->
+</head>
+<body>
+<div>
+    <div id="graphDiv"></div>
+    <div id="legendDiv"></div>
+    <div id="detailsDiv">
+        <div id="nodeDetails"></div>
+        <hr>
+        <div id="edgeDetails"></div>
+        <hr>
+        <div id="actionHistoryDiv"></div>
+    </div>
+</div>
+<div>
+    <button id="acceptChangesButton" class="btn btn-primary hide">Apply Changes to Database</button>
+    <span id="actionResponseDiv" class="hide">
+        <span class="glyphicon glyphicon-ok-circle" id="acceptActionButton"></span><span class="glyphicon glyphicon-remove-circle" id="rejectActionButton"></span>
+    </div>
+</div>
+<div id="visualEncodingBox">
+    <b>Color</b> by:
+    <select class="selectpicker" id="colorDropdown">
+        <option value=""></option>
+    </select>
+    <b>Size</b> by:
+    <select class="selectpicker" id="sizeDropdown">
+        <option value=""></option>
+    </select>
+</div>
+<div id="databaseDisplayDiv">
+    <div id="nodesDbDisplay"></div>
+    <div id="linksDbDisplay"></div>
+</div>
+<div class="loadingmodal"></div>
+<div id="newNodeModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">New Node Details</h4>
+            </div>
+            <div class="modal-body" id="newNodeModalBody">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-success" data-dismiss="modal" id="addNewNodeButton">Add</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="newLinkModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">New Link Details</h4>
+            </div>
+            <div class="modal-body" id="newLinkModalBody">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-success" data-dismiss="modal" id="addNewLinkButton">Add</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="nodeSplitModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">New Node Details</h4>
+            </div>
+            <div class="modal-body" id="nodeSplitModalBody">
+                <p>Existing node: <span id="existingNodeTextPlaceholder"></span></p>
+                <div class="newNodeDetails"></div>
+                <hr>
+                <div>
+                    <input type="radio" name="splittedNodeLinksOperation" value="all"> All Links
+                    <input type="radio" name="splittedNodeLinksOperation" value="selected"> Selected Links
+                    <input type="radio" name="splittedNodeLinksOperation" value="none" checked="true"> None
+                </div>
+                Outgoing Links:
+                <div id="existingNodeOutgoingLinks"></div>
+                <hr>
+                Incoming Links:
+                <div id="existingNodeIncomingLinks"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-success" data-dismiss="modal" id="addSplitNodeButton">Add</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="nodeMergeModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">New Node Details</h4>
+            </div>
+            <div class="modal-body" id="nodeMergeModalBody">
+                <p>Merging nodes: <span id="existingNodesTextPlaceholder"></span></p>
+                <div class="newNodeDetails"></div>
+                <hr>
+                <div>
+                    <input type="radio" name="mergedNodeLinksOperation" value="all"> All Links
+                    <input type="radio" name="mergedNodeLinksOperation" value="selected"> Selected Links
+                    <input type="radio" name="mergedNodeLinksOperation" value="none" checked="true"> None
+                </div>
+                Outgoing Links:
+                <div id="existingNodesOutgoingLinks"></div>
+                <hr>
+                Incoming Links:
+                <div id="existingNodesIncomingLinks"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-success" data-dismiss="modal" id="mergeNodeButton">Merge</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+</body>
+<script type="text/javascript" src="static/js/src-v1/Action.js"></script>
+<script type="text/javascript" src="static/js/src-v1/ActionManager.js"></script>
+<script type="text/javascript" src="static/js/src-v1/globalVars.js"></script>
+<script type="text/javascript" src="static/js/src-v1/contextMenu.js"></script>
+<script type="text/javascript" src="static/js/src-v1/utils.js"></script>
+<script type="text/javascript" src="static/js/src-v1/dataKnife.js"></script>
+<script type="text/javascript" src="static/js/src-v1/OperationManager.js"></script>
+<script type="text/javascript" src="static/js/src-v1/queryModalManager.js"></script>
+<script type="text/javascript" src="static/js/src-v1/graphQueryManager.js"></script>
+<script type="text/javascript" src="static/js/src-v1/dbTableRenderer.js"></script>
+<script type="text/javascript" src="static/js/src-v1/graph.js"></script>
+<script type="text/javascript" src="static/js/src-v1/main.js"></script>
+<script type="text/javascript">
+    d3.selection.prototype.moveToFront = function() {
+        return this.each(function(){
+            this.parentNode.appendChild(this);
+        });
+    };
+</script>
+</html>

@@ -1,0 +1,5 @@
+Name,Sales,PrimarySegment,OtherSegments,Employees
+A,100,Seg1,Seg2;Seg3,25
+B,95,Seg2,Seg1;Seg3,40
+C,100,Seg3,Seg1;Seg2,10000
+D,10,Seg2,Seg1;Seg3,12000

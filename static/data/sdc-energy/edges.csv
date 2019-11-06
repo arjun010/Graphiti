@@ -1,0 +1,443 @@
+source,target,licensing,exlicensing,manufacturing,oem,marketing,rnd,strategic,supply,techtrans,cballiance,jv
+JOEL,Isramco Negev,0,0,0,0,0,0,0,0,0,0,1
+JOEL,Delek Oil Exploration Ltd,0,0,0,0,0,0,0,0,0,0,1
+JOEL,Oil Exploration of Paz Ltd,0,0,0,0,0,0,0,0,0,0,1
+JOEL,Naphtha Israel Petroleum Oil,0,0,0,0,0,0,0,0,0,0,1
+JOEL,Delek Fuel Corp,0,0,0,0,0,0,0,0,0,0,1
+Isramco Negev,Delek Oil Exploration Ltd,0,0,0,0,0,0,0,0,0,0,1
+Isramco Negev,Oil Exploration of Paz Ltd,0,0,0,0,0,0,0,0,0,0,1
+Isramco Negev,Naphtha Israel Petroleum Oil,0,0,0,0,0,0,0,0,0,0,1
+Isramco Negev,Delek Fuel Corp,0,0,0,0,0,0,0,0,0,0,1
+Delek Oil Exploration Ltd,Oil Exploration of Paz Ltd,0,0,0,0,0,0,0,0,0,0,1
+Delek Oil Exploration Ltd,Naphtha Israel Petroleum Oil,0,0,0,0,0,0,0,0,0,0,1
+Delek Oil Exploration Ltd,Delek Fuel Corp,0,0,0,0,0,0,0,0,0,0,1
+Oil Exploration of Paz Ltd,Naphtha Israel Petroleum Oil,0,0,0,0,0,0,0,0,0,0,1
+Oil Exploration of Paz Ltd,Delek Fuel Corp,0,0,0,0,0,0,0,0,0,0,1
+Naphtha Israel Petroleum Oil,Delek Fuel Corp,0,0,0,0,0,0,0,0,0,0,1
+Conoco Timon-Pechora Ltd,Arkhangelskgeologia(Russia),0,0,0,0,0,0,0,0,0,1,1
+Wintershall Holding GmbH,Zarubezhnegtegaz,0,0,1,0,0,0,0,1,0,0,1
+Wintershall Holding GmbH,Zarubezhnegtegaz,0,0,0,0,1,0,0,0,0,0,1
+British Petroleum Co PLC,PETRONAS,0,0,0,0,0,0,0,0,0,0,1
+OMV AG,Slovnaft as,0,0,1,0,0,0,0,0,0,0,1
+Monfrini(Montecatini),UCAR Carbon Italia,0,0,1,0,0,0,0,0,0,0,1
+Austrian Danube Steamship Co,Ceskoslovenska Plavba Dunajska,0,0,0,0,1,0,0,0,0,0,1
+British Petroleum Co PLC,Turkiye Petrolleri AO,0,0,0,0,0,0,0,0,0,0,1
+Ansaldo SpA(FINEMECCANICA/IRI),Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Orava Niznansd SP,Herwig Kruezhuber,0,0,0,0,0,0,0,0,0,0,1
+Administratia Porturilor,Plan und Bau,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,OMV AG,0,0,0,0,1,0,0,0,0,0,1
+Lukoil,Rosneft,0,0,0,0,1,0,0,0,0,0,1
+Lukoil,Agip SpA(ENI/Italy),0,0,0,0,0,0,1,0,0,0,0
+Rosneft,Agip SpA(ENI/Italy),0,0,0,0,0,0,1,0,0,0,0
+CHZ Novaky(Czechoslovakia),Slovnaft as,0,0,0,0,0,0,1,0,0,0,0
+CHZ Novaky(Czechoslovakia),Enichem Augusta SpA(Enichem),0,0,1,0,0,0,0,0,0,0,1
+Slovnaft as,Enichem Augusta SpA(Enichem),0,0,1,0,0,0,0,0,0,0,1
+Texaco Exploration North Egypt,Phillips Petroleum Co North,0,0,1,0,0,0,0,0,0,0,1
+Texaco Exploration North Egypt,KM Egypt Inc(Kerr-McGee Corp),0,0,0,0,0,0,0,0,0,0,1
+Phillips Petroleum Co North,KM Egypt Inc(Kerr-McGee Corp),0,0,0,0,0,0,0,0,0,0,1
+Paz Oil Exploration Ltd,JOEL,0,0,0,0,0,0,0,0,0,0,1
+Kyivenerho,Krimenerho,0,0,0,0,0,0,1,0,0,0,0
+Enisud,Nuovo Pignone,0,0,1,0,0,0,0,0,0,1,1
+Agip SpA(ENI/Italy),Lukoil,0,0,0,0,0,0,1,0,0,0,0
+OAO Komineft,Uninsk NGDU(Russia),0,0,0,0,0,0,0,0,0,0,1
+OMV AG,Slovnaft as,0,0,1,0,0,0,0,0,0,1,1
+Lukoil,Rosneft,0,0,1,0,0,0,0,0,0,1,1
+Lukoil,Kazakhstan Pipeline Ventures,0,0,0,0,0,0,0,0,0,1,1
+Rosneft,Kazakhstan Pipeline Ventures,0,0,0,0,0,0,0,0,0,1,1
+Zaliv Shipyard(Ukraine),Fram Shipping Ltd,0,0,0,0,0,0,0,0,0,1,1
+Turkiye Petrolleri AO,Kazakhstan National Petroleum,0,0,0,0,1,0,0,0,0,0,1
+Agip SpA(ENI/Italy),Societa Rete Gas Italia,0,0,0,0,1,0,0,0,0,1,1
+Lukoil,RITEK,0,0,0,0,0,0,1,0,0,0,0
+Lukoil,Rosneft,0,0,0,0,1,0,0,0,0,0,1
+RITEK,Rosneft,0,0,1,0,0,1,0,0,0,0,1
+British Petroleum Co PLC,Baltic Shipping Line,0,0,1,0,0,1,0,0,0,0,1
+British Petroleum Co PLC,Baltic Navagation Co,0,0,1,0,0,1,0,0,0,0,1
+British Petroleum Co PLC,Perm Nefteorgsintec Assn,0,0,1,0,1,0,0,0,0,0,1
+British Petroleum Co PLC,St Petersburg Neftenalivnoy,0,0,1,0,1,0,0,0,0,0,1
+Baltic Shipping Line,Baltic Navagation Co,0,0,1,0,1,0,0,0,0,0,1
+Baltic Shipping Line,Perm Nefteorgsintec Assn,0,0,1,0,1,0,0,0,0,0,1
+Baltic Shipping Line,St Petersburg Neftenalivnoy,0,0,1,0,1,0,0,0,0,0,1
+Baltic Navagation Co,Perm Nefteorgsintec Assn,0,0,1,0,1,0,0,0,0,0,1
+Baltic Navagation Co,St Petersburg Neftenalivnoy,0,0,1,0,1,0,0,0,0,0,1
+Perm Nefteorgsintec Assn,St Petersburg Neftenalivnoy,0,0,1,0,1,0,0,0,0,0,1
+Kepez Elektrik TAS,Rumeli Elektrik Yatirim AS,0,0,1,0,1,0,0,0,0,0,1
+Atilla Dogan,SOCAR,0,0,1,0,1,0,0,0,0,0,1
+Ente Nazionale Idrocarburi,Egyptian Gen Petro Corp,0,0,0,0,0,0,1,0,0,0,0
+Egyptian Electricity Authority,Electric Power Systems(Egypt),0,0,0,0,0,0,0,0,0,0,1
+Egyptian Electricity Authority,Nuclear Power Plants Authority,0,0,0,0,0,0,0,0,0,0,1
+Electric Power Systems(Egypt),Nuclear Power Plants Authority,0,0,0,0,0,0,0,0,0,0,1
+NK KazMunaiGaz,Litwin/ACP,0,0,0,0,0,0,0,0,0,0,1
+Sol SpA,Energetika e Plinstal,0,0,0,0,0,0,0,0,0,0,1
+OAO Tyumenneftegeofizika,Ukrneft,0,0,0,0,1,0,0,0,0,0,1
+Gazprom,Wintershall Holding GmbH,0,0,0,0,1,0,0,0,0,0,1
+Petromin SA,Forum Maritime SA,0,0,0,0,0,0,0,0,0,1,1
+Azerbaijan International Oil,Fugro Maklina,0,0,0,0,0,0,0,0,0,0,1
+KELAG Kaerntner Elektrizitaets,Verbund AG,0,0,0,0,0,0,1,0,0,1,0
+Tiszamenti Vegyi Muvek,Vinylchloride Concern,0,0,0,0,0,0,0,0,0,1,1
+Permneft,SOCO Perm Russia(Perm Russia),0,0,0,0,0,0,1,0,0,0,0
+Rosshel'f,Gazprom,0,0,1,0,1,0,0,0,0,0,1
+PETRONAS,British Petroleum Co PLC,0,0,0,0,0,0,0,0,0,0,1
+British Petroleum Co PLC,PETRONAS,0,0,0,0,0,1,0,0,0,0,1
+Yukosneftegaz,Eser,0,0,1,0,0,0,0,0,0,0,1
+Ansaldo SpA(FINEMECCANICA/IRI),Rao-Ees,0,0,1,0,0,0,0,0,0,0,1
+Yukosneftegaz,Surgutneftegaz,0,0,0,0,0,0,0,0,0,1,1
+Yukosneftegaz,Lukoil,0,0,0,0,1,0,0,0,0,0,1
+Surgutneftegaz,Lukoil,0,0,1,0,1,0,0,0,0,0,1
+Upetrom SA(Romania),KHK Poisk,0,0,1,0,0,0,0,0,0,0,1
+Hallwood Caspian Petroleum LLC,Azerbaijan International Oil,0,0,1,0,0,0,0,0,0,0,1
+Azerigas,State Petroleum Institute for,0,0,1,0,0,0,0,0,0,0,1
+Phoenix Resources Co of Egypt,Repsol Exploracion Egipto SA,0,0,0,0,0,0,0,1,0,0,1
+Yuzhkazneftegaz(Kazakhstan),Yuzhkazgeologia,0,0,0,0,0,0,0,0,0,0,1
+Kuibyshevneft(Russia),ZAO Bashneft-TNK,0,0,0,0,0,0,0,0,0,0,1
+British Petroleum Co PLC,Turkiye Petrolleri AO,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Minatom,SPbAEP,0,0,1,0,0,0,0,0,0,0,1
+Minatom,Rosenergoatom,0,0,0,0,0,0,0,0,0,1,1
+Minatom,Atomenergoeksport,0,0,0,0,0,0,0,0,0,0,1
+SPbAEP,Rosenergoatom,0,0,1,0,0,0,0,0,0,0,1
+SPbAEP,Atomenergoeksport,0,0,1,0,0,0,0,0,0,0,1
+Rosenergoatom,Atomenergoeksport,0,0,1,0,0,0,0,0,0,0,1
+Yuganskneftegaz,Yukosneftegaz,0,0,1,0,0,0,0,0,0,0,1
+Gazprom,MOL Rt,0,0,1,0,0,0,0,0,0,0,1
+TVK,Cordusio,0,0,1,0,0,0,0,0,0,0,1
+Kogalymneftegaz,Lukoil,0,0,0,0,0,0,1,0,0,0,0
+Amoco Egypt Oil Co(Amoco Corp),Egypt Gas Co,0,0,0,0,0,0,0,0,0,0,1
+Amoco Egypt Oil Co(Amoco Corp),IOEC Inc(Agip SpA),0,0,1,0,0,0,0,0,0,0,1
+Egypt Gas Co,IOEC Inc(Agip SpA),0,0,0,0,0,0,0,0,0,0,1
+SNGN Romgaz SA,Wintershall Holding GmbH,0,0,0,0,1,0,0,0,0,0,1
+Megionneftegazgeologiya,Megionneftegaz,0,0,0,0,1,0,0,0,0,0,1
+Gazprom,Kopelouzos Group,0,0,0,0,1,0,0,0,0,0,1
+Poltava Gasprom,Poltavaneftegasgeologia,0,0,0,0,1,0,0,0,0,0,1
+Egyptian Gen Petro Corp,International Egyptian Oil,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),Gazprom,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Property Management Committee,Soyuzmorgeo(Russia),0,0,0,0,0,0,0,0,0,0,1
+Property Management Committee,Severmorneftegeofizika,0,0,0,0,0,0,0,0,0,0,1
+Property Management Committee,Marine Geophysics Research,0,0,0,0,0,0,0,0,0,0,1
+Property Management Committee,MAGE Co,0,0,0,0,0,0,0,0,0,0,1
+Soyuzmorgeo(Russia),Severmorneftegeofizika,0,0,0,0,0,0,0,0,0,0,1
+Soyuzmorgeo(Russia),Marine Geophysics Research,0,0,0,0,0,0,0,0,0,0,1
+Soyuzmorgeo(Russia),MAGE Co,0,0,0,0,0,0,0,0,0,0,1
+Severmorneftegeofizika,Marine Geophysics Research,0,0,0,0,0,0,0,0,0,0,1
+Severmorneftegeofizika,MAGE Co,0,0,0,0,0,0,0,0,0,0,1
+Marine Geophysics Research,MAGE Co,0,0,0,0,0,0,0,0,0,0,1
+Mobil Oil Tulpar Inc(Mobil),Poisk(Kazakhstan),0,0,0,0,0,0,0,0,0,0,1
+Mobil Oil Tulpar Inc(Mobil),CNPC - AMG,0,0,0,0,0,0,0,0,0,0,1
+Mobil Oil Tulpar Inc(Mobil),Tulpar Munai Ltd,0,0,0,0,0,0,0,0,0,0,1
+Poisk(Kazakhstan),CNPC - AMG,0,0,0,0,0,0,0,0,0,0,1
+Poisk(Kazakhstan),Tulpar Munai Ltd,0,0,0,0,0,0,0,0,0,0,1
+CNPC - AMG,Tulpar Munai Ltd,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Kaliningradmorneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Ukraine Oil International Inc,Ukrneft,0,0,0,0,0,0,0,0,0,0,1
+Moldovagaz(Moldova),Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),British Petroleum Co PLC,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,Bulgargas(Bulgaria),0,0,0,0,0,0,0,0,0,0,1
+Pennzoil Caspian Corp,Agip SpA(ENI/Italy),0,0,0,0,0,0,0,0,0,1,1
+Pennzoil Caspian Corp,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Pennzoil Caspian Corp,Agip Azerbaijan BV,0,0,0,0,1,0,0,0,0,0,1
+Pennzoil Caspian Corp,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),Agip Azerbaijan BV,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,Agip Azerbaijan BV,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Agip Azerbaijan BV,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+CNPC - AMG,Tulpar Munai Ltd,0,0,0,0,0,0,0,0,0,0,1
+Ente Nazionale Idrocarburi SpA,Amoco Egypt Oil Co(Amoco Corp),0,0,0,0,0,0,0,0,0,0,1
+Ente Nazionale Idrocarburi SpA,EGPC,0,0,0,0,0,0,0,0,0,0,1
+Amoco Egypt Oil Co(Amoco Corp),EGPC,0,0,0,0,0,0,0,0,0,0,1
+SNGN Romgaz SA,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),INA dd,0,0,0,0,0,0,0,0,0,0,1
+Edison SpA,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,Zarubezhneft' OAO,0,0,1,0,0,0,0,0,0,1,1
+Yukosneftegaz,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+INA dd,Agip SpA(ENI/Italy),0,0,0,0,0,0,0,0,0,0,1
+Gazprom,NIS ad Novi Sad,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Metran,0,0,0,0,0,0,0,0,0,0,1
+MOL Rt,EVN AG,0,0,0,0,0,1,0,0,0,0,1
+Agip SpA(ENI/Italy),Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Turkiye Petrolleri AO,Mobil Expl Mediterranean Inc,0,0,1,0,0,0,1,0,0,0,0
+Egyptian Gen Petro Corp,Amoco Egypt Oil Co(Amoco Corp),0,0,0,0,0,0,1,0,0,0,0
+Bulgargas(Bulgaria),Undisclosed Russian Co,0,0,0,0,0,0,1,0,0,0,0
+Shell Pecten(Shell Oil Co),Chornomornaftohaz,0,0,0,0,0,0,1,0,0,0,0
+Bulgargas(Bulgaria),Wintershall Holding GmbH,0,0,0,0,0,0,0,0,0,0,1
+Egyptian Gen Petro Corp,Agip SpA(ENI/Italy),0,0,0,0,0,0,0,0,0,0,1
+Alte SA,TEB SA,0,0,0,0,0,0,1,0,0,0,0
+Rosneft,Undisclosed Iraqi Co,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Zarubezhneft' OAO,0,0,0,0,0,0,0,0,0,0,1
+Undisclosed Iraqi Co,Zarubezhneft' OAO,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,MOL Rt,0,0,0,0,0,0,0,0,0,0,1
+PBS Brno,Energoinvest Sarajevo,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,Ente Nazionale per l'Energia,0,0,0,0,0,0,0,0,0,0,1
+Ente Nazionale per l'Energia,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+PETRONAS,British Petroleum Co PLC,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Tatneft' im V D Shashina,Zarubezhneft' OAO,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,PETRONAS,0,0,1,0,0,0,0,0,0,1,1
+PETRONAS,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Mac Petroleum,0,0,0,0,0,0,0,0,0,0,1
+Exxon Azerbajan(Exxon Corp),SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+Italgas SpA,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+TNK,Lukoil,0,0,0,0,0,0,1,0,0,0,0
+TNK,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,Gazprom,0,0,0,0,0,1,1,0,0,0,0
+MOL Rt,TVK,0,0,0,1,0,0,0,0,0,0,1
+Moscow Central Fuel Company,Udmurtia Oil Company,0,0,0,0,0,0,0,1,0,0,1
+Chornomornaftohaz,Gazprom,0,0,1,0,0,0,1,0,0,0,0
+EVN AG,Wiener Stadtwerke Holding AG,0,0,1,0,0,0,1,0,0,0,0
+GADOT YAM,Marittima Fluviale of Savonna,0,0,1,0,0,0,1,0,0,0,0
+Gazprom,Zarubezhneft' OAO,0,0,1,0,0,0,0,0,0,0,1
+British Petroleum Co PLC,Rosneft,0,0,0,0,0,0,0,0,0,1,1
+British Petroleum Co PLC,Rosneft,0,0,0,0,0,0,1,0,0,0,0
+Union Texas Qobustan Ltd,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Chornomornaftohaz,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Tatneft' im V D Shashina,Moscow Central Fuel Company,0,0,0,0,0,0,0,0,0,0,1
+Amoco Caspian Sea Petroleum Co,SOCAR,0,0,0,0,0,0,1,0,0,0,0
+Amoco Caspian Sea Petroleum Co,Monument Resources Caspian Ltd,0,0,0,0,0,0,1,0,0,0,0
+Amoco Caspian Sea Petroleum Co,Central Fuel Caspian Sea Ltd,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Monument Resources Caspian Ltd,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Central Fuel Caspian Sea Ltd,0,0,0,0,0,0,1,0,0,0,0
+Monument Resources Caspian Ltd,Central Fuel Caspian Sea Ltd,0,0,0,0,0,0,1,0,0,0,0
+Verbund AG,Savske Elektrarne Ljubljana,0,0,0,0,0,0,1,0,0,0,0
+DEM,Metall Co,0,0,0,0,0,0,1,0,0,0,0
+Croatian Oil Company,Reussag Wasser und Rohrtechnik,0,0,0,0,0,0,1,0,0,0,0
+INA Industrija Nafte dd,Lukoil,0,0,0,0,0,0,1,0,0,0,0
+Lukoil,Arkhangelskgeoldobycha,0,0,0,0,0,0,1,0,0,0,0
+OAO KomiTEK,Nobel Oil,0,0,0,0,0,0,0,0,0,0,1
+Emasz,MOL Rt,0,0,1,0,0,0,1,0,0,0,0
+Burgas,Naftgaran Engineesring Service,0,0,0,0,0,0,0,0,0,0,1
+MOL Rt,Yukosneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Utility Acea,Elsag-Finmeccanica,0,0,0,0,0,0,1,0,0,0,0
+Onassis Group,Petros J Goulandris Sons Group,0,0,0,0,0,0,1,0,0,0,0
+RAO EES,Verbund AG,0,0,0,0,0,0,0,0,0,0,1
+Almaz,Cantieri Navali Baglietto SpA,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,NK Slavneft,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Ukos Petroleum Bulgaria,0,0,0,0,0,0,0,0,0,0,1
+NK Slavneft,Ukos Petroleum Bulgaria,0,0,0,0,0,0,0,0,0,0,1
+EES,Rosuglesbyt,0,0,0,0,0,0,1,0,0,1,0
+CIR SpA,Verbund AG,0,0,0,0,0,0,1,0,0,0,0
+Petrom SA,Kazokhoil(Kazakhstan),0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Prometheus Gas SA,Damco Energy SA,0,0,0,0,0,0,0,0,0,0,1
+Edison International SpA,Egyptian Petrochemicals Co,0,0,0,0,0,0,0,1,0,0,1
+EES,Ukrenergo,0,0,0,0,0,0,0,0,0,0,1
+Yukosneftegaz,MOL Rt,0,0,0,0,0,0,1,0,0,0,0
+MOL Rt,Yukosneftegaz,0,0,0,0,0,0,1,0,0,0,0
+Turkmenneft,Turkmengaz,0,0,0,0,0,0,0,0,0,0,1
+Agip SpA(ENI/Italy),Italgas SpA,0,0,0,0,0,0,1,0,0,0,0
+Acea SpA,Azienda Energetica Municipale,0,0,0,0,0,0,1,0,0,0,0
+Acea SpA,Italgas SpA,0,0,0,0,0,0,0,0,0,0,1
+Azienda Energetica Municipale,Italgas SpA,0,0,0,0,0,0,1,0,0,0,0
+TNK,Galichina Oil Refinery,0,0,0,0,0,0,1,0,0,0,0
+Verbund AG,Energie AG Oberoesterreich,0,0,0,0,0,0,0,0,0,0,1
+Verbund AG,Energie Steiermark AG,0,0,0,0,1,0,0,0,0,1,1
+Energie AG Oberoesterreich,Energie Steiermark AG,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Yukosneftegaz,0,0,0,0,0,0,1,0,0,0,0
+Lukoil,Yukosneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Azienda Energetica Municipale,AEM Torino SpA,0,0,0,0,0,0,0,0,0,0,1
+Azienda Energetica Municipale,Acea SpA,0,0,0,0,0,0,0,0,0,0,1
+AEM Torino SpA,Acea SpA,0,0,0,0,0,0,0,0,0,0,1
+Undisclosed Italian Energy,Enel SpA,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,Gazprom_Sub_List,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Trans-Nafta,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,TTurkish Petroleum Corporation,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,Gazprom_Sub_List,0,0,0,0,0,0,0,0,0,0,1
+Edison SpA,Undisclosed Italian Energy,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Gazprom_Sub_List,0,0,0,0,0,0,1,0,0,0,0
+TNK,CNPC - AMG,0,0,0,0,0,0,1,1,0,0,0
+Verbund AG,Energie Steiermark AG,0,0,0,0,0,0,1,0,0,0,0
+fischer+bhm INGENIEURE,TB Piesslinger Ges.m.b.H.,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+TNK,MKG ITERA,0,0,0,0,0,0,1,0,0,0,0
+EGAS,Egyptian Gen Petro Corp,0,0,0,0,0,0,0,0,0,0,1
+EES,OAO Yantar'energo,0,0,0,0,0,0,0,0,0,0,1
+Wintershall Holding GmbH,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,Saipem SpA,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Transgaz SA,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,SNGN Romgaz SA,0,0,0,0,0,0,1,0,0,0,0
+Transgaz SA,SNGN Romgaz SA,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,NK KazMunaiGaz,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,International Oil Corp,0,0,0,0,0,0,1,0,0,0,0
+NK KazMunaiGaz,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Gazprom_Sub_List,0,0,0,0,0,0,0,0,0,0,1
+OMV AG,Lasmo(MP) Ltd,0,0,0,0,0,0,0,0,0,0,1
+Technigaz(Bouygues SA),Enagas SA,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Delmagyarorszagi Aramszolgalta,Degaz,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Surgutneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Naftohaz Ukrainy,0,0,0,0,0,0,0,0,0,0,1
+Naftohaz Ukrainy,MOL Rt,0,0,0,0,0,0,0,0,0,0,1
+Khazar Shipping Co,KazMorTransFlot CJSC,0,0,0,0,0,0,0,0,0,0,1
+Zarubezhneft' OAO,MKG ITERA,0,0,0,0,0,0,0,0,0,0,1
+Zarubezhneft' OAO,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+MKG ITERA,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+EnergieAllianz Austria GmbH,Verbund AG,0,0,0,0,0,0,1,1,0,0,0
+Lukoil,NK KazMunaiGaz,0,0,0,0,0,0,1,0,0,0,0
+AceaElectrabel SpA,Meta SpA,0,0,0,0,0,0,0,0,0,0,1
+Navigation Maritime Bulgare,Odessos Shiprepair Yard SA,0,0,0,0,0,0,0,0,0,0,1
+National Iranian Oil Co,PETRONAS,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Raiffeisen Investment AG,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,TNK-BP Holding,0,0,0,0,0,0,1,0,0,0,0
+NK KazMunaiGaz,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+NIS ad Novi Sad,Lukoil,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,NOVATEK,0,0,0,0,0,0,1,0,0,0,0
+OMV AG,Chornomornaftohaz,0,0,0,0,0,0,0,0,0,0,1
+PetroHungaria Kft,MOL Rt,0,0,0,0,0,0,1,0,0,0,0
+ENI SpA,Calik Enerji Sanayi ve Ticaret,0,0,0,0,0,0,0,0,0,0,1
+Naftohaz Ukrainy,Gazprom_Sub_List,0,0,1,0,0,0,0,0,0,0,1
+Naftohaz Ukrainy,Gazprom_Sub_List,0,0,0,0,0,0,1,0,0,0,0
+Spazio Energia SrL,Sunerg Solar SrL,0,0,0,0,0,0,1,0,0,0,0
+SOCAR,Turcas Petrol AS,0,0,0,0,0,0,1,0,0,0,0
+NK KazMunaiGaz,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+AEM Cremona SpA,ASM Pavia SpA,0,0,0,0,0,0,0,0,0,0,1
+AEM Cremona SpA,Astem Lodi SpA,0,0,0,0,0,0,0,0,0,0,1
+AEM Cremona SpA,Cogeme SpA,0,0,0,0,0,0,1,0,0,0,0
+ASM Pavia SpA,Astem Lodi SpA,0,0,0,0,0,0,0,0,0,0,1
+ASM Pavia SpA,Cogeme SpA,0,0,0,0,0,0,0,0,0,0,1
+Astem Lodi SpA,Cogeme SpA,0,0,0,0,0,0,0,0,0,0,1
+NOVATEK,OGK-5,0,0,0,0,0,0,0,0,0,0,1
+AceaElectrabel SpA,PugliaEnergy,0,0,0,0,0,0,0,0,0,0,1
+OOO Sinopetro,OOO Yuzhuralneft,0,0,0,0,0,0,0,0,0,0,1
+Gas Plus SpA,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Chornomornaftohaz,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Sovkomflot,0,0,0,0,0,0,0,0,0,0,1
+Public Gas Corp SA,Edison SpA,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,Enel SpA,0,0,0,0,0,0,0,0,0,0,1
+Ascopiave SpA,Etra SpA,0,0,0,0,0,0,0,0,0,0,1
+Turcas Petrol AS,SOCAR,0,0,0,0,0,0,1,0,0,0,0
+Turcas Petrol AS,Aksoy Holding AS,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Aksoy Holding AS,0,0,0,0,0,0,0,0,0,0,1
+EGAS,GASCO,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Atomstroiexport JSC,Gazprom_Sub_List,0,0,0,0,0,0,0,0,0,0,1
+OGK-1,TNK-BP Holding,0,0,0,0,0,0,0,0,0,0,1
+TNK-BP Holding,OGK-1,0,0,0,0,0,0,0,0,0,0,1
+Nadra Ukrainy,Poltavanaftogazgeologiya,0,0,1,0,0,0,0,0,0,0,1
+Nadra Ukrainy,Ukrnafta,0,0,0,0,0,0,0,0,0,0,1
+Poltavanaftogazgeologiya,Ukrnafta,0,0,0,0,0,0,1,0,0,0,0
+NK KazMunaiGaz,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+MOL Plc,PetroHungaria Kft,0,0,0,0,0,0,0,0,0,0,1
+Elject,Egyptian Electricity Holding,0,0,0,0,0,0,1,0,0,0,0
+E ON Elektrik Uretim Ltd Sti,Turcas Elektrik Uretim AS,0,0,0,0,0,0,1,0,0,0,0
+OMV AG,Geoplin SA,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,Statoil ASA,0,0,0,0,0,0,1,0,0,0,0
+Atel Energia Srl,En & En,0,0,0,0,0,0,1,0,0,0,0
+Dolomiti Energia SpA,Edison SpA,0,0,0,0,0,0,0,0,0,0,1
+Dolomiti Energia SpA,Enel Produzione SpA,0,0,0,0,0,0,0,0,1,0,1
+Gazprom,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+EGAS,GASCO,0,0,0,0,0,0,0,0,0,0,1
+Sakhalin Energy Investment Co,Sovkomflot,0,0,0,0,0,0,0,0,0,0,1
+RAO EES Rossii,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+National Iranian Oil Co,Edison SpA,0,0,0,0,0,0,0,0,0,0,1
+OMV AG,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,RAO EES Rossii,0,0,0,0,0,0,0,0,0,0,1
+Maire Tecnimont SpA,Petrojet,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Naftohaz Ukrainy,0,0,0,0,0,0,0,0,0,0,1
+ENPPI,GASCO,0,0,0,0,0,0,1,0,0,0,0
+Thrace Basin Natural Gas,Pinnacle Turkey Inc,0,0,0,0,0,0,0,0,0,0,1
+SEL SpA,Edison SpA,0,0,0,0,0,0,0,0,0,0,1
+Mosregiongaz,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,National Iranian Oil Co,0,0,0,0,0,0,0,0,0,0,1
+Vyborg Shipyard JSC,Uljanik dd,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,ENI SpA,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,PETRONAS,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,PETRONAS,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,ENI SpA,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,PETRONAS,0,0,1,0,0,0,1,0,0,0,0
+ENI SpA,PETRONAS,0,0,0,0,0,0,1,0,0,0,0
+Iride SpA,A2A SpA,0,0,0,0,0,0,1,0,0,0,0
+Rosneft,Gazprom,0,0,0,0,0,0,1,0,0,0,0
+Rosneft,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,TNK-BP Holding,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Surgutneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,TNK-BP Holding,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Surgutneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,TNK-BP Holding,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,Surgutneftegaz,0,0,0,0,0,0,0,0,0,0,1
+TNK-BP Holding,Surgutneftegaz,0,0,0,0,0,0,0,0,0,0,1
+Rimera,Tatneft' im V D Shashina,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Srbijagas,0,0,0,0,0,0,0,0,0,0,1
+SEL SpA,Enel SpA,0,0,0,0,0,0,0,0,0,0,1
+TVEL,GP NAEK Enerrhoatom,0,0,0,0,0,0,0,0,0,0,1
+SOCAR,Turgas SA,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,MOL Plc,0,0,0,0,0,0,1,0,0,0,0
+A2A SpA,Gazprom_Sub_List,0,0,0,0,0,0,0,0,0,0,1
+SNGN Romgaz SA,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+MOL Plc,Ascent Hungary,0,0,0,0,0,0,0,0,0,0,1
+Petkim Petrokimya Holding AS,Akkok Sanayi ve Yatirim,0,0,1,0,0,0,0,0,0,0,1
+Aksa Enerji Uretim AS,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+Aksa Enerji Uretim AS,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Ascopiave SpA,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+RD KMG,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Sovkomflot,0,0,1,0,0,0,1,0,0,0,0
+Rosneft,Calik Enerji Sanayi ve Ticaret,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+Sovkomflot,Calik Enerji Sanayi ve Ticaret,0,0,0,0,0,0,0,0,0,0,1
+Sovkomflot,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+Calik Enerji Sanayi ve Ticaret,ENI SpA,0,0,0,0,0,0,1,0,0,0,0
+Bulgartransgaz EAD,SOCAR,0,0,0,0,0,0,1,0,0,0,0
+Gazprom,Statoil ASA,0,0,0,0,0,0,1,0,0,0,0
+TNK-BP Holding,IOCOI,0,0,0,0,0,0,1,0,0,0,0
+Enel Produzione SpA,SEL SpA,0,0,0,0,0,0,1,0,0,0,0
+TerniEnergia SpA,Errenergia Srl,0,0,0,0,0,0,1,0,0,0,0
+NIS ad Novi Sad,Neftegazinkor,0,0,0,0,0,0,0,0,0,0,1
+Zignago Vetro SpA,Saint Gobain Vetri SpA,0,0,0,0,0,0,1,0,0,0,0
+NOVATEK,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Namvaran Engineering & Mgmt Co,PIDEC,0,0,0,0,0,0,0,0,0,0,1
+Enel SpA,Holding MRSK,0,0,0,0,0,0,0,0,0,0,1
+CIR SpA,Sorgenia SpA,0,0,0,0,0,0,0,0,0,0,1
+Saipem SpA,OSK,0,0,0,0,0,0,0,0,0,0,1
+Chornomornaftohaz,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Navigation Maritime Bulgare,Bulgarian River Shipping JS Co,0,0,1,0,0,0,0,0,0,0,1
+Lukoil,ANK Bashneft,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,ANK Bashneft,0,0,0,0,0,0,0,0,0,0,1
+OMV AG,SOCAR,0,0,1,0,0,0,0,0,0,0,1
+Gazprom,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,PETRONAS,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,SeverEnergiya,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,ENI SpA,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Wintershall Holding GmbH,0,0,0,0,0,0,1,0,0,0,0
+ENI SpA,Wintershall Holding GmbH,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,ENI SpA,0,0,0,0,0,0,1,0,0,0,0
+BioGazEnergoStroy,Gazprom,0,0,0,0,0,0,1,1,0,0,0
+Plinovodi doo,Energetika Ljubljana doo,0,0,0,0,0,0,0,0,0,0,1
+Snam SpA,Fluxys SA,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Naftohaz Ukrainy,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,MKG ITERA,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,MKG ITERA,0,0,0,0,0,0,0,0,0,0,1
+Srbijagas,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+TNK-BP Holding,Inter RAO EES,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,NOVATEK,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,NOVATEK,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,Statoil ASA,0,0,0,0,0,0,0,0,0,0,1
+ENI SpA,Nadra Ukrainy,0,0,0,0,0,0,0,0,0,0,1
+PETRONAS,Versalis SpA,0,0,0,0,0,0,0,0,0,0,1
+RD KMG,MOL Plc,0,0,0,0,0,1,0,0,0,0,1
+Petromar Resources SA,Beach Petroleum SRL,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Lukoil,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,NK KazMunaiGaz,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,NK KazMunaiGaz,0,0,1,0,0,0,0,0,0,0,1
+Gazprom,Magyar Villamos Muvek Zrt,0,0,0,0,0,0,0,0,0,0,1
+Shemen Oil & Gas Resources Ltd,Caspian Drilling Co Ltd,0,0,0,0,0,0,0,0,0,0,1
+NOVATEK,Gazprom,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Plinacro doo,0,0,0,0,0,0,0,0,0,0,1
+Statoil ASA,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Lukoil,Tatneft' im V D Shashina,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,SANORS,0,0,0,0,0,0,1,0,0,0,0
+SOCAR,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+Elton Chemicals SA,BETA Securities SA,0,0,0,0,0,0,0,0,0,0,1
+Alte Enerji AS,Turcas Enerji Holding AS,0,0,0,0,0,0,1,0,0,0,0
+Enel SpA,Rosneft,0,0,0,0,0,0,0,0,0,0,1
+GEKh,NIS ad Novi Sad,0,0,1,0,0,0,0,0,0,0,1
+Rosneft,NK KazMunaiGaz,0,0,0,0,0,0,0,0,0,0,1
+Gazprom_Sub_List,Gazprom,0,0,0,0,0,0,1,0,0,0,0
+PETRONAS,ENI SpA,0,0,0,0,0,0,0,0,1,0,1
+Rosneft,Statoil ASA,0,0,0,0,0,0,0,0,0,0,1
+Statoil ASA,Tsakos Energy Navigation Ltd,0,0,0,0,0,0,0,0,0,0,1
+Rosneft,SOCAR,0,0,0,0,0,0,1,0,0,0,0
+Rosneft,SOCAR,0,0,0,0,0,0,0,0,0,0,1
+Gazprom,Lukoil,0,0,1,0,0,0,0,0,0,0,1
+Egyptian Gen Petro Corp,Edison SpA,0,0,0,0,0,0,0,0,0,0,1

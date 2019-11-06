@@ -1,0 +1,27 @@
+{
+  "node_1":{
+    "name" : "Node-A",
+    "mValue" : 100,
+    "type" : "Type1"
+  },
+  "node_2":{
+    "name" : "Node-B",
+    "mValue" : 20,
+    "type" : "Type1"
+  },
+  "node_3":{
+    "name" : "Node-C",
+    "mValue" : 150,
+    "type" : "Type2"
+  },
+  "node_4":{
+    "name" : "Node-D",
+    "mValue" : 300,
+    "type" : "Type2"
+  },
+  "node_5":{
+    "name" : "Node-E",
+    "mValue" : 250,
+    "type" : "Type1"
+  }
+}

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Graphiti</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/css/bootstrap-slider.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/paper/bootstrap.min.css" id="theme-css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="static/css/vendor/bootstrap.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/bootstrap-select.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/jquery-ui.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/src/style.css">
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/d3-context-menu.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/vendor/d3.tip.css">
+    <link rel="stylesheet" type="text/css" href="static/css/hp.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/bootstrap-slider.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/d3.v3.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap-select.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/d3-context-menu.js"></script>
+    <script type="text/javascript" src="static/js/vendor/google-charts.js"></script>
+    <script type="text/javascript" src="static/js/vendor/underscore-min.js"></script>
+    <script type="text/javascript" src="../static/js/vendor/d3.tip.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.7/download.min.js"></script>
+    <script type="text/javascript" src="../static/js/vendor/jszip.min.js"></script>
+    <script type="text/javascript" src="../static/js/vendor/jszipFileSaver.min.js"></script>
+    <script type="text/javascript" src="static/js/hp.js"></script>
+    <script src="http://marvl.infotech.monash.edu/webcola/cola.v3.min.js"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Graphiti</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Search and add a node" id="nodeInputBox">
+            </div>
+          </form>
+          <form class="navbar-form navbar-left" role="pull">
+            <span class="label label-default">Node Type</span>
+            <select id="aggregationAttributeDropdown" class="select2 form-control"></select>
+            <button type="button" class="btn btn-default" id="pullNetworkButton">Load All</button>
+          </form>
+          <form class="navbar-form navbar-right" role="control">
+            <!-- <button type="button" class="btn btn-default" id="removeZeroDegreeNodesButton">Remove isolate(s)</button> -->
+            <!-- <button type="button" class="btn btn-default" id="pauseLayoutButton">Pause layout</button> -->
+            <button type="button" class="btn btn-default" id="downloadButton">Download Network</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div id="visCanvas"></div>
+
+    <div class="btn-group-vertical" role="group" id="bottom-left-toolbar">
+        <button type="button" class="btn btn-default" id="removeZeroDegreeNodesButton" data-toggle="tooltip" data-placement="right" title="Remove Isolate(s)"><i class="fa fa-connectdevelop"></i></button>
+        <button type="button" class="btn btn-default" id="pauseLayoutButton" data-toggle="tooltip" data-placement="right" title="Pause/Resume Layout"><i class="fa fa-pause"></i></button>
+        <button type="button" class="btn btn-default" onclick="graphRenderer.resetZoom()" data-toggle="tooltip" data-placement="right" title="Fit to Screen"><i class="fa fa-arrows-alt"></i></button>
+        <button type="button" class="btn btn-default" id="toggle-opacity" data-toggle="tooltip" data-placement="right" title="Edge Opacity Settings"><i class="fa fa-cog"></i></button>
+    </div>
+    <div class="hidden" id="opacity-control">
+        Pre-defined Edges <input id="ex1" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="70" class="pull-right"/><br>
+        User-defined Edges <input id="ex2" data-slider-id='ex2Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="70" class="pull-right"/><br>
+        Hybrid Edges <input id="ex3" data-slider-id='ex3Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="70" class="pull-right"/>
+        Repulsion <input id="ex4" data-slider-id='ex4Slider' type="text" data-slider-min="0" data-slider-max="500" data-slider-step="1" data-slider-value="100" class="pull-right"/>
+        Link Distance <input id="ex5" data-slider-id='ex5Slider' type="text" data-slider-min="0" data-slider-max="500" data-slider-step="1" data-slider-value="100" class="pull-right"/>
+    </div>
+
+
+    <div id="rightPanelTop" class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <h5>&gt; Network Metrics <button type="button" class="btn btn-default btn-sm pull-right" id="computeNetworkMetricsButton">Compute</button></h5>
+                <ul id="networkMetricsDisplayDiv"></ul>
+                <hr>
+                <h5>&gt; Node Details</h5>
+                <ul id="nodeDetailsDisplayDiv">Hover over a node.</ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="handle-bottom"><i class="fa fa-bars"></i></div>
+
+    <nav class="navbar navbar-default navbar-fixed-bottom">
+      <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 bottom-left">
+                <h5>Recommendations</h5>
+                <div id="linkingCriteriaEvidence"></div>
+                <div id="linkingCriteriaSuggestionContainer"><p style="margin-top:10px;">Demonstrate edges on the canvas to get recommendations.</p style="margin-top:10px;"></div>
+            </div>
+            <div class="col-md-6 bottom-right">
+                <h5>Edge Types <button type="button" class="btn btn-info btn-sm pull-right" id="conditionBoxPlaceholder"><i class="fa fa-plus-square"></i> Specify a manual condition</button></h5>
+                <div id="activeQueryContainer">
+                    <ul id="activeQueryDiv" class="connectedSortable">Specify conditions to create edge types.</ul>
+                    <div id="manualQuerySpecifier" class="hide">
+                        Connect <b><span class="aggregationAttributeLabel"></span>s</b> if <select id="manualQueryAttrDropdown" style="width: 10em;"></select> <select id="manualQueryConditionOperatorDropdown" style="width: 12em;"></select> <span id="manualQueryValueSpan"></span>.
+                        <div class="btn-group btn-group-xs pull-right">
+                            <button id="applyManualQueryIcon" class="btn btn-success"><i class="fa fa-check"></i> Add</button>
+                            <button id="cancelManualQueryIcon" class="btn btn-default"><i class="fa fa-times"></i> Cancel</button>
+                        </div>
+                    </div>
+                    <!-- <div id="conditionBoxPlaceholder"><span style="color: lightgray;">Click to specify manual query</span></div> -->
+                </div>
+            </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="loadingmodal"><span>loading</span></div>
+    <!-- <div id="spinner"><span>processing</span></div> -->
+</body>
+<script type="text/javascript">
+    $(document).on({
+        ajaxStart: function() { $('body').addClass("loading");},
+        ajaxStop: function() { $('body').removeClass("loading"); }
+    });
+</script>
+<script type="text/javascript" src="../static/js/src/Condition.js"></script>
+<script type="text/javascript" src="../static/js/src/GlobalVars.js"></script>
+<script type="text/javascript" src="../static/js/src/InterfaceManager.js"></script>
+<script type="text/javascript" src="../static/js/src/SimilarityFunctions.js"></script>
+<script type="text/javascript" src="../static/js/src/Utils.js"></script>
+<script type="text/javascript" src="../static/js/src/GraphRenderer.js"></script>
+<script type="text/javascript" src="../static/js/src/QueryConstructor.js"></script>
+<script type="text/javascript" src="../static/js/src/ConditionConstructor.js"></script>
+<script type="text/javascript" src="../static/js/src/main.js"></script>
+</html>

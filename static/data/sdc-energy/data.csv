@@ -1,0 +1,325 @@
+name,primarySegment,allSegments,country,SIC,latitude,longitude
+JOEL,Mining,Mining;Mining;Mining,Israel,1311,32.0877639,34.8859985
+Isramco Negev,Mining,Mining,Israel,1311,30.8760272,35.0015196
+Delek Oil Exploration Ltd,Mining,Mining,Israel,1311,30.8760272,35.0015196
+Oil Exploration of Paz Ltd,Mining,Mining,Israel,1311,30.8760272,35.0015196
+Naphtha Israel Petroleum Oil,Mining,Mining,Israel,1311,31.7968155,35.2137815559015
+Delek Fuel Corp,Mining,Mining;Mining;Mining,Israel,1311,30.8760272,35.0015196
+Conoco Timon-Pechora Ltd,Mining,Manufacturing;Mining,Russian Fed,1311,64.6863136,97.7453061
+Arkhangelskgeologia(Russia),Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Wintershall Holding GmbH,Mining,"Mining;Mining;Mining;Transportation, Communications, Electric, Gas, And Sanitary Services",Germany,1311,51.3090209,9.4762981
+Zarubezhnegtegaz,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+British Petroleum Co PLC,Mining,"Manufacturing;Mining;Mining;Mining;Wholesale Trade;Manufacturing;Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Manufacturing;Mining;Finance, Insurance, And Real Estate;Manufacturing;Mining",United Kingdom,1382,51.5073219,-0.1276473
+PETRONAS,Mining,Mining;Mining;Mining,Malaysia,1311,3.1387103,101.682099528432
+OMV AG,Mining,Mining;Mining;Mining,Austria,1311,48.2083537,16.3725042
+Slovnaft as,Mining,Manufacturing;Mining,Czech Republic,1311,49.1686623,16.6231418
+Monfrini(Montecatini),Manufacturing,Manufacturing,Italy,2819,42.6384261,12.674297
+UCAR Carbon Italia,Manufacturing,Manufacturing,Italy,2819,42.6384261,12.674297
+Austrian Danube Steamship Co,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4412,47.2000338,13.199959
+Ceskoslovenska Plavba Dunajska,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Slovakia,4412,48.1359085,17.1597440625
+Turkiye Petrolleri AO,Mining,Mining;Mining;Mining,Turkey,1311,39.9220794,32.853758
+Ansaldo SpA(FINEMECCANICA/IRI),Services,Services,Italy,8711,44.40726,8.9338624
+Gazprom,Mining,"Manufacturing;Mining;Mining;Mining;Finance, Insurance, And Real Estate",Russian Fed,1311,55.7516335,37.6187042
+Orava Niznansd SP,Services,Services,Slovakia,8711,48.7411522,19.4528646
+Herwig Kruezhuber,Services,Services,Austria,8711,47.2000338,13.199959
+Administratia Porturilor,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Romania,4412,44.1724166,28.6208196629799
+Plan und Bau,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4412,47.2000338,13.199959
+Lukoil,Mining,Manufacturing;Mining;Mining;Mining;Manufacturing,Russian Fed,1311,55.7516335,37.6187042
+Rosneft,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+Agip SpA(ENI/Italy),Mining,Mining,Italy,1311,45.4667971,9.1904984
+CHZ Novaky(Czechoslovakia),Manufacturing,Manufacturing;Manufacturing;Manufacturing,Czech Republic,2819,49.1686623,16.6231418
+Enichem Augusta SpA(Enichem),Manufacturing,Manufacturing;Manufacturing,Italy,2819,45.4667971,9.1904984
+Texaco Exploration North Egypt,Mining,Mining,Egypt,1311,26.2540493,29.2675469
+Phillips Petroleum Co North,Mining,Mining,Egypt,1311,26.2540493,29.2675469
+KM Egypt Inc(Kerr-McGee Corp),Mining,Mining,Egypt,1311,26.2540493,29.2675469
+Paz Oil Exploration Ltd,Mining,Mining,Israel,1311,30.8760272,35.0015196
+Kyivenerho,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Ukraine,4911,50.4501071,30.5240501
+Krimenerho,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Ukraine,4911,44.9521394,34.1024575
+Enisud,Mining,Mining,Italy,1311,42.6384261,12.674297
+Nuovo Pignone,Manufacturing,Manufacturing;Manufacturing,Italy,3824,43.7698712,11.2555757
+OAO Komineft,Mining,Mining;Mining;Mining,Russian Fed,1311,63.9881421,54.3326073
+Uninsk NGDU(Russia),Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Kazakhstan Pipeline Ventures,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Kazakhstan,4923,47.2286086,65.2093197
+Zaliv Shipyard(Ukraine),Manufacturing,Manufacturing,Ukraine,3731,45.3534002,36.4538645
+Fram Shipping Ltd,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Ukraine,4412,49.4871968,31.2718321
+Kazakhstan National Petroleum,Mining,Mining,Kazakhstan,1311,47.2286086,65.2093197
+Societa Rete Gas Italia,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4923,42.6384261,12.674297
+RITEK,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+Baltic Shipping Line,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4412,64.6863136,97.7453061
+Baltic Navagation Co,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4412,64.6863136,97.7453061
+Perm Nefteorgsintec Assn,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4412,64.6863136,97.7453061
+St Petersburg Neftenalivnoy,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4412,59.9393657,30.3153628
+Kepez Elektrik TAS,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,36.9008783,30.6937117
+Rumeli Elektrik Yatirim AS,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,38.9597594,34.9249653
+Atilla Dogan,Mining,Mining,Turkey,1311,38.9597594,34.9249653
+SOCAR,Mining,Mining;Mining;Mining,Azerbaijan,1311,40.3754289,49.8328549
+Ente Nazionale Idrocarburi,Mining,"Construction;Wholesale Trade;Wholesale Trade;Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Manufacturing;Manufacturing;Construction;Retail Trade;Manufacturing;Manufacturing;Services;Manufacturing;Mining;Finance, Insurance, And Real Estate;Mining;Manufacturing;Mining",Italy,1311,41.8935085,12.4825526
+Egyptian Gen Petro Corp,Mining,"Mining;Mining;Mining;Finance, Insurance, And Real Estate",Egypt,1311,30.0488185,31.2436663
+Egyptian Electricity Authority,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Egypt,4911,26.2540493,29.2675469
+Electric Power Systems(Egypt),"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Egypt,4911,26.2540493,29.2675469
+Nuclear Power Plants Authority,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Egypt,4911,26.2540493,29.2675469
+NK KazMunaiGaz,Mining,Mining;Mining;Mining,Kazakhstan,1311,51.15092055,71.4388595154859
+Litwin/ACP,Services,Services,Kazakhstan,8711,47.2286086,65.2093197
+Sol SpA,Mining,Mining;Mining,Italy,1311,45.5834418,9.2735257
+Energetika e Plinstal,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Slovenia,4925,46.2358001,15.0922149
+OAO Tyumenneftegeofizika,Mining,Mining,Russian Fed,1382,57.1535343,65.5422759
+Ukrneft,Mining,Mining;Mining;Mining,Ukraine,1311,49.4871968,31.2718321
+Petromin SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Romania,4412,45.9852129,24.6859225
+Forum Maritime SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Greece,4412,39.000041,21.9999569
+Azerbaijan International Oil,Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Fugro Maklina,Mining,Mining,Turkey,1311,38.9597594,34.9249653
+KELAG Kaerntner Elektrizitaets,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4911,46.6228162,14.3079604
+Verbund AG,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate;Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4911,48.2083537,16.3725042
+Tiszamenti Vegyi Muvek,Manufacturing,Manufacturing;Manufacturing;Manufacturing,Hungary,2819,47.1817585,19.5060937
+Vinylchloride Concern,Manufacturing,Manufacturing;Manufacturing,Ukraine,2819,49.028894,24.3613198
+Permneft,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+SOCO Perm Russia(Perm Russia),Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Rosshel'f,Mining,Mining;Mining;Mining,Russian Fed,1311,59.9393657,30.3153628
+Yukosneftegaz,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Eser,Mining,Mining,Turkey,1311,38.9597594,34.9249653
+Rao-Ees,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+Surgutneftegaz,Mining,Mining;Mining;Mining,Russian Fed,1311,61.2540328,73.3963985
+Upetrom SA(Romania),Manufacturing,Manufacturing;Mining;Mining;Mining,Romania,3533,44.9417468,26.0236504
+KHK Poisk,Mining,"Mining;Mining;Finance, Insurance, And Real Estate",Kazakhstan,1311,47.2286086,65.2093197
+Hallwood Caspian Petroleum LLC,Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Azerigas,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Azerbaijan,4922,40.3936294,47.7872508
+State Petroleum Institute for,Mining,Services;Services;Mining,Azerbaijan,1311,40.3936294,47.7872508
+Phoenix Resources Co of Egypt,Mining,Mining,Egypt,1311,26.2540493,29.2675469
+Repsol Exploracion Egipto SA,Mining,Mining,Egypt,1311,26.2540493,29.2675469
+Yuzhkazneftegaz(Kazakhstan),Mining,Mining,Kazakhstan,1311,47.2286086,65.2093197
+Yuzhkazgeologia,Mining,Mining,Kazakhstan,1311,47.2286086,65.2093197
+Kuibyshevneft(Russia),Mining,Public Administration;Mining,Russian Fed,1311,64.6863136,97.7453061
+ZAO Bashneft-TNK,Mining,Mining;Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Minatom,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,64.6863136,97.7453061
+SPbAEP,Services,Services;Services,Russian Fed,8711,59.9393657,30.3153628
+Rosenergoatom,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+Atomenergoeksport,"Transportation, Communications, Electric, Gas, And Sanitary Services","Wholesale Trade;Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+Yuganskneftegaz,Mining,Mining,Russian Fed,1311,55.7587019,37.5864705
+MOL Rt,Mining,Mining;Mining;Mining,Hungary,1311,47.4983815,19.0404707
+TVK,Manufacturing,Manufacturing;Manufacturing,Hungary,2819,47.9280341,21.0467056
+Cordusio,Manufacturing,Manufacturing;Manufacturing,Italy,2819,42.6384261,12.674297
+Kogalymneftegaz,Mining,Mining,Russian Fed,1311,55.7516335,37.6187042
+Amoco Egypt Oil Co(Amoco Corp),Mining,Mining,Egypt,1311,29.9592045,31.3163019
+Egypt Gas Co,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Egypt,4924,26.2540493,29.2675469
+IOEC Inc(Agip SpA),Mining,Mining,Italy,1311,42.6384261,12.674297
+SNGN Romgaz SA,Mining,Mining;Mining;Mining,Romania,1311,46.1649111,24.3511266
+Megionneftegazgeologiya,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Megionneftegaz,Mining,Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Kopelouzos Group,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Poltava Gasprom,Mining,Mining,Ukraine,1311,49.4871968,31.2718321
+Poltavaneftegasgeologia,Mining,Mining,Ukraine,1311,49.4871968,31.2718321
+International Egyptian Oil,Mining,Mining;Mining;Mining,Egypt,1311,30.0488185,31.2436663
+Property Management Committee,Mining,Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Soyuzmorgeo(Russia),Mining,Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Severmorneftegeofizika,Mining,Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Marine Geophysics Research,Mining,Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+MAGE Co,Mining,Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Mobil Oil Tulpar Inc(Mobil),Mining,Mining,Kazakhstan,1311,47.2286086,65.2093197
+Poisk(Kazakhstan),Mining,Mining;Mining,Kazakhstan,1311,47.2286086,65.2093197
+CNPC - AMG,Mining,Mining;Mining;Mining,Kazakhstan,1311,50.2796448,57.2124606
+Tulpar Munai Ltd,Mining,Mining;Mining,Kazakhstan,1311,47.2286086,65.2093197
+Kaliningradmorneftegaz,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Ukraine Oil International Inc,Mining,Mining;Mining,Ukraine,1311,51.494099,31.294332
+Moldovagaz(Moldova),"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Moldova,4922,47.286747,28.5110236
+Bulgargas(Bulgaria),"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Bulgaria,4922,42.6073975,25.4856617
+Pennzoil Caspian Corp,Mining,Wholesale Trade;Wholesale Trade;Mining;Manufacturing,Turkey,1311,38.9597594,34.9249653
+Agip Azerbaijan BV,Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Ente Nazionale Idrocarburi SpA,Mining,Mining,Italy,1381,41.8935085,12.4825526
+EGPC,Mining,Mining,Egypt,1311,26.2540493,29.2675469
+INA dd,Mining,Mining,Croatia,1311,45.3269357,14.4409841
+Edison SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Mining;Mining",Italy,4911,45.4667971,9.1904984
+Zarubezhneft' OAO,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+NIS ad Novi Sad,Mining,Mining;Mining;Mining,Serbia,1311,45.2551053,19.845081
+Metran,Manufacturing,Manufacturing,Russian Fed,3824,64.6863136,97.7453061
+EVN AG,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4911,48.09284015,16.2724652987978
+Mobil Expl Mediterranean Inc,Mining,Mining,Turkey,1311,38.9597594,34.9249653
+Undisclosed Russian Co,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Shell Pecten(Shell Oil Co),Mining,Mining,Ukraine,1311,49.4871968,31.2718321
+Chornomornaftohaz,Mining,Mining;Mining;Mining,Ukraine,1311,44.9521394,34.1024575
+Alte SA,Services,Services,Greece,8711,39.000041,21.9999569
+TEB SA,Services,Services,Greece,8711,39.000041,21.9999569
+Undisclosed Iraqi Co,Mining,Mining,Iraq,1381,33.0955793,44.1749775
+PBS Brno,Services,Services,Czech Republic,8711,49.8167003,15.4749544
+Energoinvest Sarajevo,Services,Services,Czech Republic,8711,49.8167003,15.4749544
+ENI SpA,Mining,"Construction;Wholesale Trade;Wholesale Trade;Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Manufacturing;Manufacturing;Construction;Retail Trade;Manufacturing;Manufacturing;Services;Manufacturing;Mining;Finance, Insurance, And Real Estate;Mining;Manufacturing;Mining",Italy,1311,41.8935085,12.4825526
+Ente Nazionale per l'Energia,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,41.8935085,12.4825526
+Tatneft' im V D Shashina,Mining,"Wholesale Trade;Mining;Manufacturing;Services;Finance, Insurance, And Real Estate;Mining;Mining",Russian Fed,1311,54.8996495,52.3014846
+Mac Petroleum,Mining,Mining,Macedonia,1311,41.6171214,21.7168387
+Exxon Azerbajan(Exxon Corp),Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Italgas SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4922,45.0709201,7.685972
+TNK,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+Moscow Central Fuel Company,Mining,Mining,Russian Fed,1311,55.7516335,37.6187042
+Udmurtia Oil Company,Mining,Mining,Russian Fed,1311,57.1982875,52.7618345382518
+Wiener Stadtwerke Holding AG,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate",Austria,4931,48.2083537,16.3725042
+GADOT YAM,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Israel,4412,30.8760272,35.0015196
+Marittima Fluviale of Savonna,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4412,44.3080251,8.4810315
+Union Texas Qobustan Ltd,Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Chornomornaftohaz,Mining,Mining;Mining;Mining,Ukraine,1311,44.9521394,34.1024575
+Amoco Caspian Sea Petroleum Co,Mining,Mining,Azerbaijan,1311,40.3754289,49.8328549
+Monument Resources Caspian Ltd,Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Central Fuel Caspian Sea Ltd,Mining,Mining,Azerbaijan,1311,40.3936294,47.7872508
+Savske Elektrarne Ljubljana,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Slovenia,4911,45.8133113,14.4808369
+DEM,"Transportation, Communications, Electric, Gas, And Sanitary Services","Construction;Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,48.481402,135.07694
+Metall Co,Manufacturing,Manufacturing,Russian Fed,3533,64.6863136,97.7453061
+Croatian Oil Company,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Croatia,4925,45.5643442,17.0118954
+Reussag Wasser und Rohrtechnik,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Croatia,4925,45.5643442,17.0118954
+INA Industrija Nafte dd,Mining,Mining;Mining;Mining,Croatia,1311,45.8131545,15.9770298
+Arkhangelskgeoldobycha,Mining,Mining;Mining;Mining,Russian Fed,1311,64.5430227,40.5371212
+OAO KomiTEK,Mining,Wholesale Trade;Mining;Manufacturing,Russian Fed,1311,63.9881421,54.3326073
+Nobel Oil,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+Emasz,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Hungary,4911,48.1031517,20.7902158
+Burgas,Mining,Mining,Russian Fed,1381,64.6863136,97.7453061
+Naftgaran Engineesring Service,Mining,Mining,Iran,1381,32.9407496,52.9471344
+Utility Acea,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4931,42.6384261,12.674297
+Elsag-Finmeccanica,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4931,42.6384261,12.674297
+Onassis Group,Mining,"Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Finance, Insurance, And Real Estate",Greece,1311,39.000041,21.9999569
+Petros J Goulandris Sons Group,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Greece,4412,39.000041,21.9999569
+RAO EES,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,64.6863136,97.7453061
+Almaz,Manufacturing,Manufacturing;Manufacturing,Russian Fed,3731,59.9393657,30.3153628
+Cantieri Navali Baglietto SpA,Manufacturing,Manufacturing,Italy,3731,44.3595345,8.5749572
+NK Slavneft,Mining,Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+Ukos Petroleum Bulgaria,Mining,Mining,Bulgaria,1311,42.6073975,25.4856617
+EES,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,64.6863136,97.7453061
+Rosuglesbyt,Mining,Mining,Russian Fed,1311,64.6863136,97.7453061
+CIR SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Manufacturing;Manufacturing;Manufacturing;Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Services;Finance, Insurance, And Real Estate;Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Finance, Insurance, And Real Estate",Italy,4911,45.4667971,9.1904984
+Petrom SA,Mining,Mining;Mining;Mining,Romania,1311,44.4361414,26.1027443
+Kazokhoil(Kazakhstan),Mining,Mining,Kazakhstan,1382,47.2286086,65.2093197
+Prometheus Gas SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Greece,4922,39.000041,21.9999569
+Damco Energy SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Greece,4911,37.9841493,23.7279843
+Edison International SpA,Mining,Mining;Mining;Mining,Italy,1311,42.6384261,12.674297
+Egyptian Petrochemicals Co,Mining,Manufacturing;Manufacturing;Mining,Egypt,1311,26.2540493,29.2675469
+Ukrenergo,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Ukraine,4911,50.4501071,30.5240501
+Turkmenneft,Mining,Mining,Turkmenistan,1311,39.3763807,59.3924609
+Turkmengaz,Mining,Mining,Turkmenistan,1311,39.3763807,59.3924609
+Acea SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,41.8935085,12.4825526
+Azienda Energetica Municipale,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,45.4667971,9.1904984
+Galichina Oil Refinery,Mining,Mining,Ukraine,1311,49.8419505,24.0315968
+Energie AG Oberoesterreich,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Public Administration;Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4911,48.3059078,14.286198
+Energie Steiermark AG,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate",Austria,4911,47.0702563,15.4385716
+AEM Torino SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,45.0709201,7.685972
+Undisclosed Italian Energy,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,42.6384261,12.674297
+Enel SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,41.8935085,12.4825526
+Gazprom_Sub_List,Mining,"Manufacturing;Mining;Mining;Mining;Finance, Insurance, And Real Estate",Russian Fed,1311,55.7516335,37.6187042
+Trans-Nafta,Mining,Mining,Russian Fed,1311,55.7516335,37.6187042
+TTurkish Petroleum Corporation,Mining,Mining;Mining;Mining;Mining,Turkey,1311,38.9597594,34.9249653
+fischer+bhm INGENIEURE,Services,Services;Services,Austria,8711,47.2000338,13.199959
+TB Piesslinger Ges.m.b.H.,Services,Services;Services;Services;Services,Austria,8711,47.2000338,13.199959
+MKG ITERA,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+EGAS,Mining,"Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Mining;Mining",Egypt,1311,30.0488185,31.2436663
+OAO Yantar'energo,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,54.7066422,20.5105166
+Saipem SpA,Mining,Mining;Mining;Construction;Services;Mining;Mining,Italy,1382,45.41807,9.27165
+Transgaz SA,Mining,"Transportation, Communications, Electric, Gas, And Sanitary Services;Mining",Romania,1321,46.1649111,24.3511266
+International Oil Corp,Mining,Mining;Mining;Mining,Georgia,1311,32.3293809,-83.1137365
+Lasmo(MP) Ltd,Mining,Mining;Mining;Mining,Italy,1311,44.3036653,9.2093446
+Technigaz(Bouygues SA),Mining,Mining;Mining;Mining,Greece,1311,39.000041,21.9999569
+Enagas SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Spain,4923,40.4167047,-3.7035824
+Delmagyarorszagi Aramszolgalta,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Hungary,4911,46.2546312,20.1486016
+Degaz,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Hungary,4922,46.2546312,20.1486016
+Naftohaz Ukrainy,Mining,Mining;Mining;Mining,Ukraine,1311,50.4501071,30.5240501
+Khazar Shipping Co,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Iran,4412,37.3388456,49.3785519
+KazMorTransFlot CJSC,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Kazakhstan,4412,43.21984255,76.9183518874968
+EnergieAllianz Austria GmbH,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Austria,4911,48.2083537,16.3725042
+AceaElectrabel SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate",Italy,4911,41.8935085,12.4825526
+Meta SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,44.6458885,10.9255707
+Navigation Maritime Bulgare,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Bulgaria,4412,43.2166104,27.9017131
+Odessos Shiprepair Yard SA,Manufacturing,Wholesale Trade;Manufacturing;Manufacturing,Bulgaria,3731,43.2166104,27.9017131
+National Iranian Oil Co,Mining,Mining;Mining;Mining,Iran,1311,35.686172,51.4223519
+Raiffeisen Investment AG,"Finance, Insurance, And Real Estate","Finance, Insurance, And Real Estate",Austria,6211,48.2083537,16.3725042
+TNK-BP Holding,Mining,Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+NOVATEK,Mining,Mining;Mining;Mining,Russian Fed,1311,64.9183927,77.7703583
+PetroHungaria Kft,Mining,Mining;Mining;Mining,Hungary,1382,47.4983815,19.0404707
+Calik Enerji Sanayi ve Ticaret,Mining,Mining;Mining;Mining,Turkey,1311,39.9220794,32.853758
+Spazio Energia SrL,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,43.0443848,12.6181987
+Sunerg Solar SrL,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,43.4574403,12.2405096
+Turcas Petrol AS,Mining,"Wholesale Trade;Mining;Manufacturing;Retail Trade;Retail Trade;Finance, Insurance, And Real Estate;Mining;Mining",Turkey,1311,41.0096334,28.9651646
+AEM Cremona SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,45.1346168,10.0251103
+ASM Pavia SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4924,45.1860043,9.1546375
+Astem Lodi SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Services",Italy,4925,45.3138959,9.503263
+Cogeme SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Services;Services;Services;Public Administration;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4924,45.5670385,9.9986008
+OGK-5,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,56.8391034,60.6082502
+PugliaEnergy,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,42.6384261,12.674297
+OOO Sinopetro,Mining,Mining;Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+OOO Yuzhuralneft,Mining,Mining;Mining;Mining,Russian Fed,1311,51.7674507,55.0971196
+Gas Plus SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4925,45.4667971,9.1904984
+Sovkomflot,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4412,55.7516335,37.6187042
+Public Gas Corp SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Greece,4922,37.9841493,23.7279843
+Edison SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Mining;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Mining;Mining;Mining",Italy,4911,45.4667971,9.1904984
+Ascopiave SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4924,45.8997613,12.1730811
+Etra SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4939,45.7669109,11.7343469
+Aksoy Holding AS,Mining,"Wholesale Trade;Construction;Mining;Construction;Finance, Insurance, And Real Estate;Finance, Insurance, And Real Estate;Mining;Mining",Turkey,1311,41.0096334,28.9651646
+GASCO,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Egypt,4923,30.0488185,31.2436663
+Atomstroiexport JSC,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+OGK-1,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+Nadra Ukrainy,Mining,Mining;Mining;Mining,Ukraine,1311,50.4501071,30.5240501
+Poltavanaftogazgeologiya,Mining,Mining;Mining;Mining,Ukraine,1311,49.4871968,31.2718321
+Ukrnafta,Mining,Mining;Mining;Mining,Ukraine,1311,50.4501071,30.5240501
+MOL Plc,Mining,"Transportation, Communications, Electric, Gas, And Sanitary Services;Manufacturing;Wholesale Trade;Wholesale Trade;Mining;Manufacturing;Wholesale Trade;Mining;Mining",Hungary,1311,47.4983815,19.0404707
+Elject,Services,Construction;Services,Egypt,8711,30.0488185,31.2436663
+Egyptian Electricity Holding,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Egypt,4911,30.0488185,31.2436663
+E ON Elektrik Uretim Ltd Sti,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,38.9597594,34.9249653
+Turcas Elektrik Uretim AS,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,38.9597594,34.9249653
+Geoplin SA,Mining,Mining;Mining;Mining,Croatia,1311,45.5643442,17.0118954
+Statoil ASA,Mining,Wholesale Trade;Mining;Mining;Mining,Norway,1311,58.9680427,5.7324722
+Atel Energia Srl,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,45.4667971,9.1904984
+En & En,Public Administration,Public Administration;Public Administration,Italy,9631,42.6384261,12.674297
+Dolomiti Energia SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4931,46.0664228,11.1257601
+Enel Produzione SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,41.8935085,12.4825526
+Sakhalin Energy Investment Co,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,64.6863136,97.7453061
+RAO EES Rossii,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate",Russian Fed,4911,55.7516335,37.6187042
+Maire Tecnimont SpA,Services,"Services;Mining;Finance, Insurance, And Real Estate",Italy,8711,41.8935085,12.4825526
+Petrojet,Services,Services,Egypt,8711,30.0488185,31.2436663
+ENPPI,Services,Services;Construction;Construction,Egypt,8711,30.0975208,31.3435107
+Thrace Basin Natural Gas,Mining,Mining;Mining;Mining,Turkey,1311,39.9220794,32.853758
+Pinnacle Turkey Inc,Mining,Mining;Mining;Mining,Turkey,1311,38.9597594,34.9249653
+SEL SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,46.4981125,11.3547801
+Mosregiongaz,Mining,Mining;Mining;Mining,Russian Fed,1311,64.6863136,97.7453061
+Vyborg Shipyard JSC,Manufacturing,Manufacturing;Manufacturing,Russian Fed,3731,60.7092159,28.7440507
+Uljanik dd,Manufacturing,Manufacturing,Croatia,3731,44.868823,13.8461349
+Iride SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4939,45.0709201,7.685972
+A2A SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Construction;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,45.5399392,10.2204897
+Rimera,Construction,Construction;Services,Russian Fed,1623,55.7516335,37.6187042
+Srbijagas,Mining,Mining;Mining;Mining,Serbia,1311,45.2551053,19.845081
+SEL SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,46.4981125,11.3547801
+TVEL,Manufacturing,Mining;Manufacturing,Russian Fed,2819,55.7516335,37.6187042
+GP NAEK Enerrhoatom,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Ukraine,4911,50.4501071,30.5240501
+Turgas SA,Mining,Mining;Mining;Mining,Turkey,1311,38.9597594,34.9249653
+Ascent Hungary,Mining,Mining;Mining;Mining,Hungary,1311,47.1817585,19.5060937
+Petkim Petrokimya Holding AS,Manufacturing,Manufacturing;Manufacturing;Manufacturing;Manufacturing;Wholesale Trade;Manufacturing;Manufacturing,Turkey,2911,38.4153421,27.144474
+Akkok Sanayi ve Yatirim,Manufacturing,"Finance, Insurance, And Real Estate;Wholesale Trade;Finance, Insurance, And Real Estate;Manufacturing;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate;Finance, Insurance, And Real Estate",Turkey,2819,41.0096334,28.9651646
+Aksa Enerji Uretim AS,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,41.0096334,28.9651646
+RD KMG,Mining,Mining;Mining;Mining,Kazakhstan,1311,51.15092055,71.4388595154859
+Bulgartransgaz EAD,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Bulgaria,4922,42.6977211,23.3225964
+IOCOI,Mining,Mining;Mining;Mining,Iraq,1311,33.0955793,44.1749775
+TerniEnergia SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Manufacturing;Manufacturing;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,42.5195891,12.5152257
+Errenergia Srl,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,41.8935085,12.4825526
+Neftegazinkor,Mining,Mining;Mining;Mining,Russian Fed,1311,55.7516335,37.6187042
+Zignago Vetro SpA,Manufacturing,Manufacturing,Italy,3221,45.7917474,12.9090234
+Saint Gobain Vetri SpA,Manufacturing,Manufacturing,Italy,3221,42.6384261,12.674297
+Namvaran Engineering & Mgmt Co,Services,Services;Services;Services,Iran,8711,35.686172,51.4223519
+PIDEC,Services,Services;Services;Services,Iran,8711,29.6096054,52.5431763
+Holding MRSK,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Finance, Insurance, And Real Estate",Russian Fed,4911,55.7516335,37.6187042
+Sorgenia SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4911,45.4667971,9.1904984
+OSK,Manufacturing,"Manufacturing;Manufacturing;Finance, Insurance, And Real Estate",Russian Fed,3731,59.9393657,30.3153628
+Bulgarian River Shipping JS Co,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Bulgaria,4412,43.8480413,25.9542057
+ANK Bashneft,Mining,Mining;Mining;Mining,Russian Fed,1311,54.7262869,55.9477285
+SeverEnergiya,Mining,"Mining;Mining;Mining;Finance, Insurance, And Real Estate",Russian Fed,1311,55.7516335,37.6187042
+BioGazEnergoStroy,Construction,Construction;Construction;Construction,Russian Fed,1623,55.7516335,37.6187042
+Plinovodi doo,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Slovenia,4922,46.049865,14.5068921
+Energetika Ljubljana doo,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Slovenia,4911,46.049865,14.5068921
+Snam SpA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Italy,4923,45.4667971,9.1904984
+Fluxys SA,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Belgium,4922,50.8465565,4.351697
+Inter RAO EES,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+Versalis SpA,Manufacturing,Manufacturing;Manufacturing,Italy,2819,45.41807,9.27165
+Petromar Resources SA,Mining,Mining;Mining;Mining,Romania,1311,44.1724166,28.6208196629799
+Beach Petroleum SRL,Mining,Mining;Mining;Mining,Romania,1311,45.9852129,24.6859225
+Magyar Villamos Muvek Zrt,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Hungary,4911,47.4983815,19.0404707
+Shemen Oil & Gas Resources Ltd,Mining,Mining;Mining;Mining,Israel,1311,32.0877639,34.8859985
+Caspian Drilling Co Ltd,Mining,Mining;Mining;Mining,Azerbaijan,1311,40.37526755,49.8927634720012
+Plinacro doo,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services;Transportation, Communications, Electric, Gas, And Sanitary Services",Croatia,4923,45.8131545,15.9770298
+SANORS,Manufacturing,Manufacturing;Manufacturing;Manufacturing;Manufacturing,Russian Fed,2819,53.0992438,49.9483631
+Elton Chemicals SA,Manufacturing,Manufacturing;Manufacturing;Manufacturing,Greece,2819,39.000041,21.9999569
+BETA Securities SA,"Finance, Insurance, And Real Estate","Finance, Insurance, And Real Estate",Greece,6211,37.9841493,23.7279843
+Alte Enerji AS,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,41.0096334,28.9651646
+Turcas Enerji Holding AS,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Turkey,4911,41.0716178,29.0305381519225
+GEKh,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Russian Fed,4911,55.7516335,37.6187042
+Tsakos Energy Navigation Ltd,"Transportation, Communications, Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services",Greece,4412,37.9841493,23.7279843

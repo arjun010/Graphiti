@@ -1,0 +1,502 @@
+name,homepage_url,category_list,funding_total_usd,status,country_code,state_code,region,city,funding_rounds,founded_at,founded_month,founded_quarter,founded_year,first_funding_at,last_funding_at,first_funding_year,last_funding_year
+Uber,http://www.uber.com,Automotive|Design|Limousines|Public Transportation|Real Time|Transportation,8207450000,operating,USA,CA,SF Bay Area,San Francisco,13,2009-03-01,2009-03,2009-Q1,2009,2009-08-01,2015-09-07,2009,2015
+Facebook,http://www.facebook.com,All Students|Colleges|Communities|Identity|Social Media,2425700000,ipo,USA,CA,SF Bay Area,Menlo Park,11,2004-02-04,2004-02,2004-Q1,2004,2004-09-01,2011-01-21,2004,2011
+Airbnb,http://airbnb.com,Hotels|Travel,2394820000,operating,USA,CA,SF Bay Area,San Francisco,8,2008-08-01,2008-08,2008-Q3,2008,2009-01-01,2015-11-20,2009,2015
+SoFi,http://www.sofi.com,Education|Finance|Financial Services|Peer-to-Peer,1766199900,operating,USA,CA,SF Bay Area,San Francisco,11,2011-04-01,2011-04,2011-Q2,2011,2011-09-19,2015-09-30,2011,2015
+Netflix,http://www.netflix.com,Consumer Electronics|Entertainment|Games|Video,1730000000,ipo,USA,CA,SF Bay Area,Los Gatos,3,1997-01-01,1997-01,1997-Q1,1997,1999-07-07,2015-02-02,1999,2015
+Palantir Technologies,http://www.palantir.com,Analytics,1671557162,operating,USA,CA,SF Bay Area,Palo Alto,16,2004-01-01,2004-01,2004-Q1,2004,2005-09-01,2015-10-21,2005,2015
+Solyndra,http://www.solyndra.com,Manufacturing,1567504319,closed,USA,CA,SF Bay Area,Fremont,8,2005-01-01,2005-01,2005-Q1,2005,2006-01-01,2011-06-16,2006,2011
+Fisker Automotive,http://www.fiskerautomotive.com,Automotive|Clean Technology,1471000000,acquired,USA,CA,Anaheim,Irvine,9,2008-01-01,2008-01,2008-Q1,2008,2008-01-14,2012-04-02,2008,2012
+Pinterest,https://pinterest.com,Curated Web|Social Bookmarking|Social Media,1315500000,operating,USA,CA,SF Bay Area,San Francisco,10,2009-01-01,2009-01,2009-Q1,2009,2010-01-01,2015-06-01,2010,2015
+Space Exploration Technologies,http://www.spacex.com,Aerospace|Space Travel,1245460000,operating,USA,CA,Los Angeles,Hawthorne,7,2002-01-01,2002-01,2002-Q1,2002,2006-03-01,2015-01-20,2006,2015
+Snapchat,http://www.snapchat.com,File Sharing|Messaging|Mobile|Photography,1185585000,operating,USA,CA,CA - Other,Pacific Palisades,8,2011-05-01,2011-05,2011-Q2,2011,2012-05-01,2015-05-29,2012,2015
+Twitter,http://www.twitter.com/,Information Services|Messaging|MicroBlogging|Service Providers|SMS|Software,1160166511,ipo,USA,CA,SF Bay Area,San Francisco,8,2006-03-21,2006-03,2006-Q1,2006,2007-07-01,2011-09-08,2007,2011
+SolarCity,http://www.solarcity.com,Clean Technology|Construction,1158040000,ipo,USA,CA,SF Bay Area,San Mateo,14,2006-01-01,2006-01,2006-Q1,2006,2006-09-15,2015-11-18,2006,2015
+SurveyMonkey,http://www.surveymonkey.com,Software|Surveys,1150000000,operating,USA,CA,SF Bay Area,Palo Alto,5,1999-01-01,1999-01,1999-Q1,1999,2009-04-20,2014-12-15,2009,2014
+Bloom Energy,http://www.bloomenergy.com,Clean Technology,1110000000,operating,USA,CA,SF Bay Area,Sunnyvale,6,2001-01-01,2001-01,2001-Q1,2001,2008-01-01,2015-01-27,2008,2015
+Dropbox,http://www.dropbox.com,Cloud Data Services|Storage|Web Hosting,1107215000,operating,USA,CA,SF Bay Area,San Francisco,6,2007-06-01,2007-06,2007-Q2,2007,2007-06-01,2014-04-06,2007,2014
+Cloudera,http://www.cloudera.com,Analytics|Big Data|Enterprise Software|Search|Software,1041000000,operating,USA,CA,SF Bay Area,Palo Alto,8,2008-10-13,2008-10,2008-Q4,2008,2009-03-16,2014-09-01,2009,2014
+Lyft,http://lyft.com,Apps|Collaborative Consumption|College Campuses|Peer-to-Peer|Software|Transportation,1012500000,operating,USA,CA,SF Bay Area,San Francisco,8,2012-01-01,2012-01,2012-Q1,2012,2009-06-01,2015-05-15,2009,2015
+Legendary Entertainment,http://www.legendary.com,Entertainment|Film Production|Games,1008000000,operating,USA,CA,Los Angeles,Burbank,4,2004-01-01,2004-01,2004-Q1,2004,2011-04-06,2014-10-03,2011,2014
+Better Place,http://www.betterplace.com,Clean Technology,925000000,acquired,USA,CA,SF Bay Area,Palo Alto,6,2007-10-29,2007-10,2007-Q4,2007,2007-11-01,2012-11-02,2007,2012
+DepoMed,http://www.depomed.com/,Pharmaceuticals,875000000,ipo,USA,CA,SF Bay Area,Newark,2,1995-01-01,1995-01,1995-Q1,1995,2014-09-04,2015-03-13,2014,2015
+Zynga,http://www.zynga.com,Facebook Applications|Games|Networking|Technology,866550786,ipo,USA,CA,SF Bay Area,San Francisco,9,2007-07-01,2007-07,2007-Q3,2007,2007-01-01,2011-02-18,2007,2011
+Intarcia Therapeutics,http://www.intarcia.com,Biotechnology,852305937,operating,USA,CA,SF Bay Area,Hayward,11,1997-01-01,1997-01,1997-Q1,1997,2003-01-01,2015-04-27,2003,2015
+BrightSource Energy,http://www.brightsourceenergy.com,Clean Technology|Energy|Solar,845000000,ipo,USA,CA,SF Bay Area,Oakland,9,2004-01-01,2004-01,2004-Q1,2004,2006-11-01,2013-07-25,2006,2013
+FireEye,http://www.fireeye.com,Computers|Network Security|Security,840945776,ipo,USA,CA,SF Bay Area,Milpitas,7,2004-01-01,2004-01,2004-Q1,2004,2005-01-01,2014-01-10,2005,2014
+Tesla Motors,http://www.teslamotors.com,Automotive|Clean Technology,823000000,ipo,USA,CA,SF Bay Area,Palo Alto,11,2003-01-01,2003-01,2003-Q1,2003,2004-04-01,2012-10-10,2004,2012
+Jawbone,http://jawbone.com,Consumer Electronics|Fitness|Hardware + Software|Mobile Software Tools|Personal Health|Wearables,818799995,operating,USA,CA,SF Bay Area,San Francisco,12,1999-01-01,1999-01,1999-Q1,1999,2006-12-15,2015-04-30,2006,2015
+Jack in the Box,http://jackinthebox.com,Hospitality,800000000,ipo,USA,CA,San Diego,San Diego,1,1951-01-01,1951-01,1951-Q1,1951,2014-03-24,2014-03-24,2014,2014
+Seagate,http://www.seagate.com,Databases|Hardware|Hardware + Software|Networking|Storage|Technology,681759114,ipo,USA,CA,SF Bay Area,Scotts Valley,1,1979-01-01,1979-01,1979-Q1,1979,2011-12-28,2011-12-28,2011,2011
+Sunrun,http://www.sunrun.com,Clean Energy|Clean Technology|Residential Solar|Solar,681600000,ipo,USA,CA,SF Bay Area,San Francisco,10,2007-01-01,2007-01,2007-Q1,2007,2008-06-20,2015-01-09,2008,2015
+NantHealth,http://nanthealth.com,Health and Wellness|Health Diagnostics,680000000,operating,USA,CA,Los Angeles,Culver City,5,2007-01-01,2007-01,2007-Q1,2007,2012-10-25,2015-07-01,2012,2015
+Square,http://squareup.com,Analytics|Finance|FinTech|Hardware + Software|Mobile|Mobile Payments|P2P Money Transfer,590500000,ipo,USA,CA,SF Bay Area,San Francisco,9,2009-02-01,2009-02,2009-Q1,2009,2009-11-01,2015-04-01,2009,2015
+Zenefits,http://www.zenefits.com,Enterprise Software|Health and Insurance|Human Resources,583600000,operating,USA,CA,SF Bay Area,San Francisco,4,2013-01-01,2013-01,2013-Q1,2013,2013-07-26,2015-05-06,2013,2015
+Wish,http://wish.com,Curated Web|E-Commerce|Marketplaces|Mobile,578700000,operating,USA,CA,SF Bay Area,San Francisco,5,2011-09-05,2011-09,2011-Q3,2011,2010-10-21,2015-06-03,2010,2015
+Box,http://www.box.co,Cloud Computing|File Sharing|Flash Storage|SaaS|Storage|Web Hosting,558950000,ipo,USA,CA,SF Bay Area,Los Altos,11,2005-01-01,2005-01,2005-Q1,2005,2005-09-01,2014-07-01,2005,2014
+Nanosolar,http://www.nanosolar.com,Clean Technology|Nanotechnology,540000000,operating,USA,CA,SF Bay Area,San Jose,7,2002-01-01,2002-01,2002-Q1,2002,2003-06-24,2012-06-01,2003,2012
+Pure Storage,http://www.purestorage.com,Enterprise Software|Storage,530856468,ipo,USA,CA,SF Bay Area,Mountain View,8,2009-09-01,2009-09,2009-Q3,2009,2009-10-01,2014-08-11,2009,2014
+DocuSign,http://www.docusign.com,Cloud Management|Software,508099999,operating,USA,CA,SF Bay Area,San Francisco,14,2003-01-01,2003-01,2003-Q1,2003,2003-01-01,2015-05-27,2003,2015
+Deem,http://www.deem.com,Content Syndication|E-Commerce|Marketplaces|Productivity Software|Trading,504985435,operating,USA,CA,SF Bay Area,San Francisco,9,2000-01-01,2000-01,2000-Q1,2000,2004-01-01,2014-07-23,2004,2014
+Beats Electronics,http://beatsbydre.com,Hardware|Music,500000000,acquired,USA,CA,Los Angeles,Santa Monica,1,2006-01-01,2006-01,2006-Q1,2006,2013-09-27,2013-09-27,2013,2013
+Village Roadshow Entertainment Group,http://www.vreg.com,Entertainment,480000000,operating,USA,CA,SF Bay Area,San Francisco,1,2007-07-01,2007-07,2007-Q3,2007,2015-09-14,2015-09-14,2015,2015
+Stem CentRx,http://stemcentrx.com,Biotechnology|Health Diagnostics,473526990,operating,USA,CA,SF Bay Area,South San Francisco,3,2008-01-01,2008-01,2008-Q1,2008,2011-03-16,2015-09-09,2011,2015
+MiaSolﾎ,http://www.miasole.com,Clean Technology,471400000,acquired,USA,CA,SF Bay Area,Santa Clara,6,2001-01-01,2001-01,2001-Q1,2001,2004-05-11,2012-03-07,2004,2012
+View,http://www.viewglass.com,Clean Technology|Hardware + Software|Nanotechnology|Solar,460244466,operating,USA,CA,SF Bay Area,Milpitas,11,2006-01-01,2006-01,2006-Q1,2006,2009-06-11,2015-08-13,2009,2015
+SoloPower,http://www.solopower.com,Clean Technology,458089999,acquired,USA,CA,SF Bay Area,San Jose,10,2005-01-01,2005-01,2005-Q1,2005,2007-03-05,2012-10-15,2007,2012
+Sonos,http://www.sonos.com,Consumer Electronics|Hardware + Software|iPhone|Music|Wireless,453949974,operating,USA,CA,Santa Barbara,Santa Barbara,9,2002-06-30,2002-06,2002-Q2,2002,2005-01-01,2014-12-03,2005,2014
+Mobilitie,http://www.mobilitie.com,Mobile,425000000,operating,USA,CA,Anaheim,Newport Beach,2,2005-01-01,2005-01,2005-Q1,2005,2013-02-19,2015-11-10,2013,2015
+Amyris Biotechnologies,http://amyris.com/,Biotechnology|Chemicals|Clean Technology|Renewable Energies,417040423,ipo,USA,CA,SF Bay Area,Emeryville,10,2003-01-01,2003-01,2003-Q1,2003,2006-10-12,2012-02-27,2006,2012
+Brash Entertainment,http://www.brashent.com,Games,400000000,operating,USA,CA,Los Angeles,Los Angeles,1,2007-01-01,2007-01,2007-Q1,2007,2007-06-03,2007-06-03,2007,2007
+Lending Club,https://lendingclub.com,Credit|Finance|Finance Technology|FinTech|Personal Finance,392230000,ipo,USA,CA,SF Bay Area,San Francisco,13,2007-01-01,2007-01,2007-Q1,2007,2007-05-01,2014-07-15,2007,2014
+Jazz Pharmaceuticals,http://www.jazzpharmaceuticals.com,Biotechnology|Health Care,376999998,ipo,USA,CA,SF Bay Area,Palo Alto,3,2003-01-01,2003-01,2003-Q1,2003,2004-03-24,2009-12-07,2004,2009
+Tango,http://www.tango.me,Android|iPhone|Messaging|Mobile,369247364,operating,USA,CA,SF Bay Area,Mountain View,5,2009-09-09,2009-09,2009-Q3,2009,2010-06-01,2014-03-19,2010,2014
+VMware,http://www.vmware.com,Software,368500000,acquired,USA,CA,SF Bay Area,Palo Alto,2,1998-01-01,1998-01,1998-Q1,1998,2007-07-09,2007-07-30,2007,2007
+Credit Karma,http://www.creditkarma.com,Credit|Finance|Personal Finance,368000000,operating,USA,CA,SF Bay Area,San Francisco,6,2007-06-01,2007-06,2007-Q2,2007,2008-10-15,2015-06-23,2008,2015
+Sangart,http://www.sangart.com,Biotechnology,365872959,closed,USA,CA,San Diego,San Diego,6,1998-01-01,1998-01,1998-Q1,1998,2007-04-04,2012-05-24,2007,2012
+AppDynamics,http://www.appdynamics.com,Application Performance Monitoring|Apps|Business Analytics|Information Services|Information Technology|Internet|Software,364500000,operating,USA,CA,SF Bay Area,San Francisco,7,2008-07-01,2008-07,2008-Q3,2008,2008-01-01,2015-11-30,2008,2015
+Silver Spring Networks,http://www.silverspringnet.com/,Communications Hardware|Technology|Web Hosting,358929976,ipo,USA,CA,SF Bay Area,Redwood City,9,2002-01-01,2002-01,2002-Q1,2002,2007-04-04,2013-03-27,2007,2013
+Relypsa,http://www.relypsa.com,Biotechnology|Health Care,357129887,ipo,USA,CA,SF Bay Area,Redwood City,8,2007-10-01,2007-10,2007-Q4,2007,2007-10-29,2014-06-02,2007,2014
+Privlo,http://privlo.com,Finance,355900000,operating,USA,CA,Los Angeles,Pasadena,3,2011-01-01,2011-01,2011-Q1,2011,2013-05-02,2014-07-30,2013,2014
+Prosper,http://www.prosper.com,Credit|Crowdfunding|Finance|FinTech|Marketplaces|Peer-to-Peer|Personal Finance,354900000,operating,USA,CA,SF Bay Area,San Francisco,12,2006-02-01,2006-02,2006-Q1,2006,2005-04-01,2015-04-30,2005,2015
+GitHub,https://github.com,Internet|Services|Software,350000000,operating,USA,CA,SF Bay Area,San Francisco,2,2008-02-29,2008-02,2008-Q1,2008,2012-07-09,2015-07-29,2012,2015
+Silicor Materials,http://www.silicormaterials.com,Manufacturing,345007997,operating,USA,CA,SF Bay Area,San Jose,9,2006-03-01,2006-03,2006-Q1,2006,2006-06-01,2015-09-16,2006,2015
+BridgeLux,http://www.bridgelux.com,Manufacturing,344789135,acquired,USA,CA,SF Bay Area,Sunnyvale,10,2002-01-01,2002-01,2002-Q1,2002,2006-04-03,2012-02-13,2006,2012
+Slack,http://slack.com,Collaboration|Enterprise Software|Unifed Communications,339950000,operating,USA,CA,SF Bay Area,San Francisco,7,2013-01-01,2013-01,2013-Q1,2013,2009-01-01,2015-04-16,2009,2015
+Alien Technology,http://www.alientechnology.com,Semiconductors,335377366,operating,USA,CA,SF Bay Area,San Jose,10,1994-01-01,1994-01,1994-Q1,1994,2003-08-06,2014-10-09,2003,2014
+NGM Biopharmaceuticals,http://www.ngmbio.com,Biotechnology|Medical,333988996,operating,USA,CA,SF Bay Area,South San Francisco,7,2007-01-01,2007-01,2007-Q1,2007,2008-02-12,2015-03-26,2008,2015
+Palo Alto Networks,http://www.paloaltonetworks.com,Communications Hardware|Computers|Network Security|Security,329000000,ipo,USA,CA,SF Bay Area,Santa Clara,5,2005-01-01,2005-01,2005-Q1,2005,2006-01-01,2012-07-09,2006,2012
+CapitalSource,http://www.capitalsourcebank.com,Banking,325000000,acquired,USA,CA,Los Angeles,Los Angeles,1,2000-01-01,2000-01,2000-Q1,2000,2002-11-15,2002-11-15,2002,2002
+InMobi,http://www.inmobi.com,Advertising|Mobile,320600000,operating,USA,CA,SF Bay Area,San Francisco,6,2007-01-01,2007-01,2007-Q1,2007,2007-01-01,2015-09-29,2007,2015
+4INFO,http://www.4info.com,Ad Targeting|Big Data Analytics|Mobile Advertising,320288000,operating,USA,CA,SF Bay Area,San Mateo,8,2004-09-08,2004-09,2004-Q3,2004,2005-03-01,2014-08-01,2005,2014
+Affirm,http://affirm.com,Finance Technology|Financial Services|FinTech|Payments,320000000,operating,USA,CA,SF Bay Area,San Francisco,2,2012-01-01,2012-01,2012-Q1,2012,2014-06-09,2015-05-06,2014,2015
+Automattic,http://automattic.com,Blogging Platforms|Content|Curated Web|Forums|Web CMS,317300000,operating,USA,CA,SF Bay Area,San Francisco,5,2005-07-01,2005-07,2005-Q3,2005,2005-10-01,2014-05-05,2005,2014
+Proteus Digital Health,http://www.proteusdigitalhealth.com,Biotechnology|Health Care|Mobile|Software,315349979,operating,USA,CA,SF Bay Area,Redwood City,10,2001-01-01,2001-01,2001-Q1,2001,2001-05-01,2014-06-02,2001,2014
+Nutanix,http://www.nutanix.com,Enterprise Software|Storage|Virtualization,312200000,operating,USA,CA,SF Bay Area,San Jose,5,2009-01-01,2009-01,2009-Q1,2009,2011-04-19,2014-08-27,2011,2014
+Tanium,http://www.tanium.com,Enterprise Software|Security,302312497,operating,USA,CA,SF Bay Area,Emeryville,5,2007-01-01,2007-01,2007-Q1,2007,2010-05-06,2015-09-29,2010,2015
+Earnest,http://meetearnest.com,Consumer Lending|Credit|Finance,299100000,operating,USA,CA,SF Bay Area,San Francisco,4,2013-01-01,2013-01,2013-Q1,2013,2014-05-20,2015-11-17,2014,2015
+Good Technology,http://www.good.com,Analytics|Contact Management|Data Security|Development Platforms|Information Security|Mobile Commerce|Mobile Enterprise|Mobile Security|Mobility|Software,291297000,acquired,USA,CA,SF Bay Area,Sunnyvale,6,1996-01-01,1996-01,1996-Q1,1996,2005-03-15,2014-09-30,2005,2014
+Evernote,http://www.evernote.com,Business Productivity|Productivity Software|Software,290000000,operating,USA,CA,SF Bay Area,Redwood City,11,2007-07-01,2007-07,2007-Q3,2007,2006-03-01,2014-11-09,2006,2014
+lynda.com,http://www.lynda.com,EdTech|Education,289000000,acquired,USA,CA,Santa Barbara,Carpinteria,2,1995-01-01,1995-01,1995-Q1,1995,2013-01-16,2015-01-14,2013,2015
+Rambus,http://www.rambus.com/us,Semiconductors|Technology,288565568,ipo,USA,CA,SF Bay Area,Los Altos,2,1990-01-01,1990-01,1990-Q1,1990,2010-02-02,2011-06-07,2010,2011
+GoPro,http://www.gopro.com,3D|Hardware|Hardware + Software|Lifestyle Products|Video|Wearables,288205000,ipo,USA,CA,SF Bay Area,San Mateo,3,2003-01-01,2003-01,2003-Q1,2003,2010-09-22,2012-12-20,2010,2012
+Sapphire Energy,http://sapphireenergy.com,Clean Technology,283500000,operating,USA,CA,San Diego,San Diego,4,2007-01-01,2007-01,2007-Q1,2007,2008-05-28,2012-04-02,2008,2012
+TRUECar,http://www.truecar.com,Automotive|Public Transportation,283165000,ipo,USA,CA,Los Angeles,Santa Monica,7,2005-01-01,2005-01,2005-Q1,2005,2005-02-28,2013-12-12,2005,2013
+Lookout,http://www.lookout.com,Cyber Security|Mobile|Security,282000000,operating,USA,CA,SF Bay Area,San Francisco,8,2007-01-01,2007-01,2007-Q1,2007,2009-03-11,2015-02-01,2009,2015
+ZestFinance,http://zestfinance.com,Analytics|Big Data|Finance Technology|FinTech|Machine Learning,282000000,operating,USA,CA,Los Angeles,Los Angeles,5,2009-01-01,2009-01,2009-Q1,2009,2011-07-21,2015-10-06,2011,2015
+CarsDirect.com,http://www.carsdirect.com,E-Commerce,280000000,operating,USA,CA,Los Angeles,El Segundo,1,1998-01-01,1998-01,1998-Q1,1998,2000-02-03,2000-02-03,2000,2000
+Equinix,http://www.equinix.com,Web Hosting,280000000,ipo,USA,CA,SF Bay Area,Foster City,2,1998-01-01,1998-01,1998-Q1,1998,1999-12-03,1999-12-03,1999,1999
+Stripe,http://stripe.com,Credit Cards|Payments|Software,280000000,operating,USA,CA,SF Bay Area,San Francisco,7,2010-01-01,2010-01,2010-Q1,2010,2010-08-02,2015-07-28,2010,2015
+TRIA Beauty,http://www.triabeauty.com,E-Commerce,277226267,operating,USA,CA,SF Bay Area,Pleasanton,12,2003-01-01,2003-01,2003-Q1,2003,2007-05-24,2014-10-09,2007,2014
+Quotient Technology,http://www.coupons.com,Advertising|Coupons|Curated Web,276760000,ipo,USA,CA,SF Bay Area,Mountain View,7,1998-05-01,1998-05,1998-Q2,1998,2005-09-01,2013-10-01,2005,2013
+Vantage Data Centers,http://www.vantagedatacenters.com,Data Center Infrastructure|Data Centers,275000000,operating,USA,CA,SF Bay Area,Santa Clara,2,2010-04-01,2010-04,2010-Q2,2010,2010-01-01,2014-04-15,2010,2014
+Instacart,http://www.instacart.com,E-Commerce|Groceries|Local Businesses,274800000,operating,USA,CA,SF Bay Area,San Francisco,5,2012-07-01,2012-07,2012-Q3,2012,2012-06-01,2014-12-30,2012,2014
+Funding Circle,http://www.fundingcircle.com,Finance|Financial Services|Personal Finance,273237070,operating,USA,CA,SF Bay Area,San Francisco,6,2010-08-13,2010-08,2010-Q3,2010,2010-02-12,2015-04-22,2010,2015
+Thumbtack,https://www.thumbtack.com,Curated Web|Service Providers,273200000,operating,USA,CA,SF Bay Area,San Francisco,6,2008-01-01,2008-01,2008-Q1,2008,2010-06-09,2015-09-29,2010,2015
+CardioDx,http://www.cardiodx.com,Biotechnology|Health Diagnostics,268990356,operating,USA,CA,SF Bay Area,Palo Alto,9,2004-01-01,2004-01,2004-Q1,2004,2006-07-21,2015-07-03,2006,2015
+TriVascular,http://www.trivascular.com/,Health Care|Medical Devices,266950270,ipo,USA,CA,Napa Valley,Santa Rosa,7,1998-01-01,1998-01,1998-Q1,1998,2008-03-31,2015-08-21,2008,2015
+LegalZoom,http://www.legalzoom.com,Legal,266000000,operating,USA,CA,Los Angeles,Glendale,3,1999-12-01,1999-12,1999-Q4,1999,2007-03-21,2014-01-07,2007,2014
+Prometheus Laboratories,http://www.prometheuslabs.com,Biotechnology,260000000,acquired,USA,CA,San Diego,San Diego,1,1995-01-01,1995-01,1995-Q1,1995,2010-01-07,2010-01-07,2010,2010
+Tintri,http://www.tintri.com,Enterprise Software|Storage|Virtualization,260000000,operating,USA,CA,SF Bay Area,Mountain View,6,2008-01-01,2008-01,2008-Q1,2008,2011-03-24,2015-08-05,2011,2015
+MuleSoft,http://www.mulesoft.com,Enterprise Software,259000000,operating,USA,CA,SF Bay Area,San Francisco,7,2006-01-01,2006-01,2006-Q1,2006,2006-10-01,2015-05-19,2006,2015
+Inspiration Biopharmaceuticals,http://www.inspirationbio.com,Biotechnology,258625546,operating,USA,CA,"Orange County, California",Laguna Niguel,2,2004-01-01,2004-01,2004-Q1,2004,2009-07-23,2011-03-29,2009,2011
+Pacific Biosciences,http://www.pacificbiosciences.com,Biotechnology,255220000,ipo,USA,CA,SF Bay Area,Menlo Park,5,2004-01-01,2004-01,2004-Q1,2004,2005-08-31,2013-02-11,2005,2013
+Acacia Research,http://www.acaciaresearch.com,Business Services|Intellectual Asset Management|Licensing,255100000,ipo,USA,CA,Anaheim,Newport Beach,3,1993-01-01,1993-01,1993-Q1,1993,1999-11-22,2012-02-21,1999,2012
+Trulia,http://trulia.com,Marketplaces|Mobile|Peer-to-Peer|Real Estate,255100000,acquired,USA,CA,SF Bay Area,San Francisco,5,2004-05-01,2004-05,2004-Q2,2004,2005-09-01,2013-12-18,2005,2013
+Force10 Networks,http://www.force10networks.com,E-Commerce,255067782,acquired,USA,CA,SF Bay Area,San Jose,6,1999-01-01,1999-01,1999-Q1,1999,2003-02-01,2009-12-09,2003,2009
+Medallia,http://www.medallia.com,Big Data|Customer Service|Enterprise Software|Human Resources|Loyalty Programs|Software|Text Analytics,255000000,operating,USA,CA,SF Bay Area,Palo Alto,4,2001-09-01,2001-09,2001-Q3,2001,2012-09-27,2015-07-21,2012,2015
+JustFab,http://corp.justfab.com/,E-Commerce|Fashion|Lifestyle|Online Shopping|Retail|Shoes,254000000,operating,USA,CA,Los Angeles,El Segundo,6,2010-02-01,2010-02,2010-Q1,2010,2011-09-21,2014-08-28,2011,2014
+Solar Power Partners,http://www.solarpowerpartners.com,Clean Technology,253000000,acquired,USA,CA,SF Bay Area,Mill Valley,4,2006-01-01,2006-01,2006-Q1,2006,2007-09-18,2010-04-27,2007,2010
+Chegg,http://www.chegg.com,Consumers|Education|Online Rental|Textbooks,252303692,ipo,USA,CA,SF Bay Area,Santa Clara,10,2007-01-01,2007-01,2007-Q1,2007,2007-01-01,2012-04-01,2007,2012
+AVG Technologies,http://www.avg.com,Security|Software,252000000,acquired,USA,CA,SF Bay Area,San Francisco,2,2005-01-01,2005-01,2005-Q1,2005,2005-09-06,2009-07-10,2005,2009
+Oportun,http://www.progressfin.com,Consumer Lending|Financial Services,250300000,operating,USA,CA,SF Bay Area,Menlo Park,9,2005-06-01,2005-06,2005-Q2,2005,2006-01-01,2015-02-11,2006,2015
+Campaign Monitor,http://www.campaignmonitor.com,Software,250000000,operating,USA,CA,SF Bay Area,San Francisco,1,2004-01-01,2004-01,2004-Q1,2004,2014-04-16,2014-04-16,2014,2014
+Coherus Biosciences,http://www.coherus.com,Biotechnology,249271980,ipo,USA,CA,SF Bay Area,Redwood City,4,2010-01-01,2010-01,2010-Q1,2010,2013-01-14,2015-04-01,2013,2015
+Portola Pharmaceuticals,http://www.portola.com,Biotechnology,249099998,ipo,USA,CA,SF Bay Area,South San Francisco,5,2003-01-01,2003-01,2003-Q1,2003,2003-12-10,2011-12-07,2003,2011
+Hortonworks,http://www.hortonworks.com,Big Data|Enterprise Software|Search|Software,248000000,ipo,USA,CA,SF Bay Area,Santa Clara,5,2011-06-01,2011-06,2011-Q2,2011,2011-06-01,2014-07-24,2011,2014
+SquareTrade,http://www.squaretrade.com,Hardware + Software|Insurance,247700000,operating,USA,CA,SF Bay Area,San Francisco,4,1999-01-01,1999-01,1999-Q1,1999,1999-10-01,2012-01-24,1999,2012
+EndoGastric Solutions,http://www.endogastricsolutions.com,Health Care,247545839,operating,USA,CA,SF Bay Area,San Mateo,17,2002-01-01,2002-01,2002-Q1,2002,2003-06-04,2015-12-01,2003,2015
+Pearl Therapeutics,http://www.pearltherapeutics.com,Biotechnology|Health and Wellness|Medical|Pharmaceuticals,247500100,acquired,USA,CA,SF Bay Area,Redwood City,7,2006-01-01,2006-01,2006-Q1,2006,2007-09-07,2013-04-01,2007,2013
+AppDirect,http://www.appdirect.com,Apps|Enterprise Software|IaaS|PaaS|SaaS,245750000,operating,USA,CA,SF Bay Area,San Francisco,6,2009-07-17,2009-07,2009-Q3,2009,2011-04-28,2015-10-07,2011,2015
+Sungevity,http://www.sungevity.com,Clean Technology,245500000,operating,USA,CA,SF Bay Area,Oakland,8,2008-01-01,2008-01,2008-Q1,2008,2007-12-12,2015-07-25,2007,2015
+Mode Media (fka Glam Media),http://www.corp.mode.com,Content Creators|Curated Web|Fashion|Lifestyle|Media|Social Network Media|Video Streaming,244600000,operating,USA,CA,SF Bay Area,Brisbane,11,2003-09-01,2003-09,2003-Q3,2003,2004-07-01,2015-05-21,2004,2015
+Kabam,http://www.kabam.com,Games|Networking|Social Games|Social Media|Web Development,244500000,operating,USA,CA,SF Bay Area,San Francisco,6,2006-11-01,2006-11,2006-Q4,2006,2007-09-01,2014-07-31,2007,2014
+Solarflare Communications,http://www.solarflare.com,Enterprise Software,242948825,operating,USA,CA,Anaheim,Irvine,19,2005-01-01,2005-01,2005-Q1,2005,2005-02-28,2015-01-05,2005,2015
+Zuora,http://www.zuora.com,Billing|SaaS|Software,242500000,operating,USA,CA,SF Bay Area,Foster City,6,2007-01-01,2007-01,2007-Q1,2007,2008-03-13,2015-03-11,2008,2015
+Renewable Energy Trust Capital,http://renewabletrust.com/,Banking,239000000,operating,USA,CA,SF Bay Area,San Francisco,1,2011-01-01,2011-01,2011-Q1,2011,2015-07-14,2015-07-14,2015,2015
+Soft Machines,http://smachines.com,Semiconductors,235687795,operating,USA,CA,SF Bay Area,Santa Clara,6,2006-01-01,2006-01,2006-Q1,2006,2009-08-05,2015-01-20,2009,2015
+Freedom Financial Network,http://freedomfinancialnetwork.com,Finance Technology|FinTech|Local Businesses,235000000,operating,USA,CA,SF Bay Area,San Mateo,2,2002-01-01,2002-01,2002-Q1,2002,2013-12-11,2014-05-05,2013,2014
+Hotchalk,http://www.hotchalk.com,EdTech|Education,235000000,operating,USA,CA,SF Bay Area,Campbell,2,2004-01-01,2004-01,2004-Q1,2004,2008-01-28,2015-11-06,2008,2015
+Twilio,http://www.twilio.com,Enterprise Software,233700000,operating,USA,CA,SF Bay Area,San Francisco,6,2008-01-01,2008-01,2008-Q1,2008,2009-01-01,2015-07-29,2009,2015
+Okta,http://www.okta.com,Enterprise Software,230000000,operating,USA,CA,SF Bay Area,San Francisco,8,2009-01-01,2009-01,2009-Q1,2009,2009-09-02,2015-09-08,2009,2015
+RagingWire,http://www.ragingwire.com,Data Centers|Enterprise Software|Geospatial,230000000,operating,USA,CA,Sacramento,Sacramento,1,2000-01-01,2000-01,2000-Q1,2000,2013-09-18,2013-09-18,2013,2013
+Coda Automotive,http://www.codaautomotive.com,Clean Technology,229000000,operating,USA,CA,Los Angeles,Los Angeles,5,2009-01-01,2009-01,2009-Q1,2009,2009-07-28,2011-09-20,2009,2011
+23andMe,http://23andme.com,Biotechnology|Search,227049900,operating,USA,CA,SF Bay Area,Mountain View,8,2006-04-01,2006-04,2006-Q2,2006,2005-11-02,2015-07-03,2005,2015
+Ligand Pharmaceuticals,http://www.ligand.com,Biotechnology,225000000,ipo,USA,CA,San Diego,San Diego,1,1987-01-01,1987-01,1987-Q1,1987,2014-08-14,2014-08-14,2014,2014
+One Kings Lane,http://www.onekingslane.com,E-Commerce|Furniture|Home & Garden,225000000,operating,USA,CA,SF Bay Area,San Francisco,6,2009-01-01,2009-01,2009-Q1,2009,2009-12-06,2014-08-01,2009,2014
+Solexel,http://solexel.com,Clean Technology,223920614,operating,USA,CA,SF Bay Area,Milpitas,7,2005-01-01,2005-01,2005-Q1,2005,2012-04-01,2015-08-16,2012,2015
+Honest Co.,http://www.honest.com,E-Commerce,222000000,operating,USA,CA,Los Angeles,Santa Monica,4,2011-01-01,2011-01,2011-Q1,2011,2012-03-23,2015-08-14,2012,2015
+Visto,http://www.visto.com,Mobile,221400000,operating,USA,CA,SF Bay Area,Sunnyvale,6,1996-01-01,1996-01,1996-Q1,1996,2003-06-23,2011-01-01,2003,2011
+Transphorm,http://www.transphormusa.com,Clean Technology,221200001,operating,USA,CA,Santa Barbara,Goleta,9,2007-01-01,2007-01,2007-Q1,2007,2010-05-05,2015-06-22,2010,2015
+BlueArc,http://www.bluearc.com,Web Hosting,221000000,acquired,USA,CA,SF Bay Area,San Jose,7,1998-01-01,1998-01,1998-Q1,1998,1998-01-01,2010-07-28,1998,2010
+Arena Pharmaceuticals,http://www.arenapharm.com,Biotechnology,220260000,ipo,USA,CA,San Diego,San Diego,3,1977-01-01,1977-01,1977-Q1,1977,2009-06-17,2012-01-11,2009,2012
+Maplebear,http://www.maplebear.in/,Education,220164327,operating,USA,CA,SF Bay Area,San Francisco,1,2011-04-01,2011-04,2011-Q2,2011,2015-07-10,2015-07-10,2015,2015
+BlackLine,http://www.blackline.com,Enterprise Software|SaaS,220000000,operating,USA,CA,Los Angeles,Woodland Hills,1,2001-01-01,2001-01,2001-Q1,2001,2013-08-16,2013-08-16,2013,2013
+Mirantis,http://www.mirantis.com,Cloud Computing|Enterprise Software|Infrastructure|Open Source,220000000,operating,USA,CA,SF Bay Area,Mountain View,4,2011-01-11,2011-01,2011-Q1,2011,2013-01-10,2015-08-24,2013,2015
+Stion,http://www.stion.com,Clean Technology,220000000,operating,USA,CA,SF Bay Area,San Jose,4,2006-01-01,2006-01,2006-Q1,2006,2007-06-27,2012-12-12,2007,2012
+New Relic,http://newrelic.com,Analytics|Application Performance Monitoring|Cloud Computing|SaaS|Software,214500000,ipo,USA,CA,SF Bay Area,San Francisco,6,2008-02-01,2008-02,2008-Q1,2008,2008-04-01,2014-04-28,2008,2014
+Houzz,http://www.houzz.com,Curated Web|Design|Home Renovation,213600000,operating,USA,CA,SF Bay Area,Palo Alto,4,2009-01-01,2009-01,2009-Q1,2009,2010-11-11,2014-10-01,2010,2014
+GCT Semiconductor,http://www.gctsemi.com,Semiconductors,212528399,operating,USA,CA,SF Bay Area,San Jose,8,2000-01-01,2000-01,2000-Q1,2000,1999-10-01,2014-09-11,1999,2014
+Isis Pharmaceuticals,http://www.isispharm.com,Biotechnology,212250000,ipo,USA,CA,San Diego,Carlsbad,2,1989-01-01,1989-01,1989-Q1,1989,2012-08-27,2014-07-02,2012,2014
+SolFocus,http://www.solfocus.com,Clean Technology|Solar,211403000,closed,USA,CA,SF Bay Area,San Jose,8,2005-11-01,2005-11,2005-Q4,2005,2006-03-01,2012-04-01,2006,2012
+Flipboard,http://www.flipboard.com,News,210500000,operating,USA,CA,SF Bay Area,Palo Alto,5,2010-12-01,2010-12,2010-Q4,2010,2010-07-20,2015-07-23,2010,2015
+Nextdoor,http://nextdoor.com,Communities|Privacy|Social Media,210200000,operating,USA,CA,SF Bay Area,San Francisco,4,2010-01-01,2010-01,2010-Q1,2010,2012-07-24,2015-03-03,2012,2015
+Oversee.net,http://www.oversee.net,Advertising|Lead Generation,210000000,operating,USA,CA,Los Angeles,Los Angeles,2,2000-01-01,2000-01,2000-Q1,2000,2007-01-01,2008-01-01,2007,2008
+Vital Therapies,http://www.vitaltherapies.com,Biotechnology|Health Care,205868476,ipo,USA,CA,San Diego,San Diego,8,2003-01-01,2003-01,2003-Q1,2003,2007-10-10,2014-03-07,2007,2014
+Jasper,http://www.jasper.com,Cloud Computing|Internet of Things|M2M|Mobile|SaaS,205300000,operating,USA,CA,SF Bay Area,Santa Clara,6,2004-01-01,2004-01,2004-Q1,2004,2005-06-01,2014-04-16,2005,2014
+ServiceMax,http://www.servicemax.com,Enterprise Software,204000000,operating,USA,CA,SF Bay Area,Pleasanton,6,2007-01-01,2007-01,2007-Q1,2007,2008-11-04,2015-08-26,2008,2015
+Dun & Bradstreet Credibility Corporation,http://dandb.com,B2B|Big Data|Business Services|Credit|Finance|Financial Services,200000000,acquired,USA,CA,Los Angeles,Malibu,1,2010-07-01,2010-07,2010-Q3,2010,2010-07-29,2010-07-29,2010,2010
+EDF Renewable Energy,http://www.edf-re.com,Clean Technology,200000000,operating,USA,CA,San Diego,San Diego,1,1987-01-01,1987-01,1987-Q1,1987,2013-01-10,2013-01-10,2013,2013
+SEMYOU,http://www.semyou.com,Cloud Computing|Enterprise Software|SaaS|Software,200000000,operating,USA,CA,Los Angeles,Los Angeles,1,2011-03-03,2011-03,2011-Q1,2011,2015-09-28,2015-09-28,2015,2015
+Eventbrite,http://www.eventbrite.com,Event Management|Events|Online Reservations|Ticketing,199575000,operating,USA,CA,SF Bay Area,San Francisco,10,2006-01-01,2006-01,2006-Q1,2006,2006-11-01,2014-03-13,2006,2014
+Anacor Pharmaceutical,http://www.anacor.com,Biotechnology|Health Care,198500000,ipo,USA,CA,SF Bay Area,Palo Alto,8,2000-01-01,2000-01,2000-Q1,2000,2002-11-01,2013-06-12,2002,2013
+Blu Homes,http://www.bluhomes.com,Real Estate,197500000,operating,USA,CA,SF Bay Area,Vallejo,5,2008-01-01,2008-01,2008-Q1,2008,2011-05-05,2015-01-14,2011,2015
+PayPal,https://www.paypal.com/home,E-Commerce|Finance|FinTech|Mobile Payments|P2P Money Transfer|Payments,197000000,acquired,USA,CA,SF Bay Area,San Jose,5,1998-12-01,1998-12,1998-Q4,1998,1999-01-01,2001-02-16,1999,2001
+OncoMed Pharmaceuticals,http://www.oncomed.com,Biotechnology|Health Care,196249996,ipo,USA,CA,SF Bay Area,Redwood City,3,2004-08-01,2004-08,2004-Q3,2004,2008-11-04,2013-12-06,2008,2013
+Invitae,http://invitae.com,Biotechnology,195502111,ipo,USA,CA,SF Bay Area,San Francisco,5,2012-01-01,2012-01,2012-Q1,2012,2010-09-15,2014-10-13,2010,2014
+OneRoof Energy,http://www.oneroofenergy.com,Clean Technology,195249815,ipo,USA,CA,San Diego,San Diego,10,2009-01-01,2009-01,2009-Q1,2009,2011-09-22,2015-05-12,2011,2015
+NeoPhotonics,http://www.neophotonics.com,Semiconductors|Web Hosting,194673840,ipo,USA,CA,SF Bay Area,San Jose,6,1997-01-01,1997-01,1997-Q1,1997,2004-03-18,2012-05-07,2004,2012
+Ambit Biosciences,http://www.ambitbio.com,Biotechnology,193727869,acquired,USA,CA,San Diego,San Diego,7,2000-01-01,2000-01,2000-Q1,2000,2005-05-12,2012-11-06,2005,2012
+eSolar,http://www.esolar.com,Clean Technology|Green,192000000,operating,USA,CA,Los Angeles,Pasadena,3,2007-01-01,2007-01,2007-Q1,2007,2008-04-21,2013-09-17,2008,2013
+Aquantia,http://www.aquantia.com,Semiconductors,190624633,operating,USA,CA,SF Bay Area,Milpitas,8,2004-01-01,2004-01,2004-Q1,2004,2005-09-27,2015-04-10,2005,2015
+DataStax,http://datastax.com,Big Data|Databases,189700000,operating,USA,CA,SF Bay Area,Santa Clara,6,2010-03-31,2010-03,2010-Q1,2010,2010-04-23,2014-09-04,2010,2014
+Violin Memory,http://www.violin-memory.com/,Semiconductors|Storage|Technology,187884937,ipo,USA,CA,SF Bay Area,Santa Clara,7,2005-01-01,2005-01,2005-Q1,2005,2009-06-03,2013-02-14,2009,2013
+FinancialForce.com,http://www.financialforce.com,Accounting|Cloud Computing|Enterprise Resource Planning|Software,186300000,operating,USA,CA,SF Bay Area,San Francisco,6,2009-01-01,2009-01,2009-Q1,2009,2009-10-01,2015-03-26,2009,2015
+Apttus,http://www.apttus.com,CRM|SaaS|Software,186000000,operating,USA,CA,SF Bay Area,San Mateo,3,2006-01-01,2006-01,2006-Q1,2006,2013-09-17,2015-09-01,2013,2015
+Opsware,http://www.opsware.com,Software,186000000,acquired,USA,CA,SF Bay Area,Sunnyvale,3,1999-09-01,1999-09,1999-Q3,1999,1999-11-01,2000-06-27,1999,2000
+Trion Worlds,http://www.trionworlds.com,Games,185000000,operating,USA,CA,SF Bay Area,Redwood City,3,2006-01-01,2006-01,2006-Q1,2006,2007-07-09,2012-01-19,2007,2012
+Auris Surgical Robotics,http://aurisrobotics.com/,Biotechnology,184052388,operating,USA,CA,SF Bay Area,Redwood City,3,2007-01-01,2007-01,2007-Q1,2007,2009-06-04,2015-09-23,2009,2015
+Sequenom,http://www.sequenom.com,Biotechnology|Health Diagnostics,183117265,ipo,USA,CA,San Diego,San Diego,3,1994-01-01,1994-01,1994-Q1,1994,2009-12-29,2012-09-24,2009,2012
+Planet Labs,http://www.planet.com/,Aerospace|Geospatial,183100000,operating,USA,CA,SF Bay Area,San Francisco,5,2010-12-29,2010-12,2010-Q4,2010,2013-06-25,2015-04-14,2013,2015
+Impossible Foods,http://impossiblefoods.com/,Hospitality,183000000,operating,USA,CA,SF Bay Area,Redwood City,2,2011-01-01,2011-01,2011-Q1,2011,2014-10-14,2015-10-06,2014,2015
+CloudFlare,http://www.cloudflare.com,Enterprise Software|Security,182050000,operating,USA,CA,SF Bay Area,San Francisco,4,2009-07-01,2009-07,2009-Q3,2009,2009-11-25,2015-09-22,2009,2015
+SolarReserve,http://www.solar-reserve.com,Clean Technology,182000000,operating,USA,CA,Los Angeles,Santa Monica,3,2007-01-01,2007-01,2007-Q1,2007,2008-09-16,2011-10-24,2008,2011
+Aristos Logic,http://www.aristoslogic.com,Hardware + Software,181860000,acquired,USA,CA,"Orange County, California",Foothill Ranch,7,2000-01-01,2000-01,2000-Q1,2000,2001-12-18,2007-08-02,2001,2007
+Castlight Health,http://www.castlighthealth.com,Health and Wellness|Technology,180999999,ipo,USA,CA,SF Bay Area,San Francisco,5,2008-01-01,2008-01,2008-Q1,2008,2008-04-01,2012-05-01,2008,2012
+Meru Networks,http://www.merunetworks.com,Communications Hardware|Mobile|Technology,180600000,acquired,USA,CA,SF Bay Area,Sunnyvale,7,2002-01-01,2002-01,2002-Q1,2002,2004-04-22,2012-06-07,2004,2012
+aTyr Pharma,http://www.atyrpharma.com,Biotechnology,180500000,ipo,USA,CA,San Diego,San Diego,6,2005-01-01,2005-01,2005-Q1,2005,2007-04-18,2015-03-31,2007,2015
+Docker,https://www.docker.com,Development Platforms|Open Source|Software,180000000,operating,USA,CA,SF Bay Area,San Francisco,5,2010-01-01,2010-01,2010-Q1,2010,2011-03-15,2015-11-09,2011,2015
+Gogoro,http://gogoro.com,Energy,180000000,operating,USA,CA,SF Bay Area,San Francisco,3,2011-01-01,2011-01,2011-Q1,2011,2011-01-01,2015-11-17,2011,2015
+SmartDrive Systems,http://smartdrive.net,Analytics,178149887,operating,USA,CA,San Diego,San Diego,6,2004-01-01,2004-01,2004-Q1,2004,2007-01-23,2015-03-30,2007,2015
+Adaptive Insights,http://www.adaptiveinsights.com/,Analytics|Business Analytics|Cloud Data Services|Software,176275000,operating,USA,CA,SF Bay Area,Palo Alto,7,2003-04-01,2003-04,2003-Q2,2003,2003-09-01,2015-06-30,2003,2015
+Rigel Pharmaceuticals,http://www.rigel.com,Biotechnology,176000000,ipo,USA,CA,SF Bay Area,South San Francisco,2,1996-01-01,1996-01,1996-Q1,1996,2003-06-27,2011-05-27,2003,2011
+MarkLogic,http://www.marklogic.com,Content|Enterprise Search|Enterprise Software|Web Development,175563361,operating,USA,CA,SF Bay Area,San Carlos,7,2003-01-01,2003-01,2003-Q1,2003,2002-01-01,2015-05-11,2002,2015
+Amgen,http://www.amgen.com,Biotechnology,175463420,ipo,USA,CA,Los Angeles,Thousand Oaks,1,1985-01-01,1985-01,1985-Q1,1985,2012-03-12,2012-03-12,2012,2012
+Blue Jeans Network,http://bluejeans.com,Chat|Collaboration|Enterprise Software|SaaS|Software|Video Conferencing,175000000,operating,USA,CA,SF Bay Area,Mountain View,5,2009-01-01,2009-01,2009-Q1,2009,2009-11-01,2015-09-23,2009,2015
+Workday,http://www.workday.com,Colleges|Enterprise Software|Finance|FinTech|Human Resources|SaaS|Technology|Web Development,175000000,ipo,USA,CA,SF Bay Area,Pleasanton,3,2005-03-01,2005-03,2005-Q1,2005,2005-01-01,2011-10-24,2005,2011
+MapR Technologies,http://www.mapr.com,Analytics|Big Data|Big Data Analytics|Cloud Computing|Enterprises|Open Source|Software,173999994,operating,USA,CA,SF Bay Area,San Jose,5,2009-01-01,2009-01,2009-Q1,2009,2009-07-22,2014-06-30,2009,2014
+Ignyta,http://www.ignyta.com,Biotechnology|Health Care,173500000,ipo,USA,CA,San Diego,San Diego,7,2011-01-01,2011-01,2011-Q1,2011,2012-12-31,2015-11-16,2012,2015
+Apigee,http://www.apigee.com,Cloud Data Services|Enterprise Software,173000000,ipo,USA,CA,SF Bay Area,Palo Alto,7,2004-06-01,2004-06,2004-Q2,2004,2005-04-01,2014-04-29,2005,2014
+RockYou,http://www.rockyou.com,Facebook Applications|Games|Messaging|Mobile|Online Gaming|Online Video Advertising|Web Tools,172725336,operating,USA,CA,SF Bay Area,San Francisco,12,2005-11-01,2005-11,2005-Q4,2005,2006-05-01,2015-03-02,2006,2015
+HeartFlow,http://heartflow.com,Biotechnology|Health Diagnostics,172715918,operating,USA,CA,SF Bay Area,Redwood City,5,2007-01-01,2007-01,2007-Q1,2007,2010-04-19,2015-02-13,2010,2015
+Celladon,http://www.celladon.net,Biotechnology,172013496,ipo,USA,CA,San Diego,La Jolla,12,2000-01-01,2000-01,2000-Q1,2000,2005-12-07,2015-11-18,2005,2015
+CymaBay Therapeutics,http://www.cymabay.com,Biotechnology,171505694,ipo,USA,CA,SF Bay Area,Hayward,8,1991-01-01,1991-01,1991-Q1,1991,2003-08-29,2015-08-14,2003,2015
+Coupa Software,http://www.coupa.com,Cloud Infrastructure|Enterprise Software|Procurement|SaaS,169000000,operating,USA,CA,SF Bay Area,San Mateo,7,2006-01-01,2006-01,2006-Q1,2006,2007-03-13,2015-06-01,2007,2015
+Agility Communications,http://www.jdsu.com/,Lasers|Manufacturing|Optical Communications,168000000,acquired,USA,CA,Santa Barbara,Santa Barbara,4,1998-01-01,1998-01,1998-Q1,1998,2000-10-11,2005-03-09,2000,2005
+Zogenix,http://www.zogenix.com,Biotechnology|Health Care,167062156,ipo,USA,CA,San Diego,San Diego,6,2006-01-01,2006-01,2006-Q1,2006,2006-08-28,2010-07-13,2006,2010
+Quantenna Communications,http://www.quantenna.com,Semiconductors|Wireless,166153980,operating,USA,CA,SF Bay Area,Fremont,11,2006-01-01,2006-01,2006-Q1,2006,2006-05-31,2014-12-17,2006,2014
+Symphony,http://www.symphony.com,Technology,166000000,operating,USA,CA,SF Bay Area,Palo Alto,2,2014-09-30,2014-09,2014-Q3,2014,2014-10-01,2015-10-12,2014,2015
+Hyperion Therapeutics,http://www.hyperiontx.com,Biotechnology|Health Care,165961509,acquired,USA,CA,SF Bay Area,South San Francisco,7,2006-01-01,2006-01,2006-Q1,2006,2007-09-05,2011-11-04,2007,2011
+Dollar Shave Club,http://www.dollarshaveclub.com,E-Commerce|Retail,163500000,operating,USA,CA,Los Angeles,Los Angeles,5,2011-01-01,2011-01,2011-Q1,2011,2012-03-06,2015-11-19,2012,2015
+Turn,http://www.turn.com,Advertising|Software,163500000,operating,USA,CA,SF Bay Area,Redwood City,8,2006-01-01,2006-01,2006-Q1,2006,2005-01-01,2014-12-12,2005,2014
+"Alteryx, Inc.",http://alteryx.com,Analytics|Data Integration|Predictive Analytics,163000000,operating,USA,CA,Anaheim,Irvine,4,2010-01-01,2010-01,2010-Q1,2010,2011-04-05,2015-10-28,2011,2015
+Cortina Systems,http://www.cortina-systems.com,Hardware|Hardware + Software|Semiconductors|Software,162000000,acquired,USA,CA,SF Bay Area,Sunnyvale,2,2001-01-01,2001-01,2001-Q1,2001,2005-08-10,2006-09-11,2005,2006
+Crescendo Bioscience,http://www.crescendobio.com,Biotechnology,161600003,acquired,USA,CA,SF Bay Area,South San Francisco,5,2002-01-01,2002-01,2002-Q1,2002,2008-06-27,2013-01-03,2008,2013
+Glassdoor,https://www.glassdoor.com/index.htm,Career Management|Employment|Recruiting|Social Media,161500000,operating,USA,CA,SF Bay Area,Mill Valley,6,2007-06-01,2007-06,2007-Q2,2007,2008-03-27,2015-01-06,2008,2015
+Aperto Networks,http://www.apertonet.com,Mobile|Wireless,160279779,acquired,USA,CA,SF Bay Area,Milpitas,15,1999-01-01,1999-01,1999-Q1,1999,1999-01-01,2010-02-10,1999,2010
+Udacity,http://www.udacity.com,EdTech|Education,160000000,operating,USA,CA,SF Bay Area,Mountain View,4,2011-01-01,2011-01,2011-Q1,2011,2012-01-01,2015-11-11,2012,2015
+Zosano Pharma,http://zosanopharma.com,Biotechnology,158688887,ipo,USA,CA,SF Bay Area,Fremont,9,2006-10-01,2006-10,2006-Q4,2006,2007-11-15,2015-02-03,2007,2015
+Cameron Health,http://www.cameronhealth.com,Health Care,158500000,acquired,USA,CA,Anaheim,San Clemente,2,2001-01-01,2001-01,2001-Q1,2001,2008-06-17,2011-05-18,2008,2011
+Practice Fusion,http://www.practicefusion.com,Electronic Health Records|Health and Wellness|Health Care|Physicians,157519998,operating,USA,CA,SF Bay Area,San Francisco,12,2005-07-10,2005-07,2005-Q3,2005,2009-03-01,2014-10-20,2009,2014
+Revance Therapeutics,http://www.revance.com,Biotechnology|Health Care,156820000,ipo,USA,CA,SF Bay Area,Newark,5,2002-01-01,2002-01,2002-Q1,2002,2007-12-12,2013-10-24,2007,2013
+CrowdStrike,http://www.crowdstrike.com,Security,156000000,operating,USA,CA,Anaheim,Irvine,3,2011-01-01,2011-01,2011-Q1,2011,2012-02-23,2015-07-13,2012,2015
+Canadian Solar,http://www.canadian-solar.com/en,Semiconductors,155111530,ipo,USA,CA,Ontario - Inland Empire,Ontario,3,2001-01-01,2001-01,2001-Q1,2001,2014-02-26,2015-06-19,2014,2015
+Sumo Logic,http://www.sumologic.com,Analytics,155000000,operating,USA,CA,SF Bay Area,Redwood City,4,2010-01-01,2010-01,2010-Q1,2010,2012-01-31,2015-06-01,2012,2015
+Amonix,http://www.amonix.com,Clean Technology,154400000,operating,USA,CA,Los Angeles,Torrance,2,1989-01-01,1989-01,1989-Q1,1989,2009-11-24,2010-04-21,2009,2010
+Natera,http://www.natera.com,Biotechnology|Health Diagnostics,154100000,ipo,USA,CA,SF Bay Area,Redwood City,7,2004-01-01,2004-01,2004-Q1,2004,2008-12-05,2015-04-06,2008,2015
+XOJET,http://www.xojet.com,Public Transportation,153450218,operating,USA,CA,SF Bay Area,San Carlos,2,2001-01-01,2001-01,2001-Q1,2001,2007-09-26,2009-12-16,2007,2009
+"Roku, Inc.",http://www.roku.com,Consumer Electronics|Entertainment|Hardware + Software,153100000,operating,USA,CA,SF Bay Area,Saratoga,8,2002-10-01,2002-10,2002-Q4,2002,2008-01-01,2014-10-22,2008,2014
+Tandem Diabetes Care,http://www.tandemdiabetes.com,Health Care,152001200,ipo,USA,CA,San Diego,San Diego,4,2008-01-01,2008-01,2008-Q1,2008,2008-07-07,2012-09-11,2008,2012
+SGN (Social Gaming Network),http://www.sgn.com,Games,152000000,operating,USA,CA,Los Angeles,Culver City,5,2010-01-01,2010-01,2010-Q1,2010,2008-05-01,2015-07-23,2008,2015
+Lithium Technologies,http://www.lithium.com,Social CRM|Software,151650012,operating,USA,CA,SF Bay Area,San Francisco,13,2001-08-06,2001-08,2001-Q3,2001,2007-04-17,2013-09-03,2007,2013
+Kareo,http://www.kareo.com,Cloud Computing|Health Care Information Technology|Medical|Software|Startups,151299999,operating,USA,CA,Anaheim,Irvine,10,2004-02-01,2004-02,2004-Q1,2004,2005-04-25,2015-07-28,2005,2015
+Lytro,http://www.lytro.com,Hardware|Hardware + Software|Photography|Software,150750000,operating,USA,CA,SF Bay Area,Mountain View,5,2011-01-01,2011-01,2011-Q1,2011,2008-08-23,2014-11-13,2008,2014
+Calix,http://www.calix.com,Semiconductors|Telecommunications|Television|VoIP|Web Hosting,150000000,ipo,USA,CA,Napa Valley,Petaluma,3,1999-01-01,1999-01,1999-Q1,1999,2003-02-07,2009-08-31,2003,2009
+Sientra,http://www.sientra.com,Health Care,150000000,ipo,USA,CA,Santa Barbara,Santa Barbara,2,2007-01-01,2007-01,2007-Q1,2007,2007-04-18,2012-03-28,2007,2012
+Benvenue Medical,http://www.benvenuemedical.com,Health Care,149465921,operating,USA,CA,SF Bay Area,Santa Clara,8,2004-01-01,2004-01,2004-Q1,2004,2008-01-07,2014-06-18,2008,2014
+Tercica,http://www.ipsenus.com,Biotechnology,148500000,acquired,USA,CA,SF Bay Area,Brisbane,4,2002-01-01,2002-01,2002-Q1,2002,2002-03-27,2007-07-06,2002,2007
+3PAR,http://www.3par.com,Cloud Data Services|Services|Software,148000000,acquired,USA,CA,SF Bay Area,Fremont,3,1999-01-01,1999-01,1999-Q1,1999,2000-05-01,2004-02-10,2000,2004
+Zscaler,http://www.zscaler.com,Cloud Computing|Cloud Security|Data Security|Email|Internet|Mobile|Security,148000000,operating,USA,CA,SF Bay Area,San Jose,3,2008-01-01,2008-01,2008-Q1,2008,2012-08-30,2015-09-22,2012,2015
+Mobile Iron,http://mobileiron.com,Mobile,147584247,operating,USA,CA,SF Bay Area,Mountain View,5,2007-01-01,2007-01,2007-Q1,2007,2009-08-13,2013-08-29,2009,2013
+Prysm,http://www.prysm.com/,Displays|Hardware + Software,147558930,operating,USA,CA,SF Bay Area,San Jose,3,2005-01-01,2005-01,2005-Q1,2005,2010-01-05,2011-10-27,2010,2011
+CareDx,http://www.xdx.com,Biotechnology|Diagnostics|Fitness|Health and Wellness|Health Care|Health Diagnostics,146397292,ipo,USA,CA,SF Bay Area,Brisbane,9,2000-01-01,2000-01,2000-Q1,2000,2004-12-01,2012-09-12,2004,2012
+Optimizely,http://optimizely.com,Ad Targeting|Internet Marketing|Personalization|Software,146200000,operating,USA,CA,SF Bay Area,San Francisco,6,2009-12-01,2009-12,2009-Q4,2009,2009-12-15,2015-10-13,2009,2015
+Solazyme,http://www.solazyme.com,Chemicals|Clean Technology,146110000,ipo,USA,CA,SF Bay Area,South San Francisco,7,2003-01-01,2003-01,2003-Q1,2003,2004-12-01,2010-08-09,2004,2010
+Coursera,http://www.coursera.org,EdTech|Education,146100000,operating,USA,CA,SF Bay Area,Mountain View,6,2012-01-01,2012-01,2012-Q1,2012,2012-04-18,2015-10-27,2012,2015
+Trilliant,http://www.trilliantinc.com,Hardware + Software|Smart Grid,146000000,operating,USA,CA,SF Bay Area,Redwood City,3,1995-01-01,1995-01,1995-Q1,1995,2008-08-19,2010-12-21,2008,2010
+Five Prime Therapeutics,http://www.fiveprime.com,Biotechnology|Health and Wellness|Health Care,145540487,ipo,USA,CA,SF Bay Area,San Francisco,6,2002-01-01,2002-01,2002-Q1,2002,2005-02-08,2014-03-26,2005,2014
+MobileIron,http://www.mobileiron.com,Apps|Mobile|Mobile Devices|Mobile Security,144800000,ipo,USA,CA,SF Bay Area,Mountain View,8,2007-05-01,2007-05,2007-Q2,2007,2007-09-24,2013-10-10,2007,2013
+obopay,http://obopay.com,Mobile,144760181,operating,USA,CA,SF Bay Area,Redwood City,6,2005-01-01,2005-01,2005-Q1,2005,2006-03-08,2011-07-25,2006,2011
+Versartis,http://www.versartis.com,Health Care,144499999,ipo,USA,CA,SF Bay Area,Menlo Park,6,2008-12-01,2008-12,2008-Q4,2008,2009-06-02,2014-02-19,2009,2014
+Anaplan,http://www.anaplan.com,Cloud Computing|Enterprise Software,144400000,operating,USA,CA,SF Bay Area,San Francisco,3,2006-01-01,2006-01,2006-Q1,2006,2012-01-19,2014-05-13,2012,2014
+Nanosys,http://www.nanosysinc.com,Nanotechnology,144273501,operating,USA,CA,SF Bay Area,Milpitas,9,2001-01-01,2001-01,2001-Q1,2001,2003-04-24,2015-06-02,2003,2015
+Intrapace,http://intrapace.com,Biotechnology,143922827,operating,USA,CA,SF Bay Area,San Jose,6,2001-01-01,2001-01,2001-Q1,2001,2004-07-14,2013-08-26,2004,2013
+Sentient Technologies,http://Sentient.Ai,Software,143780450,operating,USA,CA,SF Bay Area,San Francisco,5,2007-01-01,2007-01,2007-Q1,2007,2010-04-19,2014-11-24,2010,2014
+Otonomy,http://www.otonomy.com,Biotechnology,143400000,ipo,USA,CA,San Diego,San Diego,4,2008-01-01,2008-01,2008-Q1,2008,2010-06-11,2014-04-30,2010,2014
+Aduro BioTech,http://www.aduro.com,Biotechnology,143380947,ipo,USA,CA,SF Bay Area,Berkeley,8,2000-01-01,2000-01,2000-Q1,2000,2009-11-17,2015-01-05,2009,2015
+MobiTV,http://mobitv.com,Games|Mobile Video|Software|Video Streaming,142799000,operating,USA,CA,SF Bay Area,Emeryville,7,2003-11-01,2003-11,2003-Q4,2003,2001-06-30,2013-04-01,2001,2013
+Illumio,http://www.illumio.com,Data Centers|Enterprise Software|Security|Software,142500000,operating,USA,CA,SF Bay Area,Sunnyvale,3,2013-01-01,2013-01,2013-Q1,2013,2013-01-14,2015-04-14,2013,2015
+Virident Systems,http://www.virident.com,Clean Technology|Enterprise Software|Hardware|Technology,142332152,acquired,USA,CA,SF Bay Area,Milpitas,8,2006-01-01,2006-01,2006-Q1,2006,2007-05-01,2013-01-28,2007,2013
+Yammer,http://www.yammer.com,Enterprises|Enterprise Software|Networking|Social Media|Twitter Applications|Web Development,142000000,acquired,USA,CA,SF Bay Area,San Francisco,5,2008-09-10,2008-09,2008-Q3,2008,2009-01-19,2012-02-29,2009,2012
+Auction.com,http://www.auction.com,Real Estate,141750000,operating,USA,CA,Anaheim,Irvine,3,2007-01-01,2007-01,2007-Q1,2007,2012-08-17,2014-03-05,2012,2014
+CipherMax,http://www.CipherMaxInc.com,Security,141535713,closed,USA,CA,SF Bay Area,San Jose,8,2000-01-01,2000-01,2000-Q1,2000,2001-05-08,2007-02-25,2001,2007
+Carbon3D,http://carbon3d.com,3D Technology,141000000,operating,USA,CA,SF Bay Area,Redwood City,3,2013-01-01,2013-01,2013-Q1,2013,2013-12-31,2015-08-20,2013,2015
+Quora,http://quora.com,Curated Web|Semantic Search,141000000,operating,USA,CA,SF Bay Area,Mountain View,3,2009-06-01,2009-06,2009-Q2,2009,2010-03-28,2014-04-09,2010,2014
+IronPlanet,http://www.ironplanet.com,E-Commerce,140041914,operating,USA,CA,SF Bay Area,Pleasanton,7,1999-01-01,1999-01,1999-Q1,1999,1999-01-01,2015-09-17,1999,2015
+NantWorks,http://nantmobile.com/,Semiconductors,140000000,operating,USA,CA,Los Angeles,Los Angeles,2,2013-01-01,2013-01,2013-Q1,2013,2012-07-25,2014-05-18,2012,2014
+RetailNext,http://www.retailnext.net,Data Visualization|Manufacturing|Retail,140000000,operating,USA,CA,SF Bay Area,San Jose,2,2007-11-01,2007-11,2007-Q4,2007,2014-04-30,2015-04-15,2014,2015
+Intacct,http://www.intacct.com,Accounting|Cloud Computing|Enterprise Software|Finance|SaaS|Software,139800000,operating,USA,CA,SF Bay Area,San Jose,9,1999-01-01,1999-01,1999-Q1,1999,2006-05-21,2014-02-18,2006,2014
+OSIsoft,http://www.osisoft.com,Enterprise Software,139500000,operating,USA,CA,SF Bay Area,San Leandro,2,1980-01-01,1980-01,1980-Q1,1980,2009-10-21,2011-01-05,2009,2011
+eASIC,http://www.easic.com,Semiconductors,139143676,operating,USA,CA,SF Bay Area,Santa Clara,9,1999-01-01,1999-01,1999-Q1,1999,2004-05-28,2013-09-11,2004,2013
+Nixon,http://www.nixon.com/ot/en/,Fashion,139000000,operating,USA,CA,San Diego,Encinitas,1,1997-01-01,1997-01,1997-Q1,1997,2012-02-19,2012-02-19,2012,2012
+Delivery Agent,http://www.deliveryagent.com,E-Commerce,138442109,operating,USA,CA,SF Bay Area,San Francisco,12,2001-01-01,2001-01,2001-Q1,2001,2005-03-29,2014-08-26,2005,2014
+Alvine Pharmaceuticals,http://www.alvinepharma.com,Biotechnology,138012000,operating,USA,CA,SF Bay Area,San Carlos,6,2005-01-01,2005-01,2005-Q1,2005,2006-09-06,2013-05-14,2006,2013
+Wikimedia Foundation,http://wikimediafoundation.org,Nonprofits|Open Source|Semantic Search|Web Tools,138000000,operating,USA,CA,SF Bay Area,San Francisco,8,2003-06-20,2003-06,2003-Q2,2003,2008-03-01,2012-12-01,2008,2012
+ViaSat,http://www.viasat.com,Mobile,137805780,ipo,USA,CA,San Diego,Carlsbad,2,1986-01-01,1986-01,1986-Q1,1986,2009-12-23,2010-07-08,2009,2010
+Audentes Therapeutics,http://audentestx.com,Biotechnology,137500000,operating,USA,CA,SF Bay Area,San Francisco,3,2013-01-01,2013-01,2013-Q1,2013,2013-07-18,2015-10-13,2013,2015
+Autonomic Technologies,http://www.ati-spg.com,Health Care,136200000,operating,USA,CA,SF Bay Area,San Francisco,5,2007-01-01,2007-01,2007-Q1,2007,2008-01-14,2015-06-25,2008,2015
+TubeMogul,http://www.tubemogul.com,Advertising|Analytics|Content Syndication|Internet|Online Video Advertising|Software|Video,136057047,ipo,USA,CA,SF Bay Area,Emeryville,8,2006-11-01,2006-11,2006-Q4,2006,2007-10-15,2015-06-11,2007,2015
+Achronix Semiconductor,http://www.achronix.com,Semiconductors,135776263,operating,USA,CA,SF Bay Area,Santa Clara,5,2004-01-01,2004-01,2004-Q1,2004,2007-01-23,2013-04-09,2007,2013
+CardioKinetix,http://www.cardiokinetix.com,Health and Wellness|Health Care|Medical Devices,135500000,operating,USA,CA,SF Bay Area,Menlo Park,5,2003-01-01,2003-01,2003-Q1,2003,2008-07-15,2014-12-08,2008,2014
+Serious Energy,http://www.seriousenergy.com,Clean Technology,135147224,operating,USA,CA,SF Bay Area,Sunnyvale,5,2002-05-01,2002-05,2002-Q2,2002,2007-11-01,2011-11-21,2007,2011
+Quixey,http://www.quixey.com,Technology,134900000,operating,USA,CA,SF Bay Area,Mountain View,6,2009-11-01,2009-11,2009-Q4,2009,2011-04-07,2015-03-06,2011,2015
+Direct Flow Medical,http://www.directflowmedical.com,Health Care,134347607,operating,USA,CA,Napa Valley,Santa Rosa,5,2004-01-01,2004-01,2004-Q1,2004,2007-10-19,2014-12-05,2007,2014
+Ning by Glam Media,http://www.ning.com,Communities|Enterprise Software|Software,134000002,acquired,USA,CA,SF Bay Area,Brisbane,5,2004-10-31,2004-10,2004-Q4,2004,2007-01-01,2009-07-23,2007,2009
+CytomX Therapeutics,http://www.cytomx.com,Biotechnology,133500000,ipo,USA,CA,Santa Barbara,Santa Barbara,5,2008-01-01,2008-01,2008-Q1,2008,2010-03-03,2015-06-16,2010,2015
+ZPower,http://zpowerbattery.com/index.html,Batteries|Clean Technology|Medical Devices,133437465,operating,USA,CA,Santa Barbara,Camarillo,8,1996-01-01,1996-01,1996-Q1,1996,2004-10-12,2014-05-28,2004,2014
+iRhythm Technologies,http://www.irhythmtech.com,Biotechnology,133171781,operating,USA,CA,SF Bay Area,San Francisco,11,2006-01-01,2006-01,2006-Q1,2006,2007-02-08,2015-03-17,2007,2015
+Glu Mobile,http://www.glu.com,Freemium|Games|Mobile|Technology,133121250,ipo,USA,CA,SF Bay Area,San Francisco,5,2001-01-01,2001-01,2001-Q1,2001,2005-04-22,2015-05-14,2005,2015
+AltSchool,http://www.altschool.com,Education|Technology,133000000,operating,USA,CA,SF Bay Area,San Francisco,3,2013-01-01,2013-01,2013-Q1,2013,2013-08-01,2015-05-04,2013,2015
+Vessel,http://www.vessel.com/,Content|Content Creators|Internet|Video,132500000,operating,USA,CA,SF Bay Area,San Francisco,2,2013-01-01,2013-01,2013-Q1,2013,2014-06-24,2015-04-17,2014,2015
+OptiSolar R&D,http://www.optisolar.com,Clean Technology|Manufacturing|Solar,132000000,acquired,USA,CA,SF Bay Area,Hayward,1,2002-01-01,2002-01,2002-Q1,2002,2008-04-11,2008-04-11,2008,2008
+Netskope,https://www.netskope.com,Cloud Security|Data Security|Information Security|Software,131400000,operating,USA,CA,SF Bay Area,Los Altos,4,2012-10-08,2012-10,2012-Q4,2012,2013-01-01,2015-09-03,2013,2015
+thredUP,http://www.thredup.com,E-Commerce|Fashion|Retail,131120000,operating,USA,CA,SF Bay Area,San Francisco,6,2009-01-01,2009-01,2009-Q1,2009,2010-02-24,2015-09-10,2010,2015
+Atieva,http://www.atieva.com,Automotive|Electric Vehicles|Software,131000000,operating,USA,CA,SF Bay Area,Menlo Park,3,2007-01-01,2007-01,2007-Q1,2007,2009-12-17,2014-05-21,2009,2014
+Joyent,http://www.joyent.com,Apps|Automotive|Cloud Computing|Enterprise Software|Facebook Applications|Infrastructure|Open Source|Software|Web Hosting,130999998,operating,USA,CA,SF Bay Area,San Francisco,8,2004-01-01,2004-01,2004-Q1,2004,2005-01-01,2014-10-31,2005,2014
+Specific Media,http://www.specificmedia.com,Advertising|Auctions|Digital Media,130868275,operating,USA,CA,Anaheim,Irvine,6,2000-07-01,2000-07,2000-Q3,2000,2006-01-31,2012-01-01,2006,2012
+ECOtality,http://www.reuters.com/article/2013/09/17/us-ecotality-bankruptcy-idUSBRE98G1E720130917,Clean Technology,130300000,closed,USA,CA,SF Bay Area,San Francisco,4,1999-01-01,1999-01,1999-Q1,1999,2009-08-01,2012-03-14,2009,2012
+Cyan,http://cyaninc.com,Software|Telecommunications,130082104,acquired,USA,CA,Napa Valley,Petaluma,7,2006-01-01,2006-01,2006-Q1,2006,2006-09-15,2014-12-23,2006,2014
+ReVision Optics,http://www.revisionoptics.com,Biotechnology,129999998,operating,USA,CA,Anaheim,Lake Forest,4,1996-01-01,1996-01,1996-Q1,1996,2007-04-30,2013-07-29,2007,2013
+PaxVax,http://paxvax.com,Biotechnology,129606472,operating,USA,CA,SF Bay Area,Menlo Park,7,2007-01-01,2007-01,2007-Q1,2007,2009-11-09,2014-07-28,2009,2014
+Wealthfront,http://wealthfront.com,Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management,129500000,operating,USA,CA,SF Bay Area,Palo Alto,5,2011-12-01,2011-12,2011-Q4,2011,2008-12-16,2014-10-27,2008,2014
+Theravance,http://www.theravance.com,Biotechnology|Health Care,129375000,ipo,USA,CA,SF Bay Area,South San Francisco,1,1996-01-01,1996-01,1996-Q1,1996,2010-11-29,2010-11-29,2010,2010
+Bill.com,http://www.bill.com,Finance|SaaS,129100000,operating,USA,CA,SF Bay Area,Palo Alto,8,2006-08-01,2006-08,2006-Q3,2006,2007-01-01,2015-02-11,2007,2015
+Birst,http://www.birst.com,Analytics|Business Intelligence|Enterprise Software|Web Development,129000000,operating,USA,CA,SF Bay Area,San Francisco,3,2004-01-01,2004-01,2004-Q1,2004,2012-05-01,2015-03-17,2012,2015
+Fastly,http://www.fastly.com/,Content Delivery,129000000,operating,USA,CA,SF Bay Area,San Francisco,5,2011-03-08,2011-03,2011-Q1,2011,2011-01-01,2015-08-05,2011,2015
+Tradeshift,http://tradeshift.com,Cloud Computing|Enterprise Software|Software,128999992,operating,USA,CA,SF Bay Area,San Francisco,4,2009-07-01,2009-07,2009-Q3,2009,2011-05-16,2014-05-08,2011,2014
+Revel Systems,https://revelsystems.com,Analytics|Mobile|Mobile Payments|Point of Sale,128500000,operating,USA,CA,SF Bay Area,San Francisco,6,2010-09-15,2010-09,2010-Q3,2010,2011-05-24,2015-08-18,2011,2015
+3-V Biosciences,http://www.3vbio.com,Biotechnology,128477567,operating,USA,CA,SF Bay Area,Menlo Park,7,2007-03-01,2007-03,2007-Q1,2007,2007-05-22,2015-03-17,2007,2015
+National Veterinary Associates,http://www.nvaonline.com,Medical Professionals,128000000,acquired,USA,CA,Los Angeles,Agoura Hills,1,1996-01-01,1996-01,1996-Q1,1996,2007-05-01,2007-05-01,2007,2007
+Tilera,http://www.tilera.com,Semiconductors,127522596,acquired,USA,CA,SF Bay Area,San Jose,7,2004-01-01,2004-01,2004-Q1,2004,2005-06-13,2012-07-19,2005,2012
+DFine,http://www.dfineinc.com,Health Care|Medical Devices,127342000,operating,USA,CA,SF Bay Area,San Jose,7,2004-01-01,2004-01,2004-Q1,2004,2005-12-14,2012-04-01,2005,2012
+Singulex,http://www.singulex.com,Biotechnology,127336875,operating,USA,CA,SF Bay Area,Alameda,7,2003-01-01,2003-01,2003-Q1,2003,2006-07-17,2013-09-26,2006,2013
+ReachLocal,http://www.reachlocal.com,Advertising|Internet Marketing|Sales and Marketing|Semantic Search|SEO|Social Media|Web Presence Management,127335670,ipo,USA,CA,Los Angeles,Woodland Hills,8,2004-01-01,2004-01,2004-Q1,2004,2004-03-01,2015-05-06,2004,2015
+Motif Investing,https://www.motifinvesting.com,Brokers|Consumers|Finance|Financial Services,126500000,operating,USA,CA,SF Bay Area,San Mateo,6,2010-06-01,2010-06,2010-Q2,2010,2011-07-07,2015-01-20,2011,2015
+Astute Medical,http://www.astutemedical.com,Biotechnology|Health Care|Health Diagnostics,126134082,operating,USA,CA,San Diego,San Diego,7,2007-01-01,2007-01,2007-Q1,2007,2008-05-01,2015-10-14,2008,2015
+FibroGen,http://www.fibrogen.com,Biotechnology,126023000,operating,USA,CA,SF Bay Area,San Francisco,3,1993-01-01,1993-01,1993-Q1,1993,2005-02-17,2014-12-10,2005,2014
+8x8 Inc,https://www.8x8.com,Contact Centers|Telecommunications|Unifed Communications|Video Conferencing,126000000,ipo,USA,CA,SF Bay Area,San Jose,1,1987-01-01,1987-01,1987-Q1,1987,2013-11-20,2013-11-20,2013,2013
+Neotract,http://urolift.com/,Health Care,125964844,closed,USA,CA,SF Bay Area,Mountain View,4,2004-01-01,2004-01,2004-Q1,2004,2006-03-30,2014-01-28,2006,2014
+Avinger,http://www.avinger.com,Health Care,125796572,ipo,USA,CA,SF Bay Area,Redwood City,5,2007-01-01,2007-01,2007-Q1,2007,2011-01-11,2014-09-15,2011,2014
+Rdio,http://www.rdio.com/,Music,125700000,closed,USA,CA,SF Bay Area,San Francisco,6,2008-08-01,2008-08,2008-Q3,2008,2009-10-14,2014-04-01,2009,2014
+MetricStream,http://metricstream.com,Risk Management|Software,125020000,operating,USA,CA,SF Bay Area,Palo Alto,6,1999-01-01,1999-01,1999-Q1,1999,2006-09-29,2014-09-04,2006,2014
+Alignment Healthcare,http://www.alignmenthealthcare.com/,Health Care,125000000,closed,USA,CA,Anaheim,Irvine,1,2013-01-01,2013-01,2013-Q1,2013,2014-04-28,2014-04-28,2014,2014
+Boingo Wireless,http://www.boingo.com,Software|Telecommunications,125000000,ipo,USA,CA,Los Angeles,Los Angeles,3,2001-01-01,2001-01,2001-Q1,2001,2003-10-10,2014-12-01,2003,2014
+Collective Health,http://collectivehealth.com,Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software,125000000,operating,USA,CA,SF Bay Area,San Mateo,3,2013-01-01,2013-01,2013-Q1,2013,2014-01-31,2015-10-20,2014,2015
+Siluria Technologies,http://www.siluria.com,Nanotechnology,124468875,operating,USA,CA,SF Bay Area,San Francisco,7,2008-01-01,2008-01,2008-Q1,2008,2009-06-05,2015-11-17,2009,2015
+Intuity Medical,http://www.intuitymedical.com,Health Care|Medical Devices,124402778,operating,USA,CA,SF Bay Area,Sunnyvale,10,2002-01-01,2002-01,2002-Q1,2002,2010-01-05,2015-07-10,2010,2015
+Yodlee,http://www.yodlee.com,Finance,124309780,acquired,USA,CA,SF Bay Area,Redwood City,4,1999-01-01,1999-01,1999-Q1,1999,2006-06-29,2012-05-09,2006,2012
+Ingenu,http://www.ingenu.com,Communications Infrastructure|Internet of Things|Mobile|Smart Grid|Wireless,123584454,operating,USA,CA,San Diego,San Diego,7,2008-04-01,2008-04,2008-Q2,2008,2009-08-06,2015-07-28,2009,2015
+SoundCloud Inc.,http://www.soundcloud.com/,Artists Globally|Independent Music Labels|Music|Network Security|Usability,123319000,operating,USA,CA,Los Angeles,Los Angeles,5,2011-01-01,2011-01,2011-Q1,2011,2009-04-14,2014-07-31,2009,2014
+Stoke,http://www.stoke.com,Mobile,122609480,operating,USA,CA,SF Bay Area,Santa Clara,11,2004-01-01,2004-01,2004-Q1,2004,2004-01-01,2014-02-02,2004,2014
+Aragon Pharmaceuticals,http://www.aragonpharmaceuticals.com,Biotechnology|Health and Wellness,122000000,acquired,USA,CA,San Diego,San Diego,4,2009-01-01,2009-01,2009-Q1,2009,2009-05-27,2012-10-04,2009,2012
+Ooyala,http://www.ooyala.com,Analytics|Video|Video Streaming,122000000,acquired,USA,CA,SF Bay Area,Mountain View,7,2007-04-05,2007-04,2007-Q2,2007,2007-06-01,2013-12-11,2007,2013
+Mblox,http://mblox.com,Mobile|SMS|Wireless,121842730,operating,USA,CA,SF Bay Area,Campbell,7,1999-01-01,1999-01,1999-Q1,1999,2004-07-09,2014-07-07,2004,2014
+21 Inc,https://21.co,Big Data|Bitcoin|Hardware + Software|Technology,121050000,operating,USA,CA,SF Bay Area,San Francisco,2,2013-05-01,2013-05,2013-Q2,2013,2013-11-17,2015-03-10,2013,2015
+Pulse Electronics,http://www.pulseelectronics.com,Hardware + Software,121044236,acquired,USA,CA,San Diego,San Diego,3,1947-01-01,1947-01,1947-Q1,1947,2012-11-20,2014-03-05,2012,2014
+Glaukos,http://www.glaukos.com,Health Care,121000392,ipo,USA,CA,Los Angeles,Laguna Hills,7,2001-01-01,2001-01,2001-Q1,2001,2002-09-01,2013-02-07,2002,2013
+Banjo,http://www.ban.jo,Android|Apps|Concerts|Internet|iOS|iPad|iPhone|Location Based Services|Mobile|News|Real Time|Social Media|Social Search|Sports,121000000,operating,USA,CA,SF Bay Area,Redwood City,3,2011-06-22,2011-06,2011-Q2,2011,2010-08-01,2015-05-06,2010,2015
+SpiderCloud Wireless,http://www.spidercloud.com,Enterprise Software,120999995,operating,USA,CA,SF Bay Area,San Jose,5,2007-01-01,2007-01,2007-Q1,2007,2009-12-12,2015-01-06,2009,2015
+Juniper Networks,http://www.juniper.net,Communications Hardware|Security|Technology,120607339,ipo,USA,CA,SF Bay Area,Sunnyvale,2,1996-02-06,1996-02,1996-Q1,1996,2012-12-27,2014-01-22,2012,2014
+Aerovance,http://www.aerovance.com,Biotechnology,120500000,closed,USA,CA,CA - Other,Lucerne Valley,5,2004-01-01,2004-01,2004-Q1,2004,2007-03-28,2011-03-21,2007,2011
+"Insikt, Inc.",http://www.insikt.com,Financial Services,120500000,operating,USA,CA,SF Bay Area,San Francisco,6,2012-11-01,2012-11,2012-Q4,2012,2013-03-01,2015-07-27,2013,2015
+Beats Music,http://beatsmusic.com,Android|Internet|iOS|Music,120000000,closed,USA,CA,SF Bay Area,San Francisco,2,2013-01-01,2013-01,2013-Q1,2013,2013-03-01,2014-03-11,2013,2014
+Caspian Networks,http://www.caspiannetworks.com,Computers|Internet|Networking,120000000,closed,USA,CA,SF Bay Area,San Jose,1,1999-01-01,1999-01,1999-Q1,1999,2002-02-27,2002-02-27,2002,2002
+Chrome River Technologies,http://www.chromeriver.com,SaaS|Software,120000000,operating,USA,CA,Los Angeles,Los Angeles,3,2007-01-01,2007-01,2007-Q1,2007,2012-05-01,2015-06-30,2012,2015
+Hampton Creek,http://www.hamptoncreek.com/,Consumer Goods|Environmental Innovation|Specialty Foods|Technology,120000000,operating,USA,CA,SF Bay Area,San Francisco,5,2011-12-01,2011-12,2011-Q4,2011,2011-01-01,2014-12-18,2011,2014
+Telogis,http://www.telogis.com,Enterprises|Enterprise Software|Fleet Management|Gps|Navigation|SaaS|Software|Transportation,120000000,operating,USA,CA,Anaheim,Aliso Viejo,5,2001-03-01,2001-03,2001-Q1,2001,2009-04-03,2015-05-18,2009,2015
+TV2 Holding,http://trivascular.com,Biotechnology,119865030,operating,USA,CA,Napa Valley,Santa Rosa,5,2007-01-01,2007-01,2007-Q1,2007,2009-11-06,2013-11-07,2009,2013
+Delphix,http://www.delphix.com,Software,119500000,operating,USA,CA,SF Bay Area,Menlo Park,4,2008-06-01,2008-06,2008-Q2,2008,2009-02-04,2015-07-13,2009,2015
+Adchemy,http://www.adchemy.com,Advertising,119191000,acquired,USA,CA,SF Bay Area,Foster City,7,2004-01-01,2004-01,2004-Q1,2004,2005-02-09,2011-09-21,2005,2011
+Fulcrum Bioenergy,http://www.fulcrum-bioenergy.com,Clean Technology,119000000,operating,USA,CA,SF Bay Area,Pleasanton,4,2007-01-01,2007-01,2007-Q1,2007,2008-04-28,2015-07-01,2008,2015
+AlienVault,http://www.alienvault.com,Security,118400035,operating,USA,CA,SF Bay Area,San Mateo,8,2007-03-07,2007-03,2007-Q1,2007,2010-06-16,2015-08-19,2010,2015
+Tidemark,http://www.tidemark.com,Analytics|Cloud Computing|Enterprises|PaaS|SaaS,118370901,operating,USA,CA,SF Bay Area,Redwood City,8,2009-01-01,2009-01,2009-Q1,2009,2010-10-07,2015-06-16,2010,2015
+Danger,http://danger.com,Software,118300000,acquired,USA,CA,SF Bay Area,Palo Alto,5,1999-12-01,1999-12,1999-Q4,1999,2000-09-22,2006-11-21,2000,2006
+GainSpan,http://www.gainspan.com,Semiconductors,118188900,operating,USA,CA,SF Bay Area,San Jose,9,2006-09-01,2006-09,2006-Q3,2006,2006-09-01,2014-12-31,2006,2014
+A10 Networks,http://www.a10networks.com,Cloud Computing|Communications Hardware|Hardware|Networking|Optimization|Security|SEO|Technology|Virtualization|Web Hosting,118000000,ipo,USA,CA,SF Bay Area,San Jose,4,2004-10-01,2004-10,2004-Q4,2004,2005-01-01,2013-10-03,2005,2013
+Tegile Systems,http://www.tegile.com,Data Center Infrastructure|Enterprise Hardware|Flash Storage|Virtualization,117523823,operating,USA,CA,SF Bay Area,Newark,4,2010-01-01,2010-01,2010-Q1,2010,2010-07-01,2015-05-27,2010,2015
+Gynesonics,http://www.gynesonics.com,Health Care,117296441,operating,USA,CA,SF Bay Area,Redwood City,10,2005-01-01,2005-01,2005-Q1,2005,2007-01-24,2015-11-17,2007,2015
+Achaogen,http://www.achaogen.com,Biotechnology|Health Care,116605707,ipo,USA,CA,SF Bay Area,South San Francisco,4,2004-01-01,2004-01,2004-Q1,2004,2004-08-01,2013-03-22,2004,2013
+One Medical Group,http://www.onemedical.com,Doctors|Health Care|Medical,116500000,operating,USA,CA,SF Bay Area,San Francisco,6,2007-01-01,2007-01,2007-Q1,2007,2007-01-01,2014-04-17,2007,2014
+Sutro Biopharma,http://www.sutrobio.com,Biotechnology,116305000,operating,USA,CA,SF Bay Area,South San Francisco,7,2003-01-01,2003-01,2003-Q1,2003,2006-01-01,2013-12-11,2006,2013
+Solaria,http://www.solaria.com,Clean Technology,116169114,operating,USA,CA,SF Bay Area,Fremont,5,1963-01-01,1963-01,1963-Q1,1963,2009-12-07,2015-02-25,2009,2015
+Couchbase,http://www.couchbase.com,Analytics|Big Data|Databases|Enterprise Software,116000000,operating,USA,CA,SF Bay Area,Mountain View,6,2009-01-02,2009-01,2009-Q1,2009,2009-01-01,2014-06-26,2009,2014
+Hansen Medical,http://www.hansenmedical.com,Health Care,115971247,ipo,USA,CA,SF Bay Area,Mountain View,5,2002-01-01,2002-01,2002-Q1,2002,2011-12-08,2015-03-25,2011,2015
+Blue Bottle Coffee,http://www.bluebottlecoffee.com,Coffee|E-Commerce,115700000,operating,USA,CA,SF Bay Area,Oakland,3,2002-01-01,2002-01,2002-Q1,2002,2012-01-01,2015-06-04,2012,2015
+Cyanogen,http://cyngn.com,Services|Software,115000000,operating,USA,CA,SF Bay Area,Palo Alto,3,2013-12-01,2013-12,2013-Q4,2013,2013-09-18,2015-03-23,2013,2015
+Siva Power,http://www.sivapower.com/,Clean Technology,115000000,operating,USA,CA,SF Bay Area,San Jose,8,2006-01-01,2006-01,2006-Q1,2006,2007-08-30,2015-01-29,2007,2015
+Kineto Wireless,http://www.kineto.com,Mobile|Wireless,114449379,acquired,USA,CA,SF Bay Area,Milpitas,12,2001-01-01,2001-01,2001-Q1,2001,2001-05-16,2012-04-24,2001,2012
+Coraid,http://www.coraid.com,Storage,114300000,operating,USA,CA,SF Bay Area,Redwood City,4,2000-01-01,2000-01,2000-Q1,2000,2009-12-01,2013-12-01,2009,2013
+Five9,http://www.five9.com,Enterprise Software|Technology,114100000,ipo,USA,CA,SF Bay Area,San Ramon,8,2001-01-01,2001-01,2001-Q1,2001,2004-04-28,2014-03-10,2004,2014
+Adconion Media Group,http://www.adconion.com,Ad Targeting|Advertising|Entertainment,114000000,acquired,USA,CA,Los Angeles,Santa Monica,3,2005-01-01,2005-01,2005-Q1,2005,2007-01-31,2011-05-09,2007,2011
+"ChargePoint, Inc.",http://www.chargepoint.com,Clean Technology,113993598,operating,USA,CA,SF Bay Area,Campbell,7,2007-01-01,2007-01,2007-Q1,2007,2009-01-26,2014-07-29,2009,2014
+SiBEAM,http://www.sibeam.com,Mobile|Semiconductors,113750000,acquired,USA,CA,SF Bay Area,Sunnyvale,6,2004-12-01,2004-12,2004-Q4,2004,2004-12-01,2010-03-09,2004,2010
+Silk Road Medical,http://www.silkroadmed.com,Health Care,113625793,operating,USA,CA,SF Bay Area,Sunnyvale,6,2007-01-01,2007-01,2007-Q1,2007,2007-05-07,2015-10-20,2007,2015
+Actelis Networks,http://www.actelis.com,Internet|Software|Web Hosting,113616859,operating,USA,CA,SF Bay Area,Fremont,8,1998-01-01,1998-01,1998-Q1,1998,2001-06-06,2013-06-24,2001,2013
+Axcient,https://axcient.com,Archiving|Business Services|Cloud Computing|Enterprise Software|Flash Storage|Homeland Security|Storage|Virtualization,113500000,operating,USA,CA,SF Bay Area,Mountain View,7,2006-01-01,2006-01,2006-Q1,2006,2008-09-01,2015-02-18,2008,2015
+YapStone,http://www.yapstone.com,Finance|Finance Technology|Financial Services|FinTech|Mobile Payments|Payments,113400000,operating,USA,CA,SF Bay Area,Walnut Creek,3,1999-01-01,1999-01,1999-Q1,1999,2009-08-13,2015-03-31,2009,2015
+Vigilant Solutions,http://vigilantsolutions.com/,Law Enforcement|Licensing,113214186,operating,USA,CA,SF Bay Area,Livermore,2,2005-01-01,2005-01,2005-Q1,2005,2014-08-27,2015-04-23,2014,2015
+Genomatica,http://www.genomatica.com,Clean Technology,113125621,operating,USA,CA,San Diego,San Diego,4,2000-01-01,2000-01,2000-Q1,2000,2010-04-08,2014-03-07,2010,2014
+eHarmony,http://eharmony.com,Curated Web,113000000,operating,USA,CA,Los Angeles,Santa Monica,2,2000-08-01,2000-08,2000-Q3,2000,2000-06-01,2004-11-01,2000,2004
+Money360,http://www.money360.com/,Real Estate,113000000,operating,USA,CA,"Orange County, California",Ladera Ranch,3,2010-01-01,2010-01,2010-Q1,2010,2014-01-01,2015-04-14,2014,2015
+Udemy,http://www.udemy.com,Education|Marketplaces|Technology,113000000,operating,USA,CA,SF Bay Area,San Francisco,5,2010-02-01,2010-02,2010-Q1,2010,2010-08-31,2015-06-02,2010,2015
+Restoration Robotics,http://restorationrobotics.com,Biotechnology|Health Care,112999999,operating,USA,CA,SF Bay Area,Mountain View,4,2002-01-01,2002-01,2002-Q1,2002,2007-08-13,2014-11-10,2007,2014
+Ardelyx,http://www.ardelyx.com,Biotechnology,112785321,ipo,USA,CA,SF Bay Area,Fremont,3,2007-01-01,2007-01,2007-Q1,2007,2010-11-16,2015-06-22,2010,2015
+Xirrus,http://www.xirrus.com,Cloud Management|Mobile,112724312,operating,USA,CA,Los Angeles,Thousand Oaks,7,2004-01-01,2004-01,2004-Q1,2004,2006-01-30,2015-03-13,2006,2015
+Zenverge,http://www.zenverge.com,Semiconductors,112254773,acquired,USA,CA,SF Bay Area,Cupertino,9,2005-01-01,2005-01,2005-Q1,2005,2007-02-05,2013-12-10,2007,2013
+Infinera Corporation,http://www.infinera.com,Telecommunications|Web Hosting,112000000,ipo,USA,CA,SF Bay Area,Sunnyvale,4,2000-01-01,2000-01,2000-Q1,2000,2002-11-15,2007-10-23,2002,2007
+Appirio,http://www.appirio.com,Cloud Computing|Enterprise Software|SaaS|Software,111700000,operating,USA,CA,SF Bay Area,San Francisco,5,2006-09-09,2006-09,2006-Q3,2006,2008-03-13,2015-04-16,2008,2015
+Spinal Modulation,http://www.spinalmodulation.com,Health Care|Medical Devices,111270388,operating,USA,CA,SF Bay Area,Menlo Park,5,2004-01-01,2004-01,2004-Q1,2004,2006-01-24,2013-06-07,2006,2013
+Accumetrics,http://www.accumetrics.com,Biotechnology,110640466,acquired,USA,CA,San Diego,San Diego,9,1996-01-01,1996-01,1996-Q1,1996,2003-05-16,2013-08-30,2003,2013
+Virdia,http://www.virdia.com,Clean Energy|Clean Technology,110500000,acquired,USA,CA,SF Bay Area,Redwood City,4,2007-12-01,2007-12,2007-Q4,2007,2009-06-01,2012-03-06,2009,2012
+Allegro Networks,http://www.allegronetworks.com,Application Platforms|Internet|Services,110000000,closed,USA,CA,SF Bay Area,San Jose,2,2000-01-01,2000-01,2000-Q1,2000,2001-10-04,2002-02-04,2001,2002
+NantMobile,http://nantmobile.com/,Software,110000000,operating,USA,CA,Los Angeles,Culver City,4,2013-01-01,2013-01,2013-Q1,2013,2012-10-03,2014-10-31,2012,2014
+OmniSky,http://www.omnisky.com,Software,110000000,operating,USA,CA,SF Bay Area,San Francisco,2,1999-01-01,1999-01,1999-Q1,1999,2000-01-31,2000-06-12,2000,2000
+Avalanche Technology,http://www.avalanche-technology.com,Flash Storage,109772047,operating,USA,CA,SF Bay Area,Fremont,7,2006-01-01,2006-01,2006-Q1,2006,2007-01-01,2015-12-02,2007,2015
+Zonare Medical Systems,http://www.zonare.com,Health Care,109693276,acquired,USA,CA,SF Bay Area,Mountain View,5,1999-01-01,1999-01,1999-Q1,1999,2004-07-02,2010-11-18,2004,2010
+Alloptic,http://www.alloptic.com,Public Relations,109000000,closed,USA,CA,SF Bay Area,Livermore,5,1999-01-01,1999-01,1999-Q1,1999,2001-06-05,2007-12-04,2001,2007
+MINDBODY,http://mindbodyonline.com,Software,108869760,ipo,USA,CA,San Luis Obispo,San Luis Obispo,6,2001-01-01,2001-01,2001-Q1,2001,2005-10-01,2015-04-20,2005,2015
+The Climate Corporation,http://climate.com,Agriculture|Finance|FinTech|News|Risk Management,108800000,acquired,USA,CA,SF Bay Area,San Francisco,4,2006-01-01,2006-01,2006-Q1,2006,2007-01-01,2012-06-14,2007,2012
+Ensighten,http://www.ensighten.com/,E-Commerce|Enterprise Software,108500000,operating,USA,CA,SF Bay Area,San Jose,3,2009-01-01,2009-01,2009-Q1,2009,2012-09-12,2015-10-20,2012,2015
+Marketo,http://www.marketo.com,Analytics|B2B|Brand Marketing|Lead Generation|Lead Management|Optimization|Software,108400000,ipo,USA,CA,SF Bay Area,San Mateo,6,2006-01-01,2006-01,2006-Q1,2006,2006-10-01,2011-11-16,2006,2011
+Entrisphere,http://www.entrisphere.com,Web Hosting,108000000,acquired,USA,CA,SF Bay Area,Santa Clara,2,2000-01-01,2000-01,2000-Q1,2000,2002-09-11,2005-05-09,2002,2005
+Tabula,http://www.tabula.com,Semiconductors,108000000,operating,USA,CA,SF Bay Area,Santa Clara,2,2003-01-01,2003-01,2003-Q1,2003,2007-08-01,2011-03-28,2007,2011
+Cooking.com,http://www.cooking.com,Cooking|E-Commerce|Recipes,107500000,operating,USA,CA,Los Angeles,Marina Del Rey,7,1998-03-01,1998-03,1998-Q1,1998,1999-04-01,2011-12-06,1999,2011
+Fundbox,http://fundbox.com,Business Analytics|Enterprise Software|Payments|Software,107500000,operating,USA,CA,SF Bay Area,San Francisco,3,2012-01-01,2012-01,2012-Q1,2012,2014-04-10,2015-09-10,2014,2015
+MyoScience,http://www.myoscience.com,Biotechnology,107400000,operating,USA,CA,SF Bay Area,Redwood City,4,2005-01-01,2005-01,2005-Q1,2005,2008-07-11,2013-09-12,2008,2013
+BioNano Genomics,http://www.bionanogenomics.com,Biotechnology|Health Diagnostics|Maps,107182814,operating,USA,CA,San Diego,San Diego,7,2003-01-01,2003-01,2003-Q1,2003,2008-03-26,2014-11-20,2008,2014
+ALPHAEON Corporation,http://alphaeon.com,Social Commerce,107060133,operating,USA,CA,Anaheim,Irvine,2,2013-07-01,2013-07,2013-Q3,2013,2015-01-16,2015-11-20,2015,2015
+Primus Power,http://www.primuspower.com,Clean Technology,107000000,operating,USA,CA,SF Bay Area,Hayward,5,2009-08-04,2009-08,2009-Q3,2009,2010-04-12,2015-09-09,2010,2015
+Coinbase,https://www.coinbase.com,Bitcoin|E-Commerce|Personal Finance,106709590,operating,USA,CA,SF Bay Area,San Francisco,4,2012-06-01,2012-06,2012-Q2,2012,2012-09-12,2015-01-20,2012,2015
+Ayasdi,http://www.ayasdi.com,Analytics|Big Data|Big Data Analytics|Data Visualization|Machine Learning,106348982,operating,USA,CA,SF Bay Area,Menlo Park,7,2008-01-01,2008-01,2008-Q1,2008,2010-09-01,2015-03-25,2010,2015
+Grand Rounds,http://www.grandrounds.com,Health and Wellness|Health Care|Healthcare Services,106000000,operating,USA,CA,SF Bay Area,San Francisco,4,2011-01-01,2011-01,2011-Q1,2011,2011-01-01,2015-08-20,2011,2015
+Nevro,http://www.nevro.com,Biotechnology,106000000,ipo,USA,CA,SF Bay Area,Menlo Park,2,2010-01-01,2010-01,2010-Q1,2010,2011-07-19,2013-03-07,2011,2013
+Gigya,http://www.gigya.com,Enterprise Software|Identity Management,105800000,operating,USA,CA,SF Bay Area,Mountain View,7,2006-06-01,2006-06,2006-Q2,2006,2007-02-01,2014-11-04,2007,2014
+SiTime,http://www.sitime.com,Computers|Semiconductors,105517223,acquired,USA,CA,SF Bay Area,Sunnyvale,7,2005-01-01,2005-01,2005-Q1,2005,2007-05-01,2014-09-23,2007,2014
+PacketVideo,http://www.packetvideo.com,Software,105500000,acquired,USA,CA,San Diego,San Diego,2,1998-08-10,1998-08,1998-Q3,1998,2009-07-06,2013-12-16,2009,2013
+Catalyst Biosciences,http://www.catalystbiosciences.com,Biotechnology,105114496,operating,USA,CA,SF Bay Area,South San Francisco,9,2003-01-01,2003-01,2003-Q1,2003,2006-02-09,2015-06-11,2006,2015
+Anki,http://anki.com,Artificial Intelligence|Cars|Consumer Electronics|Entertainment|Games|Hardware + Software|Robotics,105000000,operating,USA,CA,SF Bay Area,San Francisco,2,2010-01-05,2010-01,2010-Q1,2010,2013-06-01,2014-09-26,2013,2014
+C3 Jian,http://www.c3-jian.com,Biotechnology|Health Diagnostics,105000000,operating,USA,CA,Los Angeles,Inglewood,3,2005-01-01,2005-01,2005-Q1,2005,2010-01-05,2014-03-17,2010,2014
+Intelliden,http://www.intelliden.com,Software,105000000,acquired,USA,CA,SF Bay Area,Menlo Park,4,2000-01-01,2000-01,2000-Q1,2000,2002-02-28,2007-05-22,2002,2007
+National Funding,https://www.nationalfunding.com/,Business Services|Financial Services,105000000,operating,USA,CA,San Diego,San Diego,2,1999-01-01,1999-01,1999-Q1,1999,2013-10-22,2015-10-13,2013,2015
+Pivotal Software,http://www.pivotal.io,Big Data|Business Intelligence|Enterprise Software|PaaS|Product Design|Product Development Services|Software,105000000,operating,USA,CA,SF Bay Area,Palo Alto,1,2013-04-01,2013-04,2013-Q2,2013,2013-04-24,2013-04-24,2013,2013
+Calithera Biosciences,http://www.calithera.com,Biotechnology,104999998,ipo,USA,CA,SF Bay Area,South San Francisco,6,2010-06-01,2010-06,2010-Q2,2010,2010-07-08,2014-07-31,2010,2014
+Aerohive Networks,http://www.aerohive.com,Mobile|Technology,104952382,ipo,USA,CA,SF Bay Area,Sunnyvale,6,2006-01-01,2006-01,2006-Q1,2006,2006-07-01,2013-07-09,2006,2013
+Complete Genomics,http://www.completegenomics.com,Biotechnology|Life Sciences,104490061,ipo,USA,CA,SF Bay Area,Mountain View,4,2007-01-01,2007-01,2007-Q1,2007,2006-03-28,2010-08-19,2006,2010
+moka5,http://www.moka5.com,Enterprise Software|Software,104300012,operating,USA,CA,SF Bay Area,Redwood City,8,2005-01-01,2005-01,2005-Q1,2005,2006-05-17,2014-10-22,2006,2014
+Gainsight,http://www.gainsight.com,Enterprise Software|Sales Automation,104250000,operating,USA,CA,SF Bay Area,Redwood City,6,2009-01-01,2009-01,2009-Q1,2009,2011-12-11,2015-11-12,2011,2015
+AcuFocus,http://www.acufocus.com,Health Care,104000000,operating,USA,CA,Anaheim,Irvine,4,2001-01-01,2001-01,2001-Q1,2001,2007-01-16,2014-09-03,2007,2014
+Elastic,https://www.elastic.co,Cloud Computing|Open Source|Real Time|Search|Software,104000000,operating,USA,CA,SF Bay Area,Mountain View,3,2012-02-01,2012-02,2012-Q1,2012,2012-11-08,2014-06-05,2012,2014
+Counsyl,http://www.counsyl.com,Biotechnology|Technology,103795000,operating,USA,CA,SF Bay Area,South San Francisco,6,2008-01-01,2008-01,2008-Q1,2008,2010-03-16,2014-05-08,2010,2014
+Tigo Energy,http://www.tigoenergy.com,Clean Technology,103662749,operating,USA,CA,SF Bay Area,Los Gatos,17,2007-01-01,2007-01,2007-Q1,2007,2008-05-23,2015-09-23,2008,2015
+ipsy,http://www.ipsy.com,Beauty|Cosmetics|E-Commerce|Flash Sales|Social Commerce|Subscription Businesses,103235793,operating,USA,CA,SF Bay Area,San Mateo,3,2011-11-01,2011-11,2011-Q4,2011,2011-12-12,2015-09-14,2011,2015
+LinkedIn,http://linkedin.com,Networking|Social Media|Social Recruiting|Software,103200000,ipo,USA,CA,SF Bay Area,Mountain View,5,2003-05-05,2003-05,2003-Q2,2003,2003-11-01,2008-10-22,2003,2008
+Gazillion Entertainment,http://gazillion.com,Games,103000000,operating,USA,CA,SF Bay Area,San Mateo,4,2005-01-01,2005-01,2005-Q1,2005,2010-11-05,2013-04-01,2010,2013
+Row44,http://www.row44.com,Web Hosting,103000000,closed,USA,CA,Los Angeles,Westlake Village,3,2004-01-01,2004-01,2004-Q1,2004,2008-05-20,2012-06-11,2008,2012
+Personal Capital,http://www.personalcapital.com,Finance|FinTech|Wealth Management,102300000,operating,USA,CA,SF Bay Area,Redwood City,6,2009-07-01,2009-07,2009-Q3,2009,2009-07-01,2014-10-29,2009,2014
+NerdWallet,http://www.nerdwallet.com,Consumers|Credit Cards|Curated Web|Incentives|Personal Finance|Search,102000000,operating,USA,CA,SF Bay Area,San Francisco,3,2009-01-01,2009-01,2009-Q1,2009,2015-05-11,2015-10-21,2015,2015
+Archemix,http://www.archemix.com,Biotechnology,101750000,operating,USA,CA,SF Bay Area,San Francisco,2,2000-01-01,2000-01,2000-Q1,2000,2002-08-15,2004-04-07,2002,2004
+Aurora Biofuels,http://www.aurorainc.com,Clean Technology,101718192,operating,USA,CA,SF Bay Area,Hayward,7,2007-01-01,2007-01,2007-Q1,2007,2007-01-24,2013-04-01,2007,2013
+Soraa,http://soraa.com,Clean Technology|Lighting|Semiconductors,101600000,operating,USA,CA,SF Bay Area,Fremont,4,2008-01-01,2008-01,2008-Q1,2008,2008-02-01,2013-01-31,2008,2013
+Talend,http://www.talend.com,Big Data|Cloud Computing|Data Integration|Enterprise Software|Software,101580000,operating,USA,CA,SF Bay Area,Redwood City,6,2005-09-01,2005-09,2005-Q3,2005,2006-06-01,2013-12-11,2006,2013
+Capella Photonics,http://www.capellainc.com,Web Hosting,101505616,operating,USA,CA,SF Bay Area,San Jose,10,2000-01-01,2000-01,2000-Q1,2000,2005-09-21,2011-05-25,2005,2011
+GoodData,http://www.gooddata.com,Analytics|Business Intelligence|Collaboration|Enterprise Software|SaaS,101199993,operating,USA,CA,SF Bay Area,San Francisco,9,2007-05-01,2007-05,2007-Q2,2007,2008-07-23,2014-09-10,2008,2014
+Arcadia Biosciences,http://arcadiabio.com,Biotechnology,101000000,ipo,USA,CA,Sacramento,Davis,5,2002-01-01,2002-01,2002-Q1,2002,2005-06-15,2014-05-08,2005,2014
+Orexigen Therapeutics,http://www.orexigen.com,Biotechnology|Health Care,101000000,ipo,USA,CA,San Diego,La Jolla,3,2002-01-01,2002-01,2002-Q1,2002,2004-01-22,2015-09-11,2004,2015
+Spot Runner,http://www.spotrunner.com,Advertising|Television,101000000,operating,USA,CA,Los Angeles,Los Angeles,3,2004-01-01,2004-01,2004-Q1,2004,2006-01-01,2008-05-07,2006,2008
+VeriSilicon Holdings,http://www.verisilicon.com,Cloud Computing|Manufacturing,100948403,operating,USA,CA,SF Bay Area,Santa Clara,10,2002-01-01,2002-01,2002-Q1,2002,2003-03-01,2014-07-02,2003,2014
+Xenoport,http://xenoport.com,Biotechnology,100900000,ipo,USA,CA,SF Bay Area,Santa Clara,4,1999-01-01,1999-01,1999-Q1,1999,2002-06-01,2012-11-21,2002,2012
+OptiScan Biomedical,http://www.optiscancorp.com,Biotechnology,100756757,operating,USA,CA,SF Bay Area,Hayward,4,1994-01-01,1994-01,1994-Q1,1994,2005-10-10,2013-02-07,2005,2013
+Tillster,http://tillster.com/,Enterprise Software|Mobile Commerce|Mobile Payments,100300177,operating,USA,CA,San Diego,San Diego,10,2006-01-01,2006-01,2006-Q1,2006,2003-08-22,2013-06-26,2003,2013
+Marin Software,http://www.marinsoftware.com/index.html,Advertising|Search Marketing|Technology,100268406,ipo,USA,CA,SF Bay Area,San Francisco,9,2006-04-01,2006-04,2006-Q2,2006,2006-10-05,2013-03-05,2006,2013
+ReShape Medical,http://www.reshapemedical.com,Health Care,100250000,operating,USA,CA,Anaheim,San Clemente,8,2008-01-01,2008-01,2008-Q1,2008,2007-08-31,2015-08-26,2007,2015
+Jaunt,http://jauntvr.com,Software,100210000,operating,USA,CA,SF Bay Area,Palo Alto,4,2013-05-01,2013-05,2013-Q2,2013,2013-12-24,2015-09-21,2013,2015
+Presidio Pharmaceuticals,http://www.presidiopharma.com,Biotechnology,100183473,operating,USA,CA,SF Bay Area,San Francisco,6,2006-01-01,2006-01,2006-Q1,2006,2007-08-29,2014-06-16,2007,2014
+Stem,http://www.stem.com,Enterprise Software,100097672,operating,USA,CA,SF Bay Area,Millbrae,6,2009-01-01,2009-01,2009-Q1,2009,2011-04-20,2015-08-13,2011,2015
+Clover Health,http://cloverhealth.com,Health Care,100000000,operating,USA,CA,SF Bay Area,San Francisco,1,2014-08-01,2014-08,2014-Q3,2014,2015-09-18,2015-09-18,2015,2015
+Demand Media,http://demandmedia.com,Advertising|Art|Content|Health and Wellness|Home & Garden|Social Media,100000000,ipo,USA,CA,Los Angeles,Santa Monica,1,2006-06-01,2006-06,2006-Q2,2006,2007-09-25,2007-09-25,2007,2007
+Gemfire,http://www.gemfire.com,Manufacturing|Semiconductors|Telecommunications,100000000,acquired,USA,CA,SF Bay Area,Fremont,2,1995-01-01,1995-01,1995-Q1,1995,2001-03-05,2007-09-01,2001,2007
+Hulu,http://www.hulu.com,Content|Entertainment|Games|Office Space|Television|Video,100000000,operating,USA,CA,Los Angeles,Los Angeles,2,2007-03-01,2007-03,2007-Q1,2007,2007-08-01,2009-04-30,2007,2009
+IXIA,http://www.ixiacom.com,Web Hosting,100000000,ipo,USA,CA,Los Angeles,Calabasas,1,1997-01-01,1997-01,1997-Q1,1997,2015-03-04,2015-03-04,2015,2015
+Lightspan Inc.,http://www.lightspan.com,Education|K-12 Education|Online Education,100000000,operating,USA,CA,San Diego,San Diego,1,1993-01-01,1993-01,1993-Q1,1993,2001-02-14,2001-02-14,2001,2001
+Palm,http://www.palm.com,Mobile,100000000,acquired,USA,CA,SF Bay Area,Sunnyvale,1,1992-01-01,1992-01,1992-Q1,1992,2008-12-23,2008-12-23,2008,2008
+REALTIME.CO,http://www.realtime.co,Advertising|E-Commerce|Enterprise Software|Messaging|Online Shopping|Real Time,100000000,operating,USA,CA,Los Angeles,Santa Monica,1,1997-01-01,1997-01,1997-Q1,1997,2012-08-08,2012-08-08,2012,2012
+Dilithium Networks,http://onmobile.com,Digital Media|Mobile,99670000,closed,USA,CA,Napa Valley,Petaluma,8,2001-01-01,2001-01,2001-Q1,2001,2003-04-23,2010-06-09,2003,2010
+AqueSys,http://www.tif.net/portfolio_aquesys.htm,Health Care|Medical Devices,99600000,acquired,USA,CA,Anaheim,Irvine,4,2006-01-01,2006-01,2006-Q1,2006,2008-07-23,2014-01-16,2008,2014
+Nextnav,http://www.nextnav.com,Navigation|Utilities,99184501,operating,USA,CA,SF Bay Area,Sunnyvale,3,2007-01-01,2007-01,2007-Q1,2007,2011-11-16,2014-07-24,2011,2014
+Marrone Bio Innovations,http://www.marroneorganicinnovations.com,Biotechnology|Chemicals,99150000,ipo,USA,CA,Sacramento,Davis,6,2006-01-01,2006-01,2006-Q1,2006,2007-05-02,2015-08-21,2007,2015
+3D Robotics,http://3drobotics.com,Drones|Manufacturing,99000000,operating,USA,CA,San Diego,San Diego,4,2009-01-01,2009-01,2009-Q1,2009,2012-11-05,2015-04-23,2012,2015
+Auspex Pharmaceuticals,http://www.auspexpharma.com,Biotechnology|Health Care,98817742,acquired,USA,CA,San Diego,La Jolla,10,2001-01-01,2001-01,2001-Q1,2001,2009-05-22,2014-01-08,2009,2014
+Nimble Storage,http://www.nimblestorage.com,Electronics|Enterprise Software|Flash Storage|Software|Storage|Technology,98751230,ipo,USA,CA,SF Bay Area,San Jose,5,2008-01-01,2008-01,2008-Q1,2008,2008-12-21,2012-09-10,2008,2012
+ooma,http://www.ooma.com,Hardware + Software|Mobile|Peer-to-Peer|Social Media|VoIP,98432819,operating,USA,CA,SF Bay Area,Palo Alto,9,2004-01-01,2004-01,2004-Q1,2004,2005-01-01,2015-05-08,2005,2015
+Kythera Biopharmaceuticals,http://www.kytherabiopharma.com,Biotechnology|Health Care,98400000,acquired,USA,CA,Los Angeles,Calabasas,4,2005-08-01,2005-08,2005-Q3,2005,2005-09-16,2011-09-19,2005,2011
+Fluidigm,http://www.fluidigm.com,Biotechnology,98203214,ipo,USA,CA,SF Bay Area,South San Francisco,6,1999-01-01,1999-01,1999-Q1,1999,2004-01-06,2011-01-21,2004,2011
+Ceres,http://www.ceres.net,Clean Technology|Farming,98000000,ipo,USA,CA,Los Angeles,Thousand Oaks,2,1989-01-01,1989-01,1989-Q1,1989,2007-09-27,2014-03-10,2007,2014
+InVisage Technologies,http://www.invisage.com,Semiconductors,98000000,operating,USA,CA,SF Bay Area,Menlo Park,5,2006-10-01,2006-10,2006-Q4,2006,2011-02-14,2014-12-16,2011,2014
+LendingHome,https://www.lendinghome.com/,Real Estate,98000000,operating,USA,CA,SF Bay Area,San Francisco,2,2013-01-01,2013-01,2013-Q1,2013,2014-08-27,2015-03-23,2014,2015
+MyoKardia,http://www.myokardia.com,Biotechnology,98000000,ipo,USA,CA,SF Bay Area,San Francisco,4,2012-01-01,2012-01,2012-Q1,2012,2012-09-20,2015-04-30,2012,2015
+NETGEAR,http://www.netgear.com,Hardware + Software|Telecommunications,98000000,ipo,USA,CA,SF Bay Area,San Jose,1,1996-01-01,1996-01,1996-Q1,1996,2003-08-01,2003-08-01,2003,2003
+SARcode Bioscience,http://www.sarcode.com,Biotechnology,98000000,acquired,USA,CA,SF Bay Area,Brisbane,3,2006-01-01,2006-01,2006-Q1,2006,2006-12-01,2011-07-18,2006,2011
+Beceem Communications,http://www.beceem.com,Semiconductors,97800000,acquired,USA,CA,SF Bay Area,Santa Clara,5,2003-10-01,2003-10,2003-Q4,2003,2005-06-30,2009-04-22,2005,2009
+Crocus Technology,http://www.crocus-technology.com,Clean Technology|Semiconductors,97613550,operating,USA,CA,SF Bay Area,Santa Clara,4,2004-01-01,2004-01,2004-Q1,2004,2006-06-14,2015-06-16,2006,2015
+ViaCyte,http://www.viacyte.com,Biotechnology,97600000,operating,USA,CA,San Diego,San Diego,6,1999-01-01,1999-01,1999-Q1,1999,2006-05-03,2014-09-11,2006,2014
+Aryaka Networks,http://www.aryaka.com,Enterprise Software|SaaS,97166500,operating,USA,CA,SF Bay Area,Milpitas,7,2008-11-01,2008-11,2008-Q4,2008,2009-05-22,2015-03-28,2009,2015
+FRS,http://www.frs.com,E-Commerce,97100000,operating,USA,CA,SF Bay Area,San Mateo,5,2004-01-01,2004-01,2004-Q1,2004,2007-06-06,2013-07-11,2007,2013
+Allergen Research Corporation,http://allergenresearch.com,Hospitality,97000000,operating,USA,CA,SF Bay Area,San Mateo,2,2011-01-01,2011-01,2011-Q1,2011,2013-11-21,2015-03-12,2013,2015
+Pluribus Networks,http://pluribusnetworks.com,Big Data|Cloud Computing|Data Center Infrastructure|Networking|Web Hosting,97000000,operating,USA,CA,SF Bay Area,Palo Alto,5,2010-04-01,2010-04,2010-Q2,2010,2010-05-01,2015-01-21,2010,2015
+True North Therapeutics,http://www.truenorthrx.com/,Biotechnology,97000000,operating,USA,CA,SF Bay Area,South San Francisco,3,2013-01-01,2013-01,2013-Q1,2013,2014-06-17,2015-12-03,2014,2015
+Elcelyx Therapeutics,http://www.elcelyx.com,Biotechnology,96845109,operating,USA,CA,San Diego,San Diego,6,2010-01-01,2010-01,2010-Q1,2010,2010-03-17,2015-10-01,2010,2015
+GreenVolts,http://www.greenvolts.com,Clean Technology,96800000,closed,USA,CA,SF Bay Area,Fremont,5,2005-01-01,2005-01,2005-Q1,2005,2008-09-01,2012-04-01,2008,2012
+Geron,http://www.geron.com,Biotechnology,96700000,ipo,USA,CA,SF Bay Area,Menlo Park,1,1990-08-28,1990-08,1990-Q3,1990,2014-02-04,2014-02-04,2014,2014
+CDNetworks,http://www.cdnetworks.com,Cloud Computing|Content Delivery|Internet|Security|Web Hosting,96500000,operating,USA,CA,SF Bay Area,San Jose,1,2000-05-01,2000-05,2000-Q2,2000,2007-12-01,2007-12-01,2007,2007
+Cebix,http://www.cebix.com,Biotechnology,96287638,operating,USA,CA,San Diego,La Jolla,5,2008-01-01,2008-01,2008-Q1,2008,2009-10-30,2014-11-13,2009,2014
+ONStor,http://www.onstor.com,Web Hosting,96250000,acquired,USA,CA,SF Bay Area,Campbell,5,2000-01-01,2000-01,2000-Q1,2000,2002-03-19,2009-02-24,2002,2009
+Invuity,http://www.invuity.com,Health Care,96200000,ipo,USA,CA,SF Bay Area,San Francisco,5,2004-01-01,2004-01,2004-Q1,2004,2010-07-01,2015-02-13,2010,2015
+MarketShare,http://www.marketshare.com,Analytics|Big Data Analytics|Enterprise Software|Marketing Automation|Predictive Analytics|SaaS,96000000,acquired,USA,CA,Los Angeles,Los Angeles,6,2005-01-01,2005-01,2005-Q1,2005,2011-04-14,2015-05-04,2011,2015
+Threshold Pharmaceuticals,http://www.thresholdpharm.com,Biotechnology|Health and Wellness|Health Care,96000000,ipo,USA,CA,SF Bay Area,South San Francisco,3,2001-01-01,2001-01,2001-Q1,2001,2004-01-14,2012-04-11,2004,2012
+Centric Software,http://www.centricsoftware.com/index.asp,Software,95899999,operating,USA,CA,SF Bay Area,Campbell,6,1997-01-01,1997-01,1997-Q1,1997,2004-12-21,2014-07-29,2004,2014
+sezmi,http://www.sezmi.com,Games|Television,95892257,acquired,USA,CA,SF Bay Area,Belmont,6,2007-01-01,2007-01,2007-Q1,2007,2007-08-01,2011-11-07,2007,2011
+NanoH2O,http://www.nanoh2o.com,Nanotechnology,95500000,acquired,USA,CA,Los Angeles,Los Angeles,3,2005-01-01,2005-01,2005-Q1,2005,2007-05-31,2012-04-30,2007,2012
+Calhoun Vision,http://www.calhounvision.com/world.htm,Health Care,95375917,operating,USA,CA,Los Angeles,Pasadena,5,1999-01-01,1999-01,1999-Q1,1999,2010-08-27,2015-06-04,2010,2015
+Suneva Medical,http://sunevamedical.com,Health Care,95199996,operating,USA,CA,San Diego,San Diego,5,2009-04-01,2009-04,2009-Q2,2009,2012-11-30,2015-07-29,2012,2015
+PlayPhone,http://www.playphone.com,Games,95097200,operating,USA,CA,SF Bay Area,San Francisco,3,2003-04-01,2003-04,2003-Q2,2003,2006-08-28,2012-01-01,2006,2012
+Freshdesk,http://www.freshdesk.com,Customer Service|Customer Support Tools|Software,95051568,operating,USA,CA,SF Bay Area,San Francisco,6,2010-01-01,2010-01,2010-Q1,2010,2011-11-30,2015-04-20,2011,2015

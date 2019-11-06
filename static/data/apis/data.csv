@@ -1,0 +1,489 @@
+Name,PrimaryCategory,OtherCategories,SupportsSSL,Protocols
+Google Maps,Mapping,,No,JSON;KML;XML
+Twitter,Social,Blogging/Chat/Messaging,No,Atom;JSON;REST;RSS;XML
+YouTube,Video,,No,Atom;RSS;JSON;XML;GData
+Flickr,Photos,Video,SSL_Support_Details_Unavailable,XML;JSON;JSONP;REST;SOAP
+Facebook,Social,,Yes,JSON;REST
+Amazon Product Advertising,eCommerce,,No,XML;REST;SOAP
+Twilio,Telephony,Communications;Communications;Communications;Cloud,Yes,XML;CSV;REST
+Last.fm,Music,,No,Text;XML;RSS;REST
+eBay,Search,eCommerce,Yes,XML;JSON;SOAP;HTTP;REST
+Twilio SMS,Blogging/Chat/Messaging,Telephony,Yes,XML;REST
+Microsoft Bing Maps,Mapping,,Yes,KML
+Google App Engine,Tools,Cloud,Yes,
+foursquare,Social,Mapping;Mobile;Photos;Search,Yes,JSON;JSONP;REST;XML
+DocuSign Enterprise,Enterprise,,Yes,JSON;REST;SOAP;XML
+Amazon S3,Cloud,,SSL_Support_Details_Unavailable,XML;REST;SOAP
+GeoNames,Reference,Weather;Database;Mapping,SSL_Support_Details_Unavailable,XML;JSON;JSONP;RDF;CSV;RSS;KML;REST
+Google AdSense,Marketing/Advertising,,Yes,JSON;XML;REST
+Wikipedia,Reference,,No,JSON;XML;YAML;REST
+Box,Cloud,Enterprise;Social,Yes,JSON;REST
+Bing,Search,Reference,No,XML;JSON;REST;SOAP
+LinkedIn,Social,Enterprise,Yes,JSON;JSONP;REST;XML
+Instagram,Photos,Mobile,Yes,JSON;JSONP;REST
+Yahoo BOSS,Search,,Yes,XML;JSON;REST
+Shopping.com,eCommerce,,SSL_Support_Details_Unavailable,XML;REST
+Google Analytics Managment,Analytics,,Yes,JSON;REST;XML
+Yelp,Recommendations,eCommerce,No,JSON;REST
+Freebase,Database,Reference,No,JSON;JSONP;REST
+Yahoo Local Search,Search,Mapping,No,XML;JSON;REST
+Panoramio,Photos,Mapping;Mapping,No,JSON;JSONP;REST
+Facebook Graph,Social,,Yes,JSON;JSONP;REST
+Google Earth,Mapping,,Yes,GeoJSON
+Salesforce.com,Enterprise,,Yes,XML;REST;SOAP
+Eventful,Events,Music,No,XML;JSON;YAML;REST
+Google AdWords,Marketing/Advertising,Search,Yes,XML;SOAP
+geocoder,Mapping,,No,REST;SOAP
+Google Custom Search,Search,,SSL_Support_Details_Unavailable,XML
+Google Picasa,Photos,,SSL_Support_Details_Unavailable,XML;RSS
+Commission Junction,eCommerce,,Yes,XML;REST;SOAP
+PayPal,eCommerce,Financial,Yes,REST;SOAP;XML
+MusicBrainz,Music,Analytics,SSL_Support_Details_Unavailable,XML;REST
+Blogger,Blogging/Chat/Messaging,,Yes,XML
+Google Geocoding,Mapping,,SSL_Support_Details_Unavailable,JSON;XML;REST
+FeedBurner,Blogging/Chat/Messaging,Marketing/Advertising,Yes,XML;REST
+Microsoft Bing,Search,,No,XML;JSON;SOAP;REST
+Yahoo Term Extraction,Search,,No,XML;JSON;REST
+SoundCloud,Music,Social;Communications;Communications,Yes,JSON;JSONP;XML
+Oodle,eCommerce,,No,XML
+NationBuilder,Social,Government,Yes,JSON;REST
+Bing Maps,Mapping,,Yes,XML;KML;SOAP
+Fitbit,Health/Medicine,Sports,Yes,HTTP;JSON
+Netflix,Video,,SSL_Support_Details_Unavailable,Atom;RSS;XML;REST;Atom
+TwitPic,Photos,Blogging/Chat/Messaging;Social,No,XML;REST
+Zillow,Real Estate,,SSL_Support_Details_Unavailable,XML;REST
+Skype,Telephony,Blogging/Chat/Messaging;Blogging/Chat/Messaging;Video;Communications,Yes,Unspecified
+LyricWiki,Music,,No,XML;JSON;SOAP;REST
+Tumblr,Social,Blogging/Chat/Messaging,No,XML;JSON;REST
+Shopzilla,eCommerce,,Yes,XML;JSON;JSONP;REST
+Lyricsfly,Music,,No,XML;REST
+Facebook Social Plugins,Social,,SSL_Support_Details_Unavailable,
+Google AJAX Language,Communications,,No,
+MySpace,Social,,SSL_Support_Details_Unavailable,XML;JSON;REST
+Etsy,eCommerce,,Yes,JSON;JSONP;REST
+Spotify Echo Nest,Music,,No,JSON;JSONP;REST;XML
+Google Static Maps,Mapping,,No,HTTP
+Vimeo,Video,,Yes,JSON;REST
+OpenStreetMap,Mapping,,SSL_Support_Details_Unavailable,XML;REST
+Dropbox,Cloud,Social,Yes,JSON;JSONP;REST
+Google Places,Mapping,Reference,SSL_Support_Details_Unavailable,XML;JSON;REST
+Zazzle,eCommerce,,SSL_Support_Details_Unavailable,
+WeatherBug,Weather,,SSL_Support_Details_Unavailable,XML;JSON;REST
+Google Plus,Social,Blogging/Chat/Messaging,Yes,JSON;REST
+Weather Channel,Weather,,No,XML;REST
+Google Fusion Tables,Database,Tools;Mapping,No,XML;REST
+Tropo Scripting,Telephony,Cloud;Blogging/Chat/Messaging;Communications,Yes,JSON;REST;XML
+Sunlight Labs Congress,Government,,No,JSON;XML;REST
+Rotten Tomatoes,Recommendations,,SSL_Support_Details_Unavailable,JSON;REST
+Yahoo Query Language,Database,,No,RSS;Atom;JSON;JSONP;XML;CSV;REST
+Google Spreadsheets,Enterprise,,Yes,GData;XML
+Google Talk,Blogging/Chat/Messaging,,SSL_Support_Details_Unavailable,XMPP
+Heroku,Cloud,,No,XML;REST
+Amazon Marketplace Web Service,eCommerce,,Yes,XML;REST
+Reddit,News Services,Social,No,JSON;REST
+SeeqPod,Music,Search;Search,SSL_Support_Details_Unavailable,XML;REST
+Rhapsody,Music,,No,XML;RSS
+DonorsChoose,Education,,SSL_Support_Details_Unavailable,JSON;JSONP;RSS;REST
+OpenLayers,Mapping,,SSL_Support_Details_Unavailable,
+SendGrid,Communications,Analytics;Marketing/Advertising,Yes,JSON;REST;SMTP;XML
+MailChimp,Communications,Marketing/Advertising;Enterprise;Enterprise,Yes,JSON;XML;REST
+Smugmug,Photos,,Yes,XML;REST
+MapLarge,Mapping,Mobile;Analytics,Yes,JSON;XML;REST
+Google Maps Elevation,Mapping,,No,JSON;XML;REST
+New York Times Article Search,News Services,Reference;Search,No,JSON;REST
+Google Books,Reference,Books;Search,Yes,JSON;REST
+NOAA National Weather Service (NWS),Weather,Government,SSL_Support_Details_Unavailable,XML;SOAP
+Google Gmail OAuth,Communications,,SSL_Support_Details_Unavailable,SMTP
+OpenSecrets,Government,,No,XML;JSON;REST
+ESRI ArcGIS JavaScript,Mapping,,SSL_Support_Details_Unavailable,
+CNET,eCommerce,,No,XML;JSON;REST
+Alexa Web Information Service,Search,Marketing/Advertising,SSL_Support_Details_Unavailable,SOAP;REST
+Google Drive,Cloud,,SSL_Support_Details_Unavailable,JSON;HTTP
+Hoiio Voice,Telephony,Communications;Communications,Yes,JSON;REST
+Grooveshark,Music,Communications,No,JSON;REST
+CityGrid,eCommerce,Search,No,XML;JSON;REST
+Best Buy Products,eCommerce,Search,No,JSON;JSONP;REST;XML
+GovTrack.us,Government,,No,XML;RDF;REST
+Disqus,Blogging/Chat/Messaging,,No,JSON;REST
+Multimap,Mapping,,SSL_Support_Details_Unavailable,XML;JSON;REST
+Google Checkout,eCommerce,,Yes,XML;REST
+Zvents,Events,,No,XML;RSS;JSON;REST
+Yahoo Map Image,Mapping,Photos,No,XML;REST
+MapBox,Mapping,Analytics,Yes,GeoJSON;JSON;JSONP;KML;REST
+Groupon,eCommerce,,SSL_Support_Details_Unavailable,XML;JSON;REST
+Forvo,Reference,Communications;Communications;Education;Education,No,XML;JSON;REST
+Yahoo Weather,Weather,,SSL_Support_Details_Unavailable,XML;RSS;REST
+uClassify,Tools,,No,XML;REST
+CrunchBase,Reference,Financial;Enterprise,No,JSON;REST
+COLOURlovers,Tools,Analytics;Social,No,XML;JSON;JSONP;REST
+Fire Eagle,Social,Mapping,Yes,XML;JSON;GeoJSON;REST
+Yahoo Related Suggestions,Search,,No,XML;REST
+MapQuest,Mapping,,No,KML;JSON;XML;REST
+Pinterest Domain,Social,Photos,Yes,JSON
+AngelList,Social,,Yes,JSON;JSONP;REST
+Nexmo SMS,Blogging/Chat/Messaging,Telephony,Yes,HTTP;JSON;SMPP;XML
+Google Latitude,Mapping,Social,Yes,JSON;XML;Atom;REST
+World Weather Online,Weather,,Yes,XML;CSV;JSON;JSONP;REST
+Guardian,News Services,,No,XML;JSON;Atom;REST
+GitHub,Tools,Database,Yes,JSON;JSONP;XML;REST
+Amazon SimpleDB,Database,,Yes,XML;REST;SOAP
+Discogs,Music,,No,XML;REST
+Yahoo Mail,Communications,,No,XML;JSON;SOAP
+Google Single SignOn,Security,,Yes,XML
+Trulia,Real Estate,,No,REST;XML
+Vast,Search,,SSL_Support_Details_Unavailable,XML;REST
+Moves,Health/Medicine,Sports,Yes,JSON;REST
+Google Street View Image,Photos,Mapping,No,HTTP
+Magento,eCommerce,,No,XML;REST;SOAP
+Twitter Streaming,Social,Cloud,SSL_Support_Details_Unavailable,JSON;HTTP
+Klout,Analytics,Social,SSL_Support_Details_Unavailable,XML;JSON;JSONP;REST
+Weather Underground (Wunderground),Weather,,SSL_Support_Details_Unavailable,JSON;REST
+Daylife,News Services,,No,XML;JSON
+Hoiio SMS,Blogging/Chat/Messaging,Telephony,Yes,JSON;REST
+8coupons,eCommerce,,No,JSON;REST
+Mendeley,Education,Analytics;Reference,Yes,HTTP;JSON;REST
+Your Mapper,Mapping,Government,Yes,XML;JSON;CSV;RSS;KML;REST
+What The Trend?,Social,Blogging/Chat/Messaging,SSL_Support_Details_Unavailable,XML;JSON;RSS;REST
+CloudMade,Mapping,,SSL_Support_Details_Unavailable,
+Kiva,Financial,,No,JSON;JSONP;XML;REST
+Meetup,Social,Events,No,JSON;XML;KML;RSS;REST
+Yahoo Site Explorer,Marketing/Advertising,,No,XML;JSON;REST
+Revver,Video,Search,Yes,XML;JSON;REST
+Cafe Press,eCommerce,,SSL_Support_Details_Unavailable,XML;SOAP;REST
+23,Photos,,No,XML;REST
+Withings,Health/Medicine,,Yes,JSON;REST
+Rdio,Music,Social,SSL_Support_Details_Unavailable,JSON;XML
+eBay Finding,Search,eCommerce,Yes,XML;JSON;SOAP;HTTP
+Shopify,eCommerce,Enterprise,Yes,XML;JSON;REST
+Walk Score,Real Estate,Mapping;Mapping,SSL_Support_Details_Unavailable,XML;JSON;REST
+ChartLyrics Lyric,Music,,SSL_Support_Details_Unavailable,XML;REST;SOAP
+Amazon RDS Relational Database Service,Database,Cloud,Yes,XML;SOAP
+AlchemyAPI,Analytics,,Yes,JSON;JSONP;RDF;REST;XML
+New York Times Congress,Government,Reference;News Services,No,XML;REST
+Janrain Engage,Security,Tools;Social,Yes,XML;JSON;REST
+Veoh,Video,Social,Yes,XML;REST
+Fotolia,Photos,,SSL_Support_Details_Unavailable,XML;RSS
+EchoSign,Enterprise,,SSL_Support_Details_Unavailable,XML;SOAP
+geocoder.ca,Mapping,,SSL_Support_Details_Unavailable,XML;REST
+SecondLife,Games,Mapping,SSL_Support_Details_Unavailable,XML;REST
+CoinDesk,Financial,,Yes,JSON;REST
+BTC-e,Financial,,Yes,JSON;REST
+Edmunds.com Vehicle,Reference,Database,No,JSON;JSONP;REST
+eBay Shopping,eCommerce,,Yes,JSON;XML;SOAP;HTTP
+Bing Maps Geocode,Mapping,,Yes,XML;JSON;REST;SOAP
+Thrutu,Telephony,Mobile;Cloud,SSL_Support_Details_Unavailable,
+Genability,Reference,,SSL_Support_Details_Unavailable,JSON;JSONP;REST
+Aviary Effects,Photos,,SSL_Support_Details_Unavailable,XML;JSON
+Google Shopping Search,eCommerce,Search,SSL_Support_Details_Unavailable,JSON;Atom;REST
+Clockwork SMS,Blogging/Chat/Messaging,Telephony;Enterprise,No,XML;REST;SOAP;SMPP;HTTP
+7digital,Music,Communications,Yes,XML;REST
+Google Directions,Mapping,,Yes,JSON;REST;XML
+Songkick,Music,Events,No,XML;JSON;REST
+Tinysong,Music,Social,No,JSON;REST
+New York Times Newswire,News Services,Reference;Search,No,JSON;XML;REST
+New York Times Best Sellers,News Services,eCommerce;Books,No,XML;JSON;REST
+Eventbrite,Events,Marketing/Advertising;Social,Yes,HTTP;JSON
+Zemanta,Blogging/Chat/Messaging,Search;Recommendations;Analytics,No,XML;JSON;REST
+MOO,Photos,Enterprise,No,XML;REST
+Internet Video Archive,Video,Games;Music,No,JSON;JSONP;REST;XML
+Twitter Search,Search,Social,Yes,Atom;REST;XML
+MyVox,Telephony,Communications,No,XML;JSON;REST
+Aonaware Dictionary,Reference,,SSL_Support_Details_Unavailable,XML;SOAP
+RapLeaf,Communications,Social;Enterprise,Yes,JSON;REST
+Nestoria,Real Estate,Search,SSL_Support_Details_Unavailable,JSON;JSONP;XML;REST
+Microsoft MapPoint,Mapping,,SSL_Support_Details_Unavailable,XML;SOAP
+Ning,Social,,Yes,JSON;XML;Atom;REST
+LiveJournal,Blogging/Chat/Messaging,,SSL_Support_Details_Unavailable,
+WordPress.org,Blogging/Chat/Messaging,Social,SSL_Support_Details_Unavailable,JSON;REST
+ESPN,Sports,News Services,No,XML;JSON;REST
+WordPress.com,Blogging/Chat/Messaging,Social,Yes,JSON;REST
+RunKeeper Health Graph,Sports,Mapping;Social;Health/Medicine,Yes,JSON;REST
+Instagram Real-time,Photos,Mapping;Cloud,Yes,JSON;HTTP
+Amazon SES,Communications,,SSL_Support_Details_Unavailable,SMTP
+Yipit,eCommerce,,Yes,Unspecified
+KooKoo,Telephony,Cloud,Yes,XML
+Pusher,Tools,Cloud,SSL_Support_Details_Unavailable,JSON;REST
+MusixMatch,Music,,SSL_Support_Details_Unavailable,XML;JSON;REST
+Zappos,eCommerce,,Yes,JSON;JSONP;REST
+IP Location,Mapping,,Yes,
+SEOmoz,Search,Analytics;Marketing/Advertising;Enterprise,SSL_Support_Details_Unavailable,JSON;REST
+TwitterCounter,Social,Blogging/Chat/Messaging;Analytics,No,XML;JSON;REST
+Shizzow,Social,Mapping,Yes,JSON;REST
+Blip.fm,Music,Social,No,XML;JSON;REST
+NPR,News Services,Music;Music,No,RSS;JSON;JSONP;Atom;REST
+Yahoo Internet Location Platform,Mapping,,No,XML;REST
+Scribd,Enterprise,,No,XML;REST
+Amazon Fulfillment Web Service,eCommerce,,Yes,XML;SOAP
+Google Book Search Book Viewability,Search,Books,No,JSON
+Highrise,Enterprise,,No,XML;REST
+Google Apps Email Migration,Communications,Enterprise,Yes,XML;REST;Atom
+Google Web Authentication,Security,,Yes,XML;REST
+FreshBooks,Financial,Enterprise;Enterprise,SSL_Support_Details_Unavailable,XML;REST
+Internet Archive,Reference,,SSL_Support_Details_Unavailable,XML;JSON;REST;FTP
+Walmart Open,eCommerce,,SSL_Support_Details_Unavailable,XML;JSON;JSONP;REST
+Jawbone UP,Tools,,Yes,JSON;HTTP
+Forecast,Weather,Mapping,Yes,JSON;REST
+Strava,Social,Health/Medicine;Health/Medicine;Sports,SSL_Support_Details_Unavailable,JSON;REST
+Zapier,Tools,,Yes,JSON;REST
+BitStamp HTTP,Financial,,Yes,JSON;REST
+500px,Photos,Social,Yes,JSON;REST
+Bing Maps Search,Mapping,Search,Yes,XML;SOAP
+Mt Gox,Financial,,Yes,JSON;REST
+Google Distance Matrix,Mapping,,Yes,XML;JSON;REST
+PeerIndex,Social,,Yes,JSON;REST
+Yellow,Search,Enterprise;Reference,No,XML;JSON;REST
+Topsy,Social,Analytics,SSL_Support_Details_Unavailable,JSON;REST
+Bandcamp,Music,,No,JSON;REST
+BlankSlate,Database,Cloud;Enterprise,Yes,XML;JSON;JSONP;CSV;REST
+AddThis Sharing Endpoints,Social,,Yes,XML;JSON;JSONP;REST
+Factual,Database,,No,JSON;REST
+Active,Events,Sports;Sports,No,XML;JSON;REST
+Yes Broadcast DB,Music,Reference,No,JSON;JSONP;REST
+New York Times Movie Reviews,Video,News Services,No,JSON;XML;REST
+Dipity,Photos,Social;Education;Blogging/Chat/Messaging;News Services,No,XML;JSON;REST
+Gruvr,Music,Events,No,XML;RSS;REST
+Amazon Flexible Payments Service,eCommerce,,Yes,XML;SOAP;REST
+Yahoo Search Marketing,Marketing/Advertising,,Yes,XML;SOAP
+Urban Mapping Mapfluence,Mapping,,Yes,
+Cicero,Government,Mapping,Yes,JSON;XML;REST;SOAP
+Authorize.Net,eCommerce,Financial,Yes,XML
+Yahoo Messenger,Blogging/Chat/Messaging,,SSL_Support_Details_Unavailable,
+Naver,Search,,SSL_Support_Details_Unavailable,REST
+Yahoo Ads,Marketing/Advertising,,Yes,XML;REST
+Buzznet,Photos,Blogging/Chat/Messaging,No,XML;SOAP
+Amazon Queue Service,Blogging/Chat/Messaging,Tools,SSL_Support_Details_Unavailable,REST;SOAP
+Pushover,Blogging/Chat/Messaging,Mobile,SSL_Support_Details_Unavailable,JSON;XML;REST
+Plivo,Telephony,Tools;Blogging/Chat/Messaging;Communications;Communications,Yes,JSON;XML;REST
+Mandrill,Communications,,Yes,JSON;REST;XML;YAML
+Readmill,Social,Books;Books,Yes,JSON;REST
+LyricFind,Music,Reference,SSL_Support_Details_Unavailable,XML;JSON
+Blekko,Search,,Yes,RSS;JSON;REST
+Bol.com,eCommerce,Books,Yes,XML;REST
+IP2Location,Mapping,,No,CSV;REST
+trakt.tv,Recommendations,Video,Yes,JSON;REST
+ChannelAdvisor,eCommerce,,Yes,XML;SOAP
+AddThis Services,Social,,SSL_Support_Details_Unavailable,JSON;JSONP;XML;REST
+Geoloqi,Mapping,Mobile,Yes,JSON;REST
+Kynetx,Cloud,,SSL_Support_Details_Unavailable,JSON;HTTP
+QuickFuse,Telephony,Cloud;Communications;Communications,SSL_Support_Details_Unavailable,JSON;REST
+GreatSchools,Education,,No,XML;REST
+Yahoo PlaceFinder,Mapping,,No,JSON;REST;XML
+Yahoo Fantasy Sports,Sports,Games,SSL_Support_Details_Unavailable,XML;JSON;REST
+eBay Product Services,eCommerce,Search,Yes,XML;JSON;REST;SOAP
+billomat,Financial,eCommerce;Enterprise,Yes,XML;JSON;REST
+Google Sites,Tools,,Yes,XML
+Enthusem,Marketing/Advertising,Cloud;Enterprise;Enterprise;Cloud;Video,Yes,JSON;REST
+Amazon CloudWatch,Cloud,,Yes,XML;REST;SOAP
+Sensebot,Search,Analytics,SSL_Support_Details_Unavailable,XML;REST;SOAP
+Norway Weather,Weather,,SSL_Support_Details_Unavailable,XML;REST
+PostalMethods,Blogging/Chat/Messaging,Enterprise;Enterprise,Yes,XML;SOAP
+Scribd iPaper,Enterprise,,No,
+Geograph,Photos,,No,RSS;KML;REST
+SimpleAPI,Photos,,No,REST
+LibraryThing,Reference,Books,No,XML;Text;REST
+Windows Live ID Web Authentication,Security,,SSL_Support_Details_Unavailable,
+Ordnance Survey OpenSpace,Mapping,,SSL_Support_Details_Unavailable,
+Garmin MotionBased,Sports,Mapping,SSL_Support_Details_Unavailable,JSON;JSONP;XML;SOAP;REST
+NetSuite,Enterprise,,SSL_Support_Details_Unavailable,SOAP
+Snipshot,Photos,,No,HTTP
+Blinksale,Financial,Enterprise,No,XML;REST
+Yahoo BBauth,Security,,Yes,XML;REST
+Akismet,Blogging/Chat/Messaging,,No,REST
+EditGrid,Enterprise,,SSL_Support_Details_Unavailable,XML;SOAP;REST
+Weblogs,Blogging/Chat/Messaging,,SSL_Support_Details_Unavailable,XML;REST
+ZeeMaps,Mapping,,No,Text;REST;SOAP
+ESV Bible Lookup,Reference,Books,No,XML;REST;SOAP
+Bing Search,Search,Cloud;Cloud,Yes,HTTP;JSON;XML
+ElasticSearch,Enterprise,Cloud;Search,Yes,HTTP;JSON;REST
+Scribble Maps,Mapping,Social;Social,SSL_Support_Details_Unavailable,JSON;REST
+Giphy,Search,Photos,SSL_Support_Details_Unavailable,JSON;REST
+DatumBox,Tools,Education,No,JSON;HTTP
+VirCurEx,Financial,,Yes,XML;JSON;REST
+import.io,Analytics,Database;Tools,Yes,JSON;REST
+HighCharts,Tools,Analytics;Analytics;Analytics;Photos,SSL_Support_Details_Unavailable,
+Images,Photos,,SSL_Support_Details_Unavailable,XML;JSON;HTTP
+Google Civic Information,Government,Reference,Yes,JSON;REST
+Smart-IP Geo-IP,Mapping,,SSL_Support_Details_Unavailable,XML;JSON;REST
+LocalSchoolDirectory,Reference,Search;Education,No,XML;JSON;REST
+TelAPI,Telephony,Blogging/Chat/Messaging;Communications;Blogging/Chat/Messaging,Yes,XML;JSON;REST
+Plunker,Tools,Social,No,JSON;REST
+Semantria,Tools,Analytics,Yes,XML;JSON;REST
+Amazon DynamoDB,Database,,Yes,JSON;REST
+AerisWeather,Weather,,Yes,JSON;JSONP;REST
+PubNub JavaScript Push,Blogging/Chat/Messaging,Search;Cloud,Yes,JSON
+Bitcoin Charts / Markets,eCommerce,Analytics,No,JSON;CSV;HTTP
+DealSurf,eCommerce,,SSL_Support_Details_Unavailable,JSON;REST
+Zoopla,Real Estate,Mapping,SSL_Support_Details_Unavailable,XML;JSON;REST
+NYC Open Data,Government,,SSL_Support_Details_Unavailable,XML;JSON;RDF;REST
+Framey,Video,Communications;Communications,No,JSON;REST
+Bing Maps Routes,Mapping,,Yes,XML;JSON;JSONP;REST;SOAP
+Unofficial IMDb,Reference,,No,JSON;JSONP;XML;HTTP
+Aviary Web,Photos,Tools,SSL_Support_Details_Unavailable,
+PLoS Search,Reference,,SSL_Support_Details_Unavailable,JSONP
+Google Cloud Print,Enterprise,Cloud,SSL_Support_Details_Unavailable,XML;JSON;XMPP
+PriceSpin,eCommerce,,SSL_Support_Details_Unavailable,XML;REST
+Yummly,Search,Analytics,No,JSON;REST
+Context.IO,Communications,Enterprise,Yes,JSON;REST
+Weather Central,Weather,,SSL_Support_Details_Unavailable,XML;REST
+awe.sm,Social,Analytics,Yes,JSON;REST
+RetailMeNot.com Community Ideas,eCommerce,,No,JSON;REST
+Plancast,Social,Mapping;Events,No,JSON;JSONP;REST
+Mochi Media Flash Games,Games,,SSL_Support_Details_Unavailable,JSON;Atom;REST
+Softonic,Reference,,No,XML;JSON;REST
+Primal,Search,Analytics;Recommendations,Yes,JSON;RSS;REST
+FreebieSMS,Blogging/Chat/Messaging,Telephony,SSL_Support_Details_Unavailable,XML;SOAP
+MapQuest Geocoding,Mapping,,No,XML;JSON;JSONP;REST
+Qwerly,Social,Search,No,JSON;REST
+Mailgun,Communications,,Yes,JSON;REST
+Quova,Mapping,,SSL_Support_Details_Unavailable,XML;REST
+Imgur,Photos,Social,SSL_Support_Details_Unavailable,XML;JSON;REST
+MapMyFitness,Health/Medicine,Sports,Yes,JSON;REST;Text;XML
+Adility,eCommerce,Enterprise,SSL_Support_Details_Unavailable,XML;JSON;REST
+Mapfluence,Mapping,Analytics,No,JSON;REST
+LyrDB,Music,Search;Database,No,Text;REST
+Google Storage,Cloud,,Yes,XML;REST
+Payments Gateway,eCommerce,Financial,Yes,XML;SOAP
+HipChat,Blogging/Chat/Messaging,,Yes,JSON;REST;XML
+OneLogin,Security,Enterprise;Cloud;Enterprise,Yes,XML;REST
+Jamendo,Music,,No,XML;JSON;REST
+Recurly,eCommerce,Enterprise,Yes,XML;REST
+PDF Generator,Enterprise,,No,SOAP
+Viralheat,Social,Analytics;Enterprise,SSL_Support_Details_Unavailable,XML;REST
+Wordnik,Reference,,No,XML;JSON;REST
+Playme,Music,eCommerce;Communications,No,XML;JSON;JSONP;REST
+Whois,Tools,,No,XML;JSON;REST
+Drawloop,Enterprise,,Yes,XML;JSON;SOAP;REST
+Education.com,Education,Reference,No,XML;JSON;REST
+Global Biodiversity Information Facility,Reference,,No,XML;REST
+Aviary Suite,Tools,Photos,SSL_Support_Details_Unavailable,REST
+Amplify,Analytics,,SSL_Support_Details_Unavailable,XML;JSON;SOAP;REST
+Tagalus,Social,Blogging/Chat/Messaging,No,JSON;XML;REST
+Stupeflix,Video,Photos;Music,Yes,XML;REST
+BatchBook,Enterprise,,Yes,REST;XML
+Foxrate,Financial,,No,XML
+Capitol Words,Government,,No,JSON;REST
+I Heart Quotes,Reference,,No,Text;REST
+Big Huge Thesaurus,Reference,,No,XML;JSON;JSONP;Text;REST
+WorldCat Search,Reference,Search;Books,No,RSS;Atom;REST
+Broadsoft Xtended,Telephony,Communications,Yes,XML;REST;SOAP
+Reuters Spotlight,News Services,,No,Atom;JSON;RSS;XML;REST
+DigitalBucket,Cloud,,Yes,XML;REST
+SpokenBuzz,Telephony,,SSL_Support_Details_Unavailable,XML;REST
+IMified,Blogging/Chat/Messaging,,SSL_Support_Details_Unavailable,HTTP
+USGS Elevation Query Service,Mapping,Government,No,XML;SOAP
+Mobivity,Blogging/Chat/Messaging,Mobile;Telephony,SSL_Support_Details_Unavailable,XML;RSS;REST
+StrikeIron IP Address Lookup,Reference,,SSL_Support_Details_Unavailable,JSON;XML;SOAP;REST
+MusicMobs,Music,,SSL_Support_Details_Unavailable,REST
+Mapstraction,Mapping,,SSL_Support_Details_Unavailable,
+Microsoft MSDN,Reference,,No,XML;SOAP
+Tailrank,Search,Blogging/Chat/Messaging;News Services,No,XML;REST
+Library of Congress SRW,Reference,Books,SSL_Support_Details_Unavailable,
+RxNLP - Cluster Sentences and Short Texts,Analytics,,No,HTTP;REST
+Mozscape,Marketing/Advertising,,Yes,XML
+Spotify Web,Music,Analytics,Yes,JSON;REST
+Bitfinex,Financial,,Yes,JSON;REST
+CaptchaCoin,Security,eCommerce;eCommerce,SSL_Support_Details_Unavailable,REST
+CryptoCoin Charts,Financial,,SSL_Support_Details_Unavailable,JSON;REST
+Hello Salut,Communications,Tools,Yes,JSON;REST
+Telize,Mapping,,SSL_Support_Details_Unavailable,JSON;JSONP;REST
+booli,Real Estate,Search,SSL_Support_Details_Unavailable,JSON;REST
+GovData,Government,Search,No,JSON;JSONP;HTTP
+figo connect,Financial,,Yes,JSON;REST
+Woot,eCommerce,,SSL_Support_Details_Unavailable,JSON;HTTP
+GeoNB,Mapping,Government,No,JSON;KML;REST
+Actual Reports,Enterprise,,Yes,JSON;REST
+Earth911 Search,Search,,SSL_Support_Details_Unavailable,JSON;REST
+Altmetric,Education,,SSL_Support_Details_Unavailable,JSON;JSONP;REST
+TomTom Geocoding,Mapping,,Yes,XML;REST
+sonicAPI.com,Music,Communications,No,JSON;REST
+ElderCare Locator,Search,Health/Medicine;Health/Medicine,No,XML;SOAP
+LaunchBit,Marketing/Advertising,Communications,No,JSON;REST
+Bitext,Communications,Blogging/Chat/Messaging;Analytics,SSL_Support_Details_Unavailable,XML;JSON;CSV;HTTP
+Paymentwall,Tools,eCommerce;eCommerce,SSL_Support_Details_Unavailable,XML;JSON;REST
+I Need a Bargain,eCommerce,,SSL_Support_Details_Unavailable,JSON;REST
+IP-API.com Geolocation,Tools,Mapping,SSL_Support_Details_Unavailable,XML;JSON;JSONP;CSV;REST
+FilePicker,Cloud,,SSL_Support_Details_Unavailable,
+MyNetDiary Food Search,Health/Medicine,,Yes,JSON;XML;REST;SOAP
+Acapela,Tools,Communications;Communications,SSL_Support_Details_Unavailable,
+US Census Bureau,Government,,No,JSON;JSONP;REST
+Gecko Landmarks,Telephony,Mapping;Mapping;Mobile,SSL_Support_Details_Unavailable,JSON;CSV;KML;HTTP
+Grove.io,Blogging/Chat/Messaging,Cloud;Social,Yes,JSON;HTTP
+Infogroup Infoconnect,Database,Marketing/Advertising;Analytics;Enterprise,Yes,XML;JSON;REST
+AbeBooks,Search,Books,SSL_Support_Details_Unavailable,XML
+PubNub,Blogging/Chat/Messaging,,Yes,JSON;JSONP;HTTP
+Health 2.0,Health/Medicine,,No,XML;JSON;REST;SOAP
+National Weather Service NDFD,Weather,Government,No,XML;SOAP;REST
+Numbers,Reference,,SSL_Support_Details_Unavailable,JSONP;REST
+SecureNet,eCommerce,,Yes,XML;SOAP
+HootSuite Engagement,Social,,Yes,JSON;REST
+Trailer Addict,Video,,No,XML;REST
+PeekYou Social Analytics,Social,Analytics,No,XML;JSON;REST
+Moonshadow Mobile,Reference,Analytics;Mapping,SSL_Support_Details_Unavailable,JSON
+TimeZoneDb,Reference,,SSL_Support_Details_Unavailable,XML;JSON;REST
+Edmunds.com Inventory,Reference,,No,JSON;JSONP;REST
+Bump,Telephony,Social;Mobile;Social,SSL_Support_Details_Unavailable,
+Idealista,Real Estate,Search,No,JSON;REST
+D&B; Direct,Reference,Enterprise,SSL_Support_Details_Unavailable,XML;REST
+Sensis Business Search,Reference,Search,SSL_Support_Details_Unavailable,JSON;REST
+Dance-Tunes,Music,Database,SSL_Support_Details_Unavailable,XML;REST
+Beatport,Music,Database,SSL_Support_Details_Unavailable,JSON;REST
+Brown Paper Tickets,Events,,Yes,XML;REST
+MongoLab,Database,Cloud;Cloud,Yes,JSON;REST
+FullContact Person,Social,Enterprise;Tools,Yes,JSON;REST;XML
+Sqoot,eCommerce,,SSL_Support_Details_Unavailable,JSON;REST
+TeamSnap,Sports,,SSL_Support_Details_Unavailable,
+Prosperent,Marketing/Advertising,,SSL_Support_Details_Unavailable,REST
+Agendize Action,Enterprise,Blogging/Chat/Messaging;Blogging/Chat/Messaging;Blogging/Chat/Messaging;Telephony,Yes,XML;REST
+Barcelona Bicing,Reference,,No,XML;JSON;REST
+Nike Plus,Sports,,SSL_Support_Details_Unavailable,XML;REST
+Dezrez,Real Estate,,SSL_Support_Details_Unavailable,XML;HTTP
+Venmo,eCommerce,Social,Yes,HTTP
+Dailymile,Sports,Social,Yes,JSON;JSONP;REST
+ActBlue,Government,Financial;Reference,Yes,XML;REST
+PagerDuty,Blogging/Chat/Messaging,,Yes,JSON;REST
+Dwolla,eCommerce,Financial;Mobile,Yes,JSON;REST;XML
+MapQuest Open Directions,Mapping,,SSL_Support_Details_Unavailable,JSON;JSONP;XML;REST
+Quizlet Flashcards,Education,Games,Yes,JSON;REST
+Semantic Contextual Advertising,Marketing/Advertising,Analytics,SSL_Support_Details_Unavailable,REST;SOAP
+FCC,Government,,SSL_Support_Details_Unavailable,XML;JSON;JSONP;REST
+Ookaboo,Photos,Analytics;Search,SSL_Support_Details_Unavailable,JSON;REST
+UK Postcodes,Reference,Search;Mapping;Mapping,No,XML;JSON;JSONP;CSV;RDF;REST
+Embedly,Video,Photos,No,JSON;REST;XML
+Campfire,Blogging/Chat/Messaging,Enterprise;Social,Yes,XML;JSON;REST
+Mobile Phone Megastore,eCommerce,Mobile;Search;Telephony,No,XML;REST
+Gengo Human Translation,Enterprise,eCommerce,No,JSON;XML;REST
+mite,Enterprise,,SSL_Support_Details_Unavailable,XML;JSON;REST
+UK Street Level Crime,Government,,No,JSON;REST
+Handset Detection,Telephony,Enterprise;Mobile,No,XML;JSON;REST
+Social Mention,Search,Social,No,JSON;REST
+TheTVDB.com,Video,,No,XML;REST
+VeryRelated Mind Maps Keyword,Analytics,Marketing/Advertising,SSL_Support_Details_Unavailable,XML;REST
+AddThis Analytics,Social,Analytics,Yes,JSON;JSONP;CSV;REST
+Victoria & Albert Museum,Education,Reference,No,XML;JSON;REST
+Cloudspeakers,Music,,No,XML;JSON;REST
+Wine.com,eCommerce,,No,XML;REST
+Voxeo,Telephony,Communications,SSL_Support_Details_Unavailable,XML
+Tagoo,Search,Communications;Video,Yes,XML;REST
+Payment Vision Pay,eCommerce,,Yes,XML;SOAP
+idiomag,Music,Photos;Video,Yes,XML;JSON;JSONP;RSS;REST
+IntelePeer,Telephony,Blogging/Chat/Messaging;Blogging/Chat/Messaging,SSL_Support_Details_Unavailable,XML;REST
+After the Deadline,Blogging/Chat/Messaging,Communications,No,XML;REST
+Qype,Recommendations,Mapping,No,XML;REST
+Doodle,Tools,,Yes,XML;REST
+Activ Financial,Enterprise,Financial,SSL_Support_Details_Unavailable,
+Science Museum,Education,Reference,No,XML;JSON;REST
+Campaign Monitor,Communications,Marketing/Advertising;Enterprise;Enterprise,No,XML;JSON;REST
+Fizber Neighborhoods,Real Estate,,No,XML;REST
+Open Library,Reference,Books;Search,No,JSON;JSONP;YAML;REST
+BeenVerified,Security,,Yes,XML;REST
+OpenSosius,Social,,SSL_Support_Details_Unavailable,XML
+Trendrr,News Services,Social;Analytics;Analytics,SSL_Support_Details_Unavailable,XML;REST
+Ifbyphone,Telephony,Enterprise;Enterprise,Yes,XML;REST
+QuickBase,Enterprise,,Yes,XML;REST
+OpenDOAR,Education,Reference,No,XML;REST
+Whereis,Mapping,,SSL_Support_Details_Unavailable,
+Democracy In Action,Government,,No,
+TheyWorkForYou,Government,,SSL_Support_Details_Unavailable,XML;JSON;JSONP;REST
+EarthTools,Tools,Mapping;Mapping,SSL_Support_Details_Unavailable,
+TypeKey,Security,,SSL_Support_Details_Unavailable,
+deCarta,Mapping,,SSL_Support_Details_Unavailable,XML;HTTP

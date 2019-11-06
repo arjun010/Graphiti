@@ -1,0 +1,11 @@
+.accepted{
+    opacity: 0.2;
+}
+
+.link {
+    stroke: #ccc;
+}
+
+.node text {
+    font: 10px sans-serif;
+}

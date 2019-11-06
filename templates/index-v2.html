@@ -1,0 +1,27 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="static/css/vendor/jquery-ui.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/src-v2/style.css">
+
+    <script type="text/javascript" src="../static/js/vendor/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="static/js/vendor/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../static/js/vendor/d3.min.js"></script>
+    <script type="text/javascript" src="../static/js/vendor/ial.js"></script>
+</head>
+<body>
+    <div style="margin: 10px">
+        Create link between <input type="text" class="nodeInputBox" id="nodeInputBox0"> and <input type="text" class="nodeInputBox" id="nodeInputBox1">
+    </div>
+    <div style="margin: 10px;height: 250px;" id="resultsDiv">
+        <div id="systemSuggestionsDiv" style="margin:2px;float: left;width: 49%;height: 100%;border: 1px solid gray;overflow: auto;"></div>
+        <div id="acceptedSuggestionsDiv" style="margin:2px;float: left;width: 49%;height: 100%;border: 1px solid gray;overflow: auto;"></div>
+        <button style="float: right;margin-right: 1.5%;" id="applyQuery">Apply</button>
+    </div>
+    <div style="border: 1px dashed orange;margin: 30px;" id="graphDiv"></div>
+</body>
+<script type="text/javascript" src="../static/js/src-v2/GraphRenderer.js"></script>
+<script type="text/javascript" src="../static/js/src-v2/main.js"></script>
+<script type="text/javascript">
+    main.init();
+</script>
+</html>

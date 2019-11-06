@@ -1,0 +1,282 @@
+// variables
+gs = #000
+for i in range(1,15)
+  push(gs, #111*i)
+
+// nav-height = 64px
+sidebar-width = 350px
+sidebar-padding = 10px
+sidebar-opacity = .3
+sidebar-docs-search-height = 24px
+
+navbar-top-height = 64px
+navbar-bottom-height = 370px
+navbar-bottom-container-height = navbar-bottom-height - 60px
+
+
+// functions
+vendor(prop, args)
+  -webkit-{prop} args
+  -moz-{prop} args
+  {prop} args
+
+box-shadow()
+  vendor('box-shadow', arguments)
+
+border-radius()
+  vendor('border-radius', arguments)
+
+
+
+// canvas & svg size
+#canvas, #spinner
+  position: fixed
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+
+#spinner span
+  font-size: 48pt
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%,-50%)
+
+svg.bgSvg
+  width 100%
+  height 100%
+  // network highlight
+  .node
+    fill-opacity 1
+    stroke-width 0
+    stroke-opacity .5
+    &.dim
+      fill-opacity .2
+    &.selected
+      stroke-width 10
+  .link
+    // stroke gs[6]
+    stroke-opacity .7
+    &.dim
+      stroke-opacity .1
+    &.selected
+      stroke-opacity 1
+  text
+    fill gs[6]
+    fill-opacity .8
+    &.dim
+      fill-opacity .1
+
+
+.navbar-fixed-top
+  .label
+    font-size 100%
+    margin-right 10px
+    position relative
+    top 1px
+  select
+    margin-right 10px
+
+.navbar-fixed-bottom
+  box-shadow 0 -1px 3px rgba(0,0,0,.3)
+  height navbar-bottom-height
+  .container-fluid
+    height 100%
+    .row
+      height 100%
+      .col-md-6
+        height 100%
+        &.bottom-left
+          border-right solid 1px gs[9]
+
+#handle-bottom
+  position fixed
+  left 50%
+  transform translate(-50%, 0%)
+  bottom navbar-bottom-height
+  background-color gs[14]
+  border-top solid 1px gs[12]
+  line-height 1.5
+  font-size 1.2em
+  padding 0
+  cursor ns-resize
+  // cursor hand
+  width 100%
+  text-align center
+  color gs[9]
+
+.ui-autocomplete
+  background white
+  padding-top 14px
+  max-height 300px
+  overflow-y auto
+  overflow-x hidden
+  // border-radius 0px
+
+// .ui-autocomplete.source:hover
+//   background #454545
+
+.ui-menu .ui-menu-item a
+  background red
+  height 10px
+  font-size 8px
+
+#bottom-left-toolbar
+  position fixed
+  left sidebar-docs-search-height
+  bottom navbar-bottom-height + sidebar-docs-search-height*2
+
+#opacity-control
+  position fixed
+  left sidebar-docs-search-height + 60px
+  width 300px
+  // height 35px * 4
+  bottom navbar-bottom-height + sidebar-docs-search-height*2
+  margin-bottom 0px
+  padding 15px
+  // border-radius(5px)
+  border solid 2px #ccc
+  background #f9f9f9
+
+#ex1Slider
+  width 266px
+  margin-bottom 15px
+  .slider-handle, .slider-selection
+    background steelblue
+  .slider-selection
+    opacity .7
+
+#ex2Slider
+  width 266px
+  margin-bottom 15px
+  .slider-handle, .slider-selection
+    background gray
+  .slider-selection
+    opacity .7
+
+#ex3Slider
+  width 266px
+  margin-bottom 15px
+  .slider-handle, .slider-selection
+    background maroon
+  .slider-selection
+    opacity .7
+
+// #ex1, #ex2, #ex3
+//   width 266px
+
+#visCanvas
+  position fixed
+  top navbar-top-height
+  left 0
+  right sidebar-width
+  bottom navbar-bottom-height
+
+#rightPanelTop
+  position fixed
+  top navbar-top-height
+  width sidebar-width
+  right 0
+  bottom navbar-bottom-height
+  overflow-y auto
+  overflow-x hidden
+  box-shadow -1px 0 1px rgba(0,0,0,.3)
+
+#linkingCriteriaEvidence
+  .label-default
+    color gray
+    background transparent
+    border solid 1px gray
+    margin-left 10px
+
+#linkingCriteriaSuggestionContainer
+  // border solid 1px gs[6]
+  margin-top 10px
+  height navbar-bottom-container-height
+  overflow-y auto
+  overflow-x hidden
+  
+  .systemSuggestion
+    padding 1px 5px
+    // font-weight normal
+    // color gs[3]
+    &:hover
+      color gs[0]
+      background-color gs[12]
+    u
+      color #1c94c4
+
+  .btn-group > .btn:first-child, .acceptSuggestion
+    // font-size 13.5px
+    text-transform none
+    margin-left .5em
+    // color gs[6]
+
+#manualQuerySpecifier
+  border solid #bbb 5px
+  padding 10px
+  margin 0px
+  background white
+
+#activeQueryContainer
+  height navbar-bottom-container-height
+  overflow-y auto
+  overflow-x hidden
+  
+  .ANDContainer
+    min-height 20px
+    list-style-type none
+    padding 5px
+    background #bbb
+    margin-bottom 10px
+    
+    .edgeTypeInputBox
+      width 12em
+    
+    .dropdown-toggle
+      padding 1px 10px
+      margin-top -4px
+      
+    .edgeTypeToggleButton
+      margin-top -5px
+      margin-right 10px
+      text-transform none
+    
+    .label.pull-right
+      border-radius(0)
+      font-size 120%
+    
+    .removeCondition
+      font-size 12px
+      text-transform none
+      
+    
+    li.queryCondition
+      padding 3px 10px
+      border 0px
+      font-weight 400
+      color gs[6]
+    
+    ul.dropdown-menu
+      li
+        a
+          padding 1px 10px
+
+// .ui-state-default
+  // font-weight normal
+  // color #000
+
+#nodeInputBox
+  width 20em
+  margin-right 3em
+
+#nodeDetailsDisplayDiv, #networkMetricsDisplayDiv
+  line-height 140%
+  padding-left 20px
+
+.label.drawn
+  font-size 100%
+
+#manualQueryAttrDropdown, #manualQueryConditionOperatorDropdown
+  border solid 3px #ccc
