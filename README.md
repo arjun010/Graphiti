@@ -23,6 +23,6 @@ Go to http://localhost:5000/ to run the system (preloaded with an imdb movies da
 
 **[Graphiti: Interactive Specification of Attribute-based Edges for Network Modeling and Visualization][project]**  
 Arjun Srinivasan, Hyunwoo Park, Alex Endert, Rahul C. Basole<br/>
-*IEEE Transactions on IEEE Transactions on Visualization and Computer Graphics, Jan 2018*<br/>
+*IEEE Transactions on Visualization and Computer Graphics (TVCG), Jan 2018*<br/>
 
 [project]:https://arjun010.github.io/projects/graphiti.html
