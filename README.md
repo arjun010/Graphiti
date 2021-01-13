@@ -11,7 +11,7 @@ virtualenv venv
 (venv) pip install -r requirements.txt
 ```
 
-Run app.py
+Run app.py (assumes `python3.x`)
 
 ```bash
 python app.py
