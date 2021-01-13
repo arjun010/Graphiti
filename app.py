@@ -624,8 +624,8 @@ def processCSV():
 	aggregationAttribute = request.form['aggregationAttribute']
 	linkingAttribute = request.form['linkingAttribute']
 
-	print dataDirectory
-	print "linkingAttribute: ", linkingAttribute
+	print(dataDirectory)
+	print("linkingAttribute: ", linkingAttribute)
 	
 	if dataDirectory == 'company':
 		pass
@@ -784,8 +784,8 @@ def processCSV():
 		    "movie_facebook_likes": "Number"
 		}
 
-	csvReader = csv.reader(open(APP_ROOT+"/static/data/"+dataDirectory+"/data.csv","rb"))
-	header = csvReader.next()
+	csvReader = csv.reader(open(APP_ROOT+"/static/data/"+dataDirectory+"/data.csv","r"))
+	header = next(csvReader)
 	dataList = []
 
 	attributeStatsMap = {}
