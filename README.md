@@ -4,20 +4,12 @@
 
 ## Running Locally
 
-Setup a virtual environment and within the virtual environment, install the required packages using requirements.txt file
+(Steps and prototype tested with python3.x)
 
-```bash
-virtualenv venv
-(venv) pip install -r requirements.txt
-```
-
-Run app.py (assumes `python3.x`)
-
-```bash
-python app.py
-```
-
-Go to http://localhost:5000/ to run the system (preloaded with an imdb movies dataset)
+1. Setup a virtual environment `virtualenv venv`. If you do not have the virtualenv command installed, refer to [this site](https://virtualenv.pypa.io/en/latest/installation.html). **Note**: This step is only needed the first time the setup is being performed.
+2. Activate the virtual environment (e.g., `source venv/bin/activate`), and install the required packages using `pip install -r requirements.txt`.
+3. Start the local server `python app.py`
+4. Go to http://localhost:5000/ to run the system (preloaded with an imdb movies dataset)
 
 ## Citation
 
