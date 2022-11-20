@@ -1,6 +1,6 @@
 import os,csv,json
 from flask import Flask, render_template, jsonify,request, session, redirect, url_for, _app_ctx_stack
-from flask.ext.compress import Compress
+from flask_compress import Compress
 import copy
 import json
 import re
